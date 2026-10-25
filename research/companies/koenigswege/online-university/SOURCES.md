@@ -724,10 +724,11 @@ Stand und Abruf: 25.10.2026. Unternehmensdarstellung, interne Regeln und eigene 
 - Herausgeber: Königswege / KWU-Materialablage
 - Stand: Drive geändert 2025-06-17T04:26:54.000Z
 - Abruf: 2026-10-25
-- Status: `limited_text_extraction`
-- Fundstelle / tatsächlicher Prüfumfang: Nur gelieferte Textausgabe mit Überschriften zu Zielen, Ängsten, Strategie und B1/P1.
-- Eigene Zusammenfassung: Themenfelder identifiziert; Textausgabe enthält kaum auswertbare Erklärungen.
-- Grenze: Bild-/Grafikinhalte und vollständige inhaltliche Aussage nicht geprüft; keine vollständige PDF-Auswertung.
+- Status: `visual_review`
+- Fundstelle / tatsächlicher Prüfumfang: Alle acht PDF-Seiten gerendert und visuell gelesen, einschließlich Grafiken und Tabellen.
+- Eigene Zusammenfassung: Hauptberuflichkeit über Ziele, Ängste, Strategie und B1/P1-Controlling; Beispiel 6.700 Euro Zieleinkommen, 20–40k Firmenumsatz, 6–12 Monatsgehälter bzw. 12 Monatskosten Puffer. Keine verbindlichen Karriere- oder Einkommenszusagen.
+- Grenze: Unterkanten von S. 5 und 7 im Original knapp/teilweise abgeschnitten; externe Exceldateien und Video nicht geprüft.
+- Quellenhash: `sha256:87edb9089b2f797517ad372b390b68d23e93aaba4c716e8aa1e1c53749f88d13`
 
 ## KW-OU-M005 · Beförderungsplanung
 
@@ -769,7 +770,7 @@ Stand und Abruf: 25.10.2026. Unternehmensdarstellung, interne Regeln und eigene 
 - Stand: Letzte Aktualisierung laut KWU: 05.05.26
 - Abruf: 2026-10-25
 - Status: `partial_activity_review`
-- Fundstelle / tatsächlicher Prüfumfang: Modulbeschreibung, zwölf Aktivitäten im Inhaltsverzeichnis und erste Videoeinbettung erfasst.
+- Fundstelle / tatsächlicher Prüfumfang: Modulbeschreibung, zwölf Aktivitäten im Inhaltsverzeichnis und erste Videoeinbettung erfasst. Ergänzung: Aktivität „Ursachen von Zögerlichkeit“ vollständig textlich gelesen, dann erste Szenario-Quizschranke; weitere Aktivitäten deaktiviert. Separate Materialkopien D021/D022 gelesen.
 - Eigene Zusammenfassung: Das Modul kündigt Ursachen von Zögerlichkeit, Vorabschluss, Temperaturtechnik und weitere Abschlusstechniken an.
 - Grenze: Keine inhaltliche Videoprüfung oder Freigabe dieser Techniken; spätere Lektionen nicht vollständig gelesen.
 
@@ -793,7 +794,7 @@ Stand und Abruf: 25.10.2026. Unternehmensdarstellung, interne Regeln und eigene 
 - Status: `partial_activity_review`
 - Fundstelle / tatsächlicher Prüfumfang: Modulbeschreibung, sechs Aktivitätstitel und vollständiger Einleitungstext zum Umgang mit Kündigungen gelesen.
 - Eigene Zusammenfassung: Einleitung betont informierte Kundenentscheidung und Ursachenklärung.
-- Grenze: Praxisbeispiel, weitere Fragen und Workbook nicht geprüft. Keine Kundendaten oder Falloriginale gespeichert.
+- Grenze: Nach Einleitung erste Richtig/Falsch-Frage; Praxisbeispiel, Bindungsaktivität und Workbook deaktiviert. Nichts eingereicht.
 
 ## KW-OU-R001 · KWU-Startseite
 
@@ -812,10 +813,10 @@ Stand und Abruf: 25.10.2026. Unternehmensdarstellung, interne Regeln und eigene 
 - Herausgeber: Königswege / bereitgestellte Drive-Ablage
 - Stand: Unterschiedlich datierte Arbeits-/Ausbildungsunterlagen
 - Abruf: 2026-10-25
-- Status: `partial_structure_inventory`
-- Fundstelle / tatsächlicher Prüfumfang: 24 direkte Einträge gelesen, ausgewählte Unterordner für Onboarding, Mentoren, Consulting, Führung und Organisation gelistet; gezielt registrierte Texte gelesen.
+- Status: `recursive_metadata_inventory`
+- Fundstelle / tatsächlicher Prüfumfang: 312 reguläre Ordner einschließlich Root rekursiv gelistet: 1417 Einträge, davon 1106 Dateien/Shortcuts und 311 Unterordner; siehe drive_inventory.json. 16 Shortcut-Ziele noch nicht aufgelöst.
 - Eigene Zusammenfassung: Materialablage enthält zusätzliche Präsentationen, Leitfäden und Transkripte. Separate Quelle, keine Garantie der Identität mit den aktuellen Live-Lektionen.
-- Grenze: Keine vollständige rekursive Inventarisierung oder Prüfung aller Dateien; Metadatenzugriff beweist keinen gelesenen Dateiinhalt.
+- Grenze: Vollständige rekursive Metadatenerfassung nur innerhalb erreichbarer regulärer Ordner; kein vollständiger Dateiinhaltreview, keine Addition zu 704 historischen Dateien.
 
 ## KW-OU-D010 · P1 Gespräch in Textform
 
@@ -835,7 +836,7 @@ Stand und Abruf: 25.10.2026. Unternehmensdarstellung, interne Regeln und eigene 
 - Stand: Veröffentlichungsdatum nicht ermittelt; Titel aus sichtbarer Einbettung, Transkript oder Dateimetadaten
 - Abruf: 2026-10-25
 - Status: `media_identified_not_reviewed`
-- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung.
+- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung. Nach Playerinitialisierung Transkript deaktiviert; keine Aussage fehlender allgemeiner Abspielbarkeit.
 - Eigene Zusammenfassung: Inhaltsprüfung offen.
 - Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet.
 
@@ -846,7 +847,7 @@ Stand und Abruf: 25.10.2026. Unternehmensdarstellung, interne Regeln und eigene 
 - Stand: Veröffentlichungsdatum nicht ermittelt; Titel aus sichtbarer Einbettung, Transkript oder Dateimetadaten
 - Abruf: 2026-10-25
 - Status: `media_identified_not_reviewed`
-- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung.
+- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung. Nach Playerinitialisierung Transkript und Untertitel deaktiviert; Dauer 1:47. Ton-/Bildprüfung nicht durchgeführt.
 - Eigene Zusammenfassung: Inhaltsprüfung offen.
 - Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet.
 
@@ -867,10 +868,10 @@ Stand und Abruf: 25.10.2026. Unternehmensdarstellung, interne Regeln und eigene 
 - Herausgeber: Königswege / KWU bzw. dort verlinkte Ablage
 - Stand: Veröffentlichungsdatum nicht ermittelt; Titel aus sichtbarer Einbettung, Transkript oder Dateimetadaten
 - Abruf: 2026-10-25
-- Status: `media_identified_not_reviewed`
-- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung.
-- Eigene Zusammenfassung: Inhaltsprüfung offen.
-- Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet.
+- Status: `transcript_review`
+- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung. Drive-Transkript nach Playerinitialisierung verfügbar: sämtliche Segmente 0:02–34:29 bei Laufzeit 34:34 textlich gelesen.
+- Eigene Zusammenfassung: Umfragen als Informations-/Netzwerkstrategie, PR-Story, kein Termin im ersten Interview, späterer Nutzen-/Termin-Call. Unbelegte Erfolgserwartung 60–70 Prozent positive Reaktion; vgl. D038–D040.
+- Grenze: Automatisches Transkript enthält hörbare-ähnliche Erkennungsfehler und Sprünge. Kein vollständiger Ton-/Bildabgleich.
 
 ## KW-OU-V006 · Teamführung – Commitments (Titel teils aus Kontext verkürzt)
 
@@ -1058,3 +1059,716 @@ Stand und Abruf: 25.10.2026. Unternehmensdarstellung, interne Regeln und eigene 
 - Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung.
 - Eigene Zusammenfassung: Inhaltsprüfung offen.
 - Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet.
+
+## KW-OU-D011 · B1 Gespräch – V7.1
+
+- URL: https://drive.google.com/file/d/1YeEfusLBawirpy9TVJtPIIrIWPO1Sqx4/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2026-07-29T07:28:58.933Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: 40 Folien einschließlich gelieferter Notiztexte textlich gelesen; visuelle Grafiken noch offen.
+- Eigene Zusammenfassung: Erstinformation, Bedarf/Erwartung, Rentenlücke, Immobilienvergleich, Arbeitskraftabsicherung, Lebensplanung und nächste Schritte. Zahlen und allgemeine Leistungs-/Steueraussagen sind Schulungsannahmen.
+- Grenze: Keine unabhängige fachliche, rechtliche oder wirtschaftliche Freigabe. Kein vollständiger Ton-/Bildreview; nur ausdrücklich benannter Textumfang.
+
+
+## KW-OU-D012 · Transkript: Aufbau des B1
+
+- URL: https://drive.google.com/file/d/1zRGhXiFnrWx4268HJCgc3ZKGRZZFvgR948_vue9HTrw/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2026-07-28T12:48:22.373Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Gesamter Transkripttext 0:01–3:09 gelesen.
+- Eigene Zusammenfassung: Standardisierung der ersten zehn B1; Anforderungsprofil, Money Mindset, Rentenlücke, Arbeitskraft und Dienstleistung vor Datenaufnahme. Immobilienüberleitung mit Führungskraft abstimmen.
+- Grenze: Keine unabhängige fachliche, rechtliche oder wirtschaftliche Freigabe. Kein vollständiger Ton-/Bildreview; nur ausdrücklich benannter Textumfang.
+
+
+## KW-OU-D013 · Beratungsskript B1–B4: Einleitung und Ausleitung
+
+- URL: https://drive.google.com/file/d/1bIG-stddf-tilnD9D-027VJVTrV_xtULsK2TSOT11jI/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2025-11-28T13:36:39.925Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Gesamter gelieferter Skripttext gelesen; live als zweite Aktivität von M012 verlinkt.
+- Eigene Zusammenfassung: B1 Budget/Ziele; B2 Konzeptvergleich; B3 Umsetzung; B4 Policen-/Datenkontrolle und Service. Zugleich Mini-Commitments und pauschale Flexibilitätsversprechen.
+- Grenze: Keine unabhängige fachliche, rechtliche oder wirtschaftliche Freigabe. Kein vollständiger Ton-/Bildreview; nur ausdrücklich benannter Textumfang.
+
+
+## KW-OU-D014 · Money Mindset – Transkript
+
+- URL: https://drive.google.com/file/d/1g3mq1PQLxWaPRcqXbJ39PegTbFHNPFPgynIiAJMDjxo/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2026-08-28T06:39:30.848Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Gesamter gelieferter Transkripttext gelesen; kein Ton-/Bildabgleich.
+- Eigene Zusammenfassung: Unabgezinste 40-Jahres-Nettogehaltssumme als Humankapital; Anleiheanalogie begründet offensive Anlage, Arbeitskraftabsicherung als Voraussetzung. Wissenschaftsverweis ohne genaue Studie.
+- Grenze: Keine unabhängige fachliche, rechtliche oder wirtschaftliche Freigabe. Kein vollständiger Ton-/Bildreview; nur ausdrücklich benannter Textumfang.
+
+
+## KW-OU-D015 · Wie funktioniert Geld? – Transkript
+
+- URL: https://drive.google.com/file/d/1l4uhVBV94A2DxejVRPPrnW4oPUyyfqc7l4yllO0CKEk/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2025-10-24T13:08:31.995Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Gesamter gelieferter Transkripttext gelesen; kein Ton-/Bildabgleich.
+- Eigene Zusammenfassung: Zeit gegen Geld, Inflation und passive Einnahmen; verwendet Vermögenswert/Verbindlichkeit im didaktischen Sinn, nicht als vollständige Bilanzdefinition; Absicherung und Rentenlücke.
+- Grenze: Keine unabhängige fachliche, rechtliche oder wirtschaftliche Freigabe. Kein vollständiger Ton-/Bildreview; nur ausdrücklich benannter Textumfang.
+
+
+## KW-OU-D016 · Referentenkodex KWU
+
+- URL: https://drive.google.com/file/d/1Fyv5T3wgda3-dt3tBCZ47zPe7WXXviAd/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2025-10-30T15:54:07.267Z
+- Abruf: 2026-10-25
+- Status: `visual_review`
+- Fundstelle / tatsächlicher Prüfumfang: Beide PDF-Seiten vollständig gerendert und visuell gelesen; Textabruf allein unbrauchbar.
+- Eigene Zusammenfassung: Vorbereitung, Vertretung, maximal fünf Minuten verspäteter Zutritt, Kamera/Schreibtisch/Notizen, keine Notetaker, respektvolles Feedback, Check-in-Anwesenheit. Erstvorbereitung mindestens zwei Stunden; Überzeugungsziel 10/10.
+- Grenze: Keine unabhängige fachliche, rechtliche oder wirtschaftliche Freigabe. Keine realen Schulungen beobachtet.
+- Quellenhash: `sha256:d919ce49fae78bb466cdc46fe2325491988605e6cf96b3844ab1201e370741fc`
+
+
+## KW-OU-D017 · Skript Budgetierung Finanzkonzept Kunde
+
+- URL: https://drive.google.com/file/d/1tfeF4STmQ31-DaL0ncaizGX_tekqJLoj/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2025-06-18T16:44:29.930Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Gesamter gelieferter PDF-Text gelesen; Layout/Grafiken nicht vollständig visuell geprüft.
+- Eigene Zusammenfassung: Absicherungsprioritäten; Schulden und Notgroschen vor Vermögensaufbau; Orientierungsbudgets und Sparraten. Pflichtformulierung ohne Budgetdiskussion steht neben behaupteter Individualisierung.
+- Grenze: Keine unabhängige fachliche, rechtliche oder wirtschaftliche Freigabe. Kein vollständiger Ton-/Bildreview; nur ausdrücklich benannter Textumfang.
+
+
+## KW-OU-D018 · ETF-Police verkaufen Stage I – Verkaufsskript
+
+- URL: https://drive.google.com/file/d/1v1x1qXOvIhRh1waJi4SzZ6UCCio45Bze_aoQ4lfkb38/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2026-08-31T09:09:36.016Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Wörtliches und grobes Skript vollständig textlich gelesen.
+- Eigene Zusammenfassung: Drei Zeithorizonte; Notgroschen zuerst; langfristig Police/Immobilie, mittelfristig Depot. Behauptete durchschnittliche Steuerersparnis von 40 Prozent ist keine individuelle Vergleichsrechnung.
+- Grenze: Keine unabhängige fachliche, rechtliche oder wirtschaftliche Freigabe. Kein vollständiger Ton-/Bildreview; nur ausdrücklich benannter Textumfang.
+
+
+## KW-OU-D019 · ETF-Police verkaufen Stage II – Verkaufsskript
+
+- URL: https://drive.google.com/file/d/1LPevWzCqS_x8q3yl_8l2P9axawVyoyiEplHjHWWipoY/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2026-08-28T10:24:07.018Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Wörtliches und grobes Skript vollständig textlich gelesen; schematische Grafik nicht vollständig visuell geprüft.
+- Eigene Zusammenfassung: Formel-1-Vergleich erklärt Steuerstundung und frühe Abschlusskosten; pauschaler langfristiger Sieg der Police und 15–20-/20-Jahres-Schwelle ohne konkreten Vollkostenvergleich.
+- Grenze: Keine unabhängige fachliche, rechtliche oder wirtschaftliche Freigabe. Kein vollständiger Ton-/Bildreview; nur ausdrücklich benannter Textumfang.
+
+
+## KW-OU-D020 · VV-Depot – Verkaufsskript
+
+- URL: https://drive.google.com/file/d/18t3MlBHhmPB3sJM1e6-OpwMu-2aV3vLXnr-wiZfS5Uc/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2026-03-31T06:34:00.077Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Gesamter gelieferter Skripttext gelesen.
+- Eigene Zusammenfassung: Notgroschen, Horizonte und Risikoprofile 50/70/90 Prozent Aktien; 0,93 Prozent laufend plus 25–45 Euro jährlich genannt. Automatisierte Verwaltung und Tippgeber-Link; keine Kostenfreigabe oder Eignungsvalidierung.
+- Grenze: Keine unabhängige fachliche, rechtliche oder wirtschaftliche Freigabe. Kein vollständiger Ton-/Bildreview; nur ausdrücklich benannter Textumfang.
+
+
+## KW-OU-D021 · Abschluss im B2 oder Vorverkauf B3
+
+- URL: https://drive.google.com/file/d/1VX68Pm4X5Z_PrWNORsM0aWGWJ_j9TtxKxeJziPtgEuA/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2026-02-12T13:29:34.441Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Gesamter gelieferter Text gelesen; separate berechtigt zugängliche Materialkopie zu M008.
+- Eigene Zusammenfassung: Konzept/Budget nochmals bestätigen; direkte Umsetzung oder Follow-up mit Bedenkzeit, Fragen und weiterer Runde. Keine allgemeine Regel eines erzwungenen Sofortabschlusses.
+- Grenze: Keine unabhängige fachliche, rechtliche oder wirtschaftliche Freigabe. Kein vollständiger Ton-/Bildreview; nur ausdrücklich benannter Textumfang.
+
+
+## KW-OU-D022 · Abschlusstechniken – Blockausbildung 2025
+
+- URL: https://drive.google.com/file/d/1BdML9IzbUCf6VPZP-iSPZTb9KOxfzvla/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2025-03-31T07:43:45.806Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Alle gelieferten Folientexte und Notizen gelesen; keine vollständige visuelle Prüfung.
+- Eigene Zusammenfassung: Zögerlichkeit, Bedingungsfragen, Temperatur-, Zeitreise- und Hypno-Muster. Eine Variante aktiviert bei Schweigen, eine andere verlangt ausdrückliches Go; konkrete Spannung im Material.
+- Grenze: Keine unabhängige fachliche, rechtliche oder wirtschaftliche Freigabe. Kein vollständiger Ton-/Bildreview; nur ausdrücklich benannter Textumfang.
+
+
+## KW-OU-D023 · Schwarzes M – Ansprache im B1
+
+- URL: https://drive.google.com/file/d/1t5Ny2SmyQVilyx2jL48UYGwDu7Ywipw925KjHwdTK-o/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2026-08-19T13:12:12.654Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Gesamter gelieferter Transkript-/Skripttext gelesen.
+- Eigene Zusammenfassung: Empfehlungen engster Angehöriger über Pflege-, Erwerbsunfähigkeits- und Unterstützungsszenarien vorbereiten. Rechts-/Sozialleistungs- und Marktbehauptungen nicht unabhängig bestätigt.
+- Grenze: Keine unabhängige fachliche, rechtliche oder wirtschaftliche Freigabe. Kein vollständiger Ton-/Bildreview; nur ausdrücklich benannter Textumfang.
+
+
+## KW-OU-D024 · Schwarzes M – Ansprache im B2/B3
+
+- URL: https://drive.google.com/file/d/15-5TQwF-87hZ7JS7Gb_fykZfwzOrRKJDzJ2ZDO6Cs-E/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2026-08-19T13:06:40.760Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Gesamter gelieferter Text gelesen.
+- Eigene Zusammenfassung: Wiederholte Erinnerung an Familienrisiken und separaten Empfehlungstermin; dient der Kontinuität der Empfehlungsansprache.
+- Grenze: Keine unabhängige fachliche, rechtliche oder wirtschaftliche Freigabe. Kein vollständiger Ton-/Bildreview; nur ausdrücklich benannter Textumfang.
+
+
+## KW-OU-D025 · Schwarzes M – Empfehlungstermin
+
+- URL: https://drive.google.com/file/d/17vN4ymZ3ve02R0toHja_-JYT1etpBwoIhvAaC4BpBR8/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2026-08-19T13:36:34.253Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Gesamter gelieferter Skripttext gelesen; Beispielpersonen und Einzelfalldaten nicht übernommen.
+- Eigene Zusammenfassung: Vorher-/Nachher-Nutzen zeigen, Familiennetz erfassen und Telefonnummern erfragen. Wunsch des Kunden nach vorherigem eigenem Gespräch wird als Einwand behandelt; keine belegte Kontakterlaubnis der Dritten.
+- Grenze: Keine unabhängige fachliche, rechtliche oder wirtschaftliche Freigabe. Kein vollständiger Ton-/Bildreview; nur ausdrücklich benannter Textumfang.
+
+
+## KW-OU-D026 · Content-Creator-Checkliste: Beratungsdokumentation
+
+- URL: https://drive.google.com/file/d/1prU3rQHni7a_je0SULxaBUOAwrzX0RHh9gP0gum4b7A/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2024-10-25T13:45:32.531Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Gesamte Textausgabe einschließlich Metadaten gelesen; enthaltenen Fragenkatalog weder verwendet noch gespeichert.
+- Eigene Zusammenfassung: Sieben Videos, Übung in fb-expert, jährliches Review vorgesehen. Fachprüfung angegeben, technisch/didaktische Prüfung im Feld leer; letzte inhaltliche Aktualisierung 11.10.2024.
+- Grenze: Keine unabhängige fachliche, rechtliche oder wirtschaftliche Freigabe. Kein vollständiger Ton-/Bildreview; nur ausdrücklich benannter Textumfang.
+
+
+## KW-OU-D027 · E-Mail-Vorlagen – Risikovoranfragen
+
+- URL: https://drive.google.com/file/d/1j3fi6czQ2TrUBbzCC-LFwU3AdimYmCAc/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2026-10-07T13:43:17.373Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Gesamter DOCX-Text mit vier Vorlagen und Unterlagenmatrix gelesen.
+- Eigene Zusammenfassung: Kundenfragebogen, Kassen-/Arztanforderung und Erinnerung. Bereits im Dokument offener Widerspruch: Zahnbehandlungen in Kassenanforderung ausgenommen, in Plausibilitätsfrage erfasst.
+- Grenze: Keine unabhängige fachliche, rechtliche oder wirtschaftliche Freigabe. Kein vollständiger Ton-/Bildreview; nur ausdrücklich benannter Textumfang.
+
+
+## KW-OU-D028 · GwG-Grundlagenschulung intern 26.0
+
+- URL: https://drive.google.com/file/d/141K-OdUQpI6giDWodhgcMsTPYAM9Lev2/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2026-02-11T16:25:17.000Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Gesamte gelieferte Textausgabe, Seiten 1–41, gelesen; grafische und audiovisuelle Inhalte offen.
+- Eigene Zusammenfassung: Mitarbeiterfassung: Geldwäsche/Terrorismusfinanzierung, KYC, Ausweismerkmale, Mittelherkunft, Warnfälle, goAML und Behörden. Keine Gleichsetzung mit Partnerpflichtpfad.
+- Grenze: Keine unabhängige fachliche, rechtliche oder wirtschaftliche Freigabe. Kein vollständiger Ton-/Bildreview; nur ausdrücklich benannter Textumfang.
+
+
+## KW-OU-D029 · GwG-Grundlagenschulung extern
+
+- URL: https://drive.google.com/file/d/1Lt0XUT7q6n629a-spv4EHmzIfITYJ9Tr/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2026-07-21T13:21:56.036Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Gesamte gelieferte Textausgabe, Seiten 1–41, gelesen; grafische Inhalte offen.
+- Eigene Zusammenfassung: Partnerfassung mit Risikoanalyse, KYC, Identifikation, Mittelherkunft, Verdachtsmeldung und Behörden. Interne Schwellen nicht automatisch allgemeine gesetzliche Freigrenzen.
+- Grenze: Keine unabhängige fachliche, rechtliche oder wirtschaftliche Freigabe. Kein vollständiger Ton-/Bildreview; nur ausdrücklich benannter Textumfang.
+
+
+## KW-OU-D030 · GwG-Vertiefungsschulung extern 26.0
+
+- URL: https://drive.google.com/file/d/1BhO0P42Dx-NRVxT2tHHE7e2UgoRFxdrH/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2026-03-26T06:18:32.000Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Gesamte gelieferte Textausgabe, Seiten 1–35, gelesen; grafische und audiovisuelle Inhalte offen.
+- Eigene Zusammenfassung: Red Flags ausdrücklich Warnsignal statt Beweis; dokumentieren, nicht informieren, beraten lassen. Identifikationsqualität, Prüfgrenzen und EU-Ausblick mit eigenem Aktualitätsbedarf.
+- Grenze: Keine unabhängige fachliche, rechtliche oder wirtschaftliche Freigabe. Kein vollständiger Ton-/Bildreview; nur ausdrücklich benannter Textumfang.
+
+
+## KW-OU-D031 · Teamführung V1.1 – Präsentation
+
+- URL: https://drive.google.com/file/d/1uJdGdKWDP0XmpRAqQPnzQTXBQPjrWn3T/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2025-03-31T14:08:51.000Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Alle gelieferten Folientexte/Notizen gelesen; grafischer und Video-Abgleich offen.
+- Eigene Zusammenfassung: Text bestätigt D003: freiwillige Commitments ohne Weisungsbefugnis, täglicher Geschäftskontakt, gemeinsame/dritte Hilfe, Exit. Gleiche Beispielquoten, daher keine unabhängige Evidenz.
+- Grenze: Keine unabhängige fachliche, rechtliche oder wirtschaftliche Freigabe. Kein vollständiger Ton-/Bildreview; nur ausdrücklich benannter Textumfang.
+
+
+## KW-OU-L001 · Risikovoranfragen: Das Arztgespräch: Attest & Fehldiagnose
+
+- URL: https://drive.google.com/file/d/100daO11SKuPq1kLFHvayfx2Gyz_rRl2u/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Archivdateien überwiegend 07.10.2026; Drive geändert 2026-10-07T10:27:52.515Z
+- Abruf: 2026-10-25
+- Status: `scoped_static_package_review`
+- Fundstelle / tatsächlicher Prüfumfang: Alle 6 Folien über OCR, Alternativtexte und vorhandene Notizen textlich gelesen; ausgewählte kritische Folien zusätzlich visuell kontrolliert. Keine Ausführung des SCORM-Pakets und kein Abschlusstest.
+- Eigene Zusammenfassung: Drei Klärungswege für unzutreffende Diagnosen; Arztkontakt mit Schweigepflichtsentbindung, Kosteninformation und schriftlichem Attest; freundlich statt Drohung.
+- Grenze: OCR kann Zeichen/Layout verlieren. Kein vollständiger visueller oder Live-Versionsabgleich; Live LE1.1 meldet Aktualisierung 22.10.2026. Fragen/Antwortschlüssel nicht ins Repository übernommen.
+- Quellenhash: `sha256:ada39e957f48c6c2aebf86bb94e1e85b2811e572c6bcfd932b4cf4887b7404b6`
+
+
+## KW-OU-L002 · Risikovoranfragen: Votenanalyse & Nachverhandlung (BU vs. PKV)
+
+- URL: https://drive.google.com/file/d/13a9EQdqwYBa9g1CV-sLuQXayJYO8L9QV/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Archivdateien überwiegend 07.10.2026; Drive geändert 2026-10-07T10:27:55.221Z
+- Abruf: 2026-10-25
+- Status: `scoped_static_package_review`
+- Fundstelle / tatsächlicher Prüfumfang: Alle 5 Folien über OCR, Alternativtexte und vorhandene Notizen textlich gelesen; ausgewählte kritische Folien zusätzlich visuell kontrolliert. Keine Ausführung des SCORM-Pakets und kein Abschlusstest.
+- Eigene Zusammenfassung: Normalannahme/Zuschlag/Ausschluss vergleichen, Nachverhandlung und Nachschau schriftlich; pauschale Drei-Jahres-PKV-Regel fachlich abzugleichen.
+- Grenze: OCR kann Zeichen/Layout verlieren. Kein vollständiger visueller oder Live-Versionsabgleich; Live LE1.1 meldet Aktualisierung 22.10.2026. Fragen/Antwortschlüssel nicht ins Repository übernommen.
+- Quellenhash: `sha256:7759bfc653241838ed17b19fde22b8e3c9c3f78bfb334d5298af70279207d3cb`
+
+
+## KW-OU-L003 · Risikovoranfragen: Der Weg für GKV-Versicherte: Patientenquittung
+
+- URL: https://drive.google.com/file/d/15N9ioL9FraZ4E_zpDkwcWEBzPBZaLubh/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Archivdateien überwiegend 07.10.2026; Drive geändert 2026-10-07T10:27:48.757Z
+- Abruf: 2026-10-25
+- Status: `scoped_static_package_review`
+- Fundstelle / tatsächlicher Prüfumfang: Alle 4 Folien über OCR, Alternativtexte und vorhandene Notizen textlich gelesen; ausgewählte kritische Folien zusätzlich visuell kontrolliert. Keine Ausführung des SCORM-Pakets und kein Abschlusstest.
+- Eigene Zusammenfassung: Patientenquittung durch Kunden anfordern; sechs Schritte, erst benötigte Unterlagen klären; Vorlage 10 Jahre stationär/5 ambulant, Zahn ausgenommen.
+- Grenze: OCR kann Zeichen/Layout verlieren. Kein vollständiger visueller oder Live-Versionsabgleich; Live LE1.1 meldet Aktualisierung 22.10.2026. Fragen/Antwortschlüssel nicht ins Repository übernommen.
+- Quellenhash: `sha256:89b052a76c978f81577f32476be7fb85de03521ead7033993da6d7383ad840d3`
+
+
+## KW-OU-L004 · Risikovoranfragen: „Storytelling“ & persönliche Eigenerklärungen
+
+- URL: https://drive.google.com/file/d/16tOP7_gp-TI7osh34y30e3TJZu_SZuP0/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Archivdateien überwiegend 07.10.2026; Drive geändert 2026-10-07T10:27:53.052Z
+- Abruf: 2026-10-25
+- Status: `scoped_static_package_review`
+- Fundstelle / tatsächlicher Prüfumfang: Alle 4 Folien über OCR, Alternativtexte und vorhandene Notizen textlich gelesen; ausgewählte kritische Folien zusätzlich visuell kontrolliert. Keine Ausführung des SCORM-Pakets und kein Abschlusstest.
+- Eigene Zusammenfassung: Eigenerklärung ergänzt medizinische Akte um Lebenskontext; Normalannahme als behauptete Wirkung, keine validierte Erfolgsquote.
+- Grenze: OCR kann Zeichen/Layout verlieren. Kein vollständiger visueller oder Live-Versionsabgleich; Live LE1.1 meldet Aktualisierung 22.10.2026. Fragen/Antwortschlüssel nicht ins Repository übernommen.
+- Quellenhash: `sha256:bd719021b46cc5fe1974d471ec36d30a6c127e53fba339a43cf93b9d8c62aa28`
+
+
+## KW-OU-L005 · Risikovoranfragen: Vertriebliches Framing & Erwartungsmanagement
+
+- URL: https://drive.google.com/file/d/17qfzNKbngbiHVLE4AaDob4kQN7rD5AwI/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Archivdateien überwiegend 07.10.2026; Drive geändert 2026-10-07T09:25:36.573Z
+- Abruf: 2026-10-25
+- Status: `scoped_static_package_review`
+- Fundstelle / tatsächlicher Prüfumfang: Alle 10 Folien über OCR, Alternativtexte und vorhandene Notizen textlich gelesen; ausgewählte kritische Folien zusätzlich visuell kontrolliert. Keine Ausführung des SCORM-Pakets und kein Abschlusstest.
+- Eigene Zusammenfassung: Hohe Einstiegshürde als Qualitätsmerkmal; Gesundheitsfragebogen, keine Eigenfilterung, VVA-Aufklärung. Verwendet weitreichende Leistungs-/Beitragsstabilitätszusagen.
+- Grenze: OCR kann Zeichen/Layout verlieren. Kein vollständiger visueller oder Live-Versionsabgleich; Live LE1.1 meldet Aktualisierung 22.10.2026. Fragen/Antwortschlüssel nicht ins Repository übernommen.
+- Quellenhash: `sha256:481dfee5622adba1dbe6dbad086b2ce50143b6669e6d819524d975e1f4d148e8`
+
+
+## KW-OU-L006 · Risikovoranfragen: Arbeiten mit Zusatzfragebögen in vers.diagnose
+
+- URL: https://drive.google.com/file/d/1BXozH1Jq4J_3Fux2ohCtJ23H5xAN4cro/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Archivdateien überwiegend 07.10.2026; Drive geändert 2026-10-07T10:27:47.069Z
+- Abruf: 2026-10-25
+- Status: `scoped_static_package_review`
+- Fundstelle / tatsächlicher Prüfumfang: Alle 3 Folien über OCR, Alternativtexte und vorhandene Notizen textlich gelesen; ausgewählte kritische Folien zusätzlich visuell kontrolliert. Keine Ausführung des SCORM-Pakets und kein Abschlusstest.
+- Eigene Zusammenfassung: Ein bis zwei Zusatzbögen digital, ab drei manuelle Voranfrage.
+- Grenze: OCR kann Zeichen/Layout verlieren. Kein vollständiger visueller oder Live-Versionsabgleich; Live LE1.1 meldet Aktualisierung 22.10.2026. Fragen/Antwortschlüssel nicht ins Repository übernommen.
+- Quellenhash: `sha256:248f5ad4a493b78ba76fcf9c9e02d75137eb28e9c7fa0c044bfe03bb9fc615d8`
+
+
+## KW-OU-L007 · Risikovoranfragen: Standard-Prozess & Einstiegsregel
+
+- URL: https://drive.google.com/file/d/1GZu5iLX9_WvwcqTpdCHkiXHOQsiaykVS/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Archivdateien überwiegend 07.10.2026; Drive geändert 2026-10-07T10:27:46.604Z
+- Abruf: 2026-10-25
+- Status: `scoped_static_package_review`
+- Fundstelle / tatsächlicher Prüfumfang: Alle 4 Folien über OCR, Alternativtexte und vorhandene Notizen textlich gelesen; ausgewählte kritische Folien zusätzlich visuell kontrolliert. Keine Ausführung des SCORM-Pakets und kein Abschlusstest.
+- Eigene Zusammenfassung: vers.diagnose als Standardstart, Ausnahme mehrere zeitgleiche Großdiagnosen.
+- Grenze: OCR kann Zeichen/Layout verlieren. Kein vollständiger visueller oder Live-Versionsabgleich; Live LE1.1 meldet Aktualisierung 22.10.2026. Fragen/Antwortschlüssel nicht ins Repository übernommen.
+- Quellenhash: `sha256:c0d4954ff2468e8301de6ce45c2c8b588d0d0daa101f740e7480c46920a7d19e`
+
+
+## KW-OU-L008 · Risikovoranfragen: Unterlagen & Arztberichte gezielt anfordern
+
+- URL: https://drive.google.com/file/d/1GzT3ftvbNZ5QYuk1v94rMwCgUGw2Gm18/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Archivdateien überwiegend 07.10.2026; Drive geändert 2026-10-07T10:27:51.439Z
+- Abruf: 2026-10-25
+- Status: `scoped_static_package_review`
+- Fundstelle / tatsächlicher Prüfumfang: Alle 7 Folien über OCR, Alternativtexte und vorhandene Notizen textlich gelesen; ausgewählte kritische Folien zusätzlich visuell kontrolliert. Keine Ausführung des SCORM-Pakets und kein Abschlusstest.
+- Eigene Zusammenfassung: Nur vorab abgestimmte Arztunterlagen anfordern; 5-W-Schema, Einsichtsrecht und Erinnerung; Kostenangabe zur Aktenkopie gesondert prüfen.
+- Grenze: OCR kann Zeichen/Layout verlieren. Kein vollständiger visueller oder Live-Versionsabgleich; Live LE1.1 meldet Aktualisierung 22.10.2026. Fragen/Antwortschlüssel nicht ins Repository übernommen.
+- Quellenhash: `sha256:9711c7fd9c42870753a3c801ae51407121452d626bb3753bf5adf6e603fe2f2e`
+
+
+## KW-OU-L009 · Risikovoranfragen: Strategische Platzierung: Qualität vor Massen-Anfragen
+
+- URL: https://drive.google.com/file/d/1MFT8VlgeGRm6wITe-CgQPU9Ff7LkkO9U/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Archivdateien überwiegend 07.10.2026; Drive geändert 2026-10-07T10:27:53.830Z
+- Abruf: 2026-10-25
+- Status: `scoped_static_package_review`
+- Fundstelle / tatsächlicher Prüfumfang: Alle 5 Folien über OCR, Alternativtexte und vorhandene Notizen textlich gelesen; ausgewählte kritische Folien zusätzlich visuell kontrolliert. Keine Ausführung des SCORM-Pakets und kein Abschlusstest.
+- Eigene Zusammenfassung: Gezielte anonymisierte Anfragen bei maximal drei bis vier Versicherern und direkter Kontakt; behauptete 2–4-Prozent-Quote unbelegt.
+- Grenze: OCR kann Zeichen/Layout verlieren. Kein vollständiger visueller oder Live-Versionsabgleich; Live LE1.1 meldet Aktualisierung 22.10.2026. Fragen/Antwortschlüssel nicht ins Repository übernommen.
+- Quellenhash: `sha256:8af0533eade27b45bebc3101bb82ea5a02ed4954df5bd5936b564bcfed705cda`
+
+
+## KW-OU-L010 · Risikovoranfragen: Wann du auf die manuelle RVA wechselst
+
+- URL: https://drive.google.com/file/d/1VsYlrbBQIlPyA5emoXvudzVO-woO4glw/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Archivdateien überwiegend 07.10.2026; Drive geändert 2026-10-07T10:27:47.942Z
+- Abruf: 2026-10-25
+- Status: `scoped_static_package_review`
+- Fundstelle / tatsächlicher Prüfumfang: Alle 4 Folien über OCR, Alternativtexte und vorhandene Notizen textlich gelesen; ausgewählte kritische Folien zusätzlich visuell kontrolliert. Keine Ausführung des SCORM-Pakets und kein Abschlusstest.
+- Eigene Zusammenfassung: Vier Auslöser manueller RVA: Großdiagnosen, mehr als zwei Zusatzbögen, kürzere Fragezeiträume, Votenfeinjustierung.
+- Grenze: OCR kann Zeichen/Layout verlieren. Kein vollständiger visueller oder Live-Versionsabgleich; Live LE1.1 meldet Aktualisierung 22.10.2026. Fragen/Antwortschlüssel nicht ins Repository übernommen.
+- Quellenhash: `sha256:433ba4a8d4b6bfcba6bbb66be8453663326faa2f271e138316bea75e1fc81475`
+
+
+## KW-OU-L011 · Risikovoranfragen: Tiefenaufbereitung von Vorerkrankungen
+
+- URL: https://drive.google.com/file/d/1ZJlHXV86jQXh9BC-nk_WjEx_G_qu4A22/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Archivdateien überwiegend 07.10.2026; Drive geändert 2026-10-07T09:25:38.658Z
+- Abruf: 2026-10-25
+- Status: `scoped_static_package_review`
+- Fundstelle / tatsächlicher Prüfumfang: Alle 12 Folien über OCR, Alternativtexte und vorhandene Notizen textlich gelesen; ausgewählte kritische Folien zusätzlich visuell kontrolliert. Keine Ausführung des SCORM-Pakets und kein Abschlusstest.
+- Eigene Zusammenfassung: Fünf Krankheitsbereiche und 5-W-Aufbereitung, genaue Behandlung/Verlauf, Zusatzbögen und strukturierte Erfassung; keine medizinische Diagnoseprüfung.
+- Grenze: OCR kann Zeichen/Layout verlieren. Kein vollständiger visueller oder Live-Versionsabgleich; Live LE1.1 meldet Aktualisierung 22.10.2026. Fragen/Antwortschlüssel nicht ins Repository übernommen.
+- Quellenhash: `sha256:cccaaf682a786a7218526b4b257bf7f5113b60d2a6b13a8c8930ad26de7512ab`
+
+
+## KW-OU-L012 · Risikovoranfragen: Antragsstellung & rechtssichere Beratung
+
+- URL: https://drive.google.com/file/d/1_ykKl30I_VnqMTjxF6zzwEK2f81trLbn/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Archivdateien überwiegend 07.10.2026; Drive geändert 2026-10-07T10:27:55.934Z
+- Abruf: 2026-10-25
+- Status: `scoped_static_package_review`
+- Fundstelle / tatsächlicher Prüfumfang: Alle 6 Folien über OCR, Alternativtexte und vorhandene Notizen textlich gelesen; ausgewählte kritische Folien zusätzlich visuell kontrolliert. Keine Ausführung des SCORM-Pakets und kein Abschlusstest.
+- Eigene Zusammenfassung: Kein vorzeitiger Einleistungsantrag; verbindliches Votum, Vergleichsmatrix und schriftliche Nachschau. Rechtssicherheit wird pauschal versprochen.
+- Grenze: OCR kann Zeichen/Layout verlieren. Kein vollständiger visueller oder Live-Versionsabgleich; Live LE1.1 meldet Aktualisierung 22.10.2026. Fragen/Antwortschlüssel nicht ins Repository übernommen.
+- Quellenhash: `sha256:1b04ecbeb504f7c74ca010170268f9f3d5e5a09375ed1538baaf8b346c9d72ab`
+
+
+## KW-OU-L013 · Risikovoranfragen: Der kurze Dienstweg: Vorab-Telefonat mit der Risikoprüfung
+
+- URL: https://drive.google.com/file/d/1eVu6bsIno_nJEDT2kT_JraiZC02gXLHN/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Archivdateien überwiegend 07.10.2026; Drive geändert 2026-10-07T10:27:50.334Z
+- Abruf: 2026-10-25
+- Status: `scoped_static_package_review`
+- Fundstelle / tatsächlicher Prüfumfang: Alle 5 Folien über OCR, Alternativtexte und vorhandene Notizen textlich gelesen; ausgewählte kritische Folien zusätzlich visuell kontrolliert. Keine Ausführung des SCORM-Pakets und kein Abschlusstest.
+- Eigene Zusammenfassung: Anonymes Vorabtelefonat mit ein bis drei Zielversicherern, danach gezielte Beschaffung.
+- Grenze: OCR kann Zeichen/Layout verlieren. Kein vollständiger visueller oder Live-Versionsabgleich; Live LE1.1 meldet Aktualisierung 22.10.2026. Fragen/Antwortschlüssel nicht ins Repository übernommen.
+- Quellenhash: `sha256:0d4eb52aa06c3e42040a2d975f74e59b47d2166933bc28eee200da31993d0a33`
+
+
+## KW-OU-L014 · Risikovoranfragen: Patientenquittung auswerten & Diagnosen klassifizieren
+
+- URL: https://drive.google.com/file/d/1evvJ-fa7uO1MrNO4hM8KryfEpWuG_Pto/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Archivdateien überwiegend 07.10.2026; Drive geändert 2026-10-07T10:27:49.437Z
+- Abruf: 2026-10-25
+- Status: `scoped_static_package_review`
+- Fundstelle / tatsächlicher Prüfumfang: Alle 5 Folien über OCR, Alternativtexte und vorhandene Notizen textlich gelesen; ausgewählte kritische Folien zusätzlich visuell kontrolliert. Keine Ausführung des SCORM-Pakets und kein Abschlusstest.
+- Eigene Zusammenfassung: Kassenlisten gemeinsam mit Kunden kommentieren, zusammengehörige Fälle bündeln, Verdachts-/Fehleinträge ärztlich klären.
+- Grenze: OCR kann Zeichen/Layout verlieren. Kein vollständiger visueller oder Live-Versionsabgleich; Live LE1.1 meldet Aktualisierung 22.10.2026. Fragen/Antwortschlüssel nicht ins Repository übernommen.
+- Quellenhash: `sha256:49c17250fda35eb0d87c6257e8fd69fb4eb942ce4cf43112df917b45ac3d5331`
+
+
+## KW-OU-L015 · Risikovoranfragen: Der Plausibilitäts-Check
+
+- URL: https://drive.google.com/file/d/1g8ePKhXCCFnfgnNt4GWUevVjWmdGmP5V/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Archivdateien überwiegend 07.10.2026; Drive geändert 2026-10-07T09:25:37.617Z
+- Abruf: 2026-10-25
+- Status: `scoped_static_package_review`
+- Fundstelle / tatsächlicher Prüfumfang: Alle 12 Folien über OCR, Alternativtexte und vorhandene Notizen textlich gelesen; ausgewählte kritische Folien zusätzlich visuell kontrolliert. Keine Ausführung des SCORM-Pakets und kein Abschlusstest.
+- Eigene Zusammenfassung: Leere Bögen kritisch plausibilisieren; Erinnerungsfragen, Wissen/Unkenntnis und Haftung; unkommentierte Kassenlisten vermeiden. Generalisierung jeder Arztkontakt ist erklärungsbedürftig.
+- Grenze: OCR kann Zeichen/Layout verlieren. Kein vollständiger visueller oder Live-Versionsabgleich; Live LE1.1 meldet Aktualisierung 22.10.2026. Fragen/Antwortschlüssel nicht ins Repository übernommen.
+- Quellenhash: `sha256:80dd0bc00206bb5f297ea4961bbe2ef6e4fb41beb9e2a615f47f6d3dfd61ef8a`
+
+
+## KW-OU-L016 · Risikovoranfragen: Prozessübersicht: Von der Erstberatung zum rechtssicheren Antrag
+
+- URL: https://drive.google.com/file/d/1mJpZH4_CaP6LfY0xL2yfak92mjiKd8Jo/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Archivdateien überwiegend 07.10.2026; Drive geändert 2026-10-07T11:42:24.570Z
+- Abruf: 2026-10-25
+- Status: `scoped_static_package_review`
+- Fundstelle / tatsächlicher Prüfumfang: Alle 1 Folien über OCR, Alternativtexte und vorhandene Notizen textlich gelesen; ausgewählte kritische Folien zusätzlich visuell kontrolliert. Keine Ausführung des SCORM-Pakets und kein Abschlusstest.
+- Eigene Zusammenfassung: Einseitige Prozessgrafik: 1→2→5 oder manuelle Schleife 3/4, dann Platzierung/Antrag.
+- Grenze: OCR kann Zeichen/Layout verlieren. Kein vollständiger visueller oder Live-Versionsabgleich; Live LE1.1 meldet Aktualisierung 22.10.2026. Fragen/Antwortschlüssel nicht ins Repository übernommen.
+- Quellenhash: `sha256:b7035c0d02de6478c23f91a722e9a7bcaef7999fe68bdf4d19f22ae3c3639998`
+
+
+## KW-OU-D032 · Checkliste Onpartner/VPM
+
+- URL: https://drive.google.com/file/d/1ak3duwr9s9Q4gpP3U0lBp4gKP9iuS1h5IAzD6DJ19PY/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2024-10-22T07:21:29.569Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Gesamte gelieferte Textausgabe gelesen; Fragenkatalog nicht verwendet/gespeichert.
+- Eigene Zusammenfassung: Pflicht-Systemschulung, Stammdatenprüfung; Änderungen steuerlicher Einstellungen mit Backoffice abstimmen.
+- Grenze: Nur gelieferte Textausgabe, kein vollständiger Ton-/Bildreview. Keine rechtliche oder wirtschaftliche Freigabe.
+
+
+## KW-OU-D033 · fb-expert – Altersvorsorge: Modultext
+
+- URL: https://drive.google.com/file/d/1N8jdYtlG9JsgJsnEg2GTxdf_INizIiEOxG2KP9JErhY/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2024-09-10T15:14:12.429Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Gesamter kurzer Modultext gelesen; Videos nicht geprüft.
+- Eigene Zusammenfassung: Ameise-Absprung, Berechnung, Dokumentation, Abschluss, Speicherung, Connector und Fehlerbehebung.
+- Grenze: Nur gelieferte Textausgabe, kein vollständiger Ton-/Bildreview. Keine rechtliche oder wirtschaftliche Freigabe.
+
+
+## KW-OU-D034 · fb-expert – Sachversicherung: Modultext
+
+- URL: https://drive.google.com/file/d/1_9LfhX5Vuv--pjpOQ2Mzl5m1s6xUdFtGO0AILek6gwI/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2024-05-22T10:48:27.235Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Gesamter kurzer Modultext gelesen; Videos nicht geprüft.
+- Eigene Zusammenfassung: Berechnung, Abschluss, Prozessspeicherung und Altvertragsvergleich.
+- Grenze: Nur gelieferte Textausgabe, kein vollständiger Ton-/Bildreview. Keine rechtliche oder wirtschaftliche Freigabe.
+
+
+## KW-OU-D035 · fb-expert – Arbeitskraft: Modultext
+
+- URL: https://drive.google.com/file/d/18p75SoPQuquTxCZ-VfAyy-hakhwo6GFu5FF-vt-xlvI/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2024-05-22T10:35:37.460Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Gesamter kurzer Modultext gelesen; Videos nicht geprüft.
+- Eigene Zusammenfassung: Berechnung, vers.diagnose, Votenvergleich, manuelle Risikoprüfung mit 14-Tages-Hinweis, Dokumentation und Unterschrift.
+- Grenze: Nur gelieferte Textausgabe, kein vollständiger Ton-/Bildreview. Keine rechtliche oder wirtschaftliche Freigabe.
+
+
+## KW-OU-D036 · Google Workspace – Schulungserläuterung
+
+- URL: https://drive.google.com/file/d/1UIFZiGPlY61O9L2Eqs3JzXxBhOdBd1trCyp7KSkQ9to/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2022-07-16T07:18:38.571Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Gesamter kurzer Erläuterungstext gelesen; keine Video-/Funktionsprüfung.
+- Eigene Zusammenfassung: Cloud-Arbeitsumgebung Gmail, Kalender, Drive und Tasks als Basis; individuelle Abläufe zugelassen. Inhalt ausdrücklich von 2022.
+- Grenze: Nur gelieferte Textausgabe, kein vollständiger Ton-/Bildreview. Keine rechtliche oder wirtschaftliche Freigabe.
+
+
+## KW-OU-D037 · Workbook Kündigungen und Widerrufe
+
+- URL: https://drive.google.com/file/d/1m2UeSKaXeeDqaw8aAdZldrDr89ukUmeN/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2026-08-28T10:53:43.661Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Gesamte gelieferte Textausgabe einschließlich Tabellen gelesen. Bildbasierte Praxisnachrichten nicht geprüft; persönliche Fallmerkmale nicht gespeichert; Übungen nicht ausgefüllt.
+- Eigene Zusammenfassung: Ursachen- und Emotionsanalyse, informierte Entscheidung, aber auch paternalistische Vergleiche, Wettbewerber-/KI-Autoritätsargumente. Kein Beleg tatsächlicher Fälle/Erfolge.
+- Grenze: Nur gelieferte Textausgabe, kein vollständiger Ton-/Bildreview. Keine rechtliche oder wirtschaftliche Freigabe.
+
+
+## KW-OU-D038 · Umfragetool – Leitfaden Newcomer
+
+- URL: https://drive.google.com/file/d/1oUh4aGEZCETafGs15C9GMI4BnBpHER4HVHdQZJFzC9Q/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2026-03-06T09:54:44.350Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Gesamter gelieferter Text gelesen; keine Kontaktaufnahme.
+- Eigene Zusammenfassung: 50–100 Interviews, zunächst kein Angebot/Termin, wertfreie Antworten und späterer Nachfasscall. Keine unabhängige Erfolgsvalidierung.
+- Grenze: Nur gelieferte Textausgabe, kein vollständiger Ton-/Bildreview. Keine rechtliche oder wirtschaftliche Freigabe.
+
+
+## KW-OU-D039 · Umfragetool – Leitfaden Kunden
+
+- URL: https://drive.google.com/file/d/1zjzMnxXQ3icNJbQrBuogMHPXsCAr4C4yDNacrl7zgsc/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2026-04-14T14:34:59.755Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Gesamter gelieferter Text gelesen; keine Kontaktaufnahme.
+- Eigene Zusammenfassung: 40–80 Interviews, Marktstudie/Vortrag als Anlass, Empfehlungen und spätere B1-Terminierung. Anlass muss real sein.
+- Grenze: Nur gelieferte Textausgabe, kein vollständiger Ton-/Bildreview. Keine rechtliche oder wirtschaftliche Freigabe.
+
+
+## KW-OU-D040 · Umfragetool – Auswertungsgespräch
+
+- URL: https://drive.google.com/file/d/11u38Ko4-F9JfW4q1r1OhcNNu-uc8PpkIQwF5z6VY1Kw/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2026-05-15T11:23:20.478Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Gesamter gelieferter Text gelesen; keine Kontakt-/Trackingdaten übernommen.
+- Eigene Zusammenfassung: Zwei Stärken/zwei Lücken spiegeln; Beratung, Event-Einwilligung oder AEC-Dankeschön; spätere Reaktivierung. Eigenständiger Skriptstand Mai 2026.
+- Grenze: Nur gelieferte Textausgabe, kein vollständiger Ton-/Bildreview. Keine rechtliche oder wirtschaftliche Freigabe.
+
+
+## KW-OU-D041 · 2in1 Kunden-Partner-Kreislauf – Skript
+
+- URL: https://drive.google.com/file/d/1P-L6fR3bmFmC-ScNMn7iynFvpfvBntoB/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2026-10-05T09:31:20.218Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Gesamte PDF-Textausgabe gelesen; Grafiken nicht vollständig geprüft, Namen/Telefonbeispiele nicht übernommen.
+- Eigene Zusammenfassung: AEC, Empfehlungsvereinbarung, Annahme und NCW. Essenseinladung bei Empfehlungen bzw. Zahlung durch Kunden bei Nichterfüllung; Nummernerhebung vor späterem Daumen-hoch-Schritt.
+- Grenze: Nur gelieferte Textausgabe, kein vollständiger Ton-/Bildreview. Keine rechtliche oder wirtschaftliche Freigabe.
+
+
+## KW-OU-D042 · Altersvorsorgedepot – vertriebliche Einordnung: Transkript
+
+- URL: https://drive.google.com/file/d/1NjShVVkm60OlLF6LrNEcMYmd0lEVmbzdvmfRDsCYQKY/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2026-09-16T11:36:56.498Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Gesamter gelieferter Text gelesen; endet mitten im letzten Satz. Kein vollständiger Video-/Tonreview.
+- Eigene Zusammenfassung: Erwarteter Vergütungsmixwechsel und breitere Beratung; interner kritischer Blick auf Police/Biometrie-Fokus und geringe B1-Frequenz. Zukunfts-/Rechtsangaben nicht als geltende Produktregel validiert.
+- Grenze: Nur gelieferte Textausgabe, kein vollständiger Ton-/Bildreview. Keine rechtliche oder wirtschaftliche Freigabe.
+
+
+## KW-OU-D043 · Beförderungsplanung – Präsentation V1
+
+- URL: https://drive.google.com/file/d/14c9LSbmLzdTax4flfhpCAw6cJRt43nl7/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2022-12-08T10:35:41.786Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Alle gelieferten Folientexte/Notizen gelesen; Grafiken nicht vollständig geprüft.
+- Eigene Zusammenfassung: Erstabrechnungsbezug, 20-Prozent-Puffer, dynamische B1-Werte, Folgetermintracking und AEC-Filter. Historische Beispiele und Karriereregeln nicht automatisch aktuell.
+- Grenze: Nur gelieferte Textausgabe, kein vollständiger Ton-/Bildreview. Keine rechtliche oder wirtschaftliche Freigabe.
+
+
+## KW-OU-D044 · Lebensplanung – Ziele, Ängste, Strategien: Blanko-Workbook
+
+- URL: https://drive.google.com/file/d/1Uz-4of6Ms77WDybori7HyWzryfbbCC27/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2025-10-21T05:54:55.124Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Gesamter gelieferter PDF-Text gelesen; Grafiken nicht vollständig geprüft. Keine persönlichen Angaben eingegeben.
+- Eigene Zusammenfassung: Zielzeiträume, reale Kosten, Einkommensmix, Ängste als Reframing und Wenn-dann-Pläne. Rendite-/Eigenkapitalannahmen sind illustrative Vorgaben.
+- Grenze: Nur gelieferte Textausgabe, kein vollständiger Ton-/Bildreview. Keine rechtliche oder wirtschaftliche Freigabe.
+
+
+## KW-OU-D045 · VV-Depot – Bestandspflegeprozesse
+
+- URL: https://drive.google.com/file/d/1lS-FMihwT3DbIHP86e_M9n5snhgRzc2NX7RwKBgfZfE/view
+- Herausgeber: Königswege / KWU-Materialablage
+- Stand: Drive geändert 2026-08-31T12:13:39.734Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Gesamte gelieferte Textausgabe gelesen; Screenshots/Erklärvideos nicht vollständig geprüft.
+- Eigene Zusammenfassung: Tippgeberrolle statt Anlageberatung, keine Vermittlervollmacht, Kundenunterschrift/TAN, Depot-/Portfolioänderungen und Übertrag. Steuer-/Preisdetails nicht unabhängig validiert.
+- Grenze: Nur gelieferte Textausgabe, kein vollständiger Ton-/Bildreview. Keine rechtliche oder wirtschaftliche Freigabe.
+
+
+## KW-OU-E001 · BGB § 630g – Einsichtnahme in die Behandlungsakte
+
+- URL: https://www.gesetze-im-internet.de/bgb/__630g.html
+- Herausgeber: Bundesministerium der Justiz / Bundesamt für Justiz
+- Stand: Am Abrufdatum gelesene konsolidierte Norm
+- Abruf: 2026-10-25
+- Status: `scoped_primary_source_review`
+- Fundstelle / tatsächlicher Prüfumfang: Absatz 1 und Gliederung Absätze 2–4 gelesen.
+- Eigene Zusammenfassung: Erste Abschrift unentgeltlich; Absatz 2 betrifft Ausschlussgründe.
+- Grenze: Keine umfassende Prüfung von Attesthonoraren oder Einzelfällen.
+
+
+## KW-OU-E002 · VVG § 19 – Anzeigepflicht
+
+- URL: https://www.gesetze-im-internet.de/vvg_2008/__19.html
+- Herausgeber: Bundesministerium der Justiz / Bundesamt für Justiz
+- Stand: Suchindex der amtlichen Norm/Gesamtausgabe am Abrufdatum
+- Abruf: 2026-10-25
+- Status: `scoped_primary_source_search_review`
+- Fundstelle / tatsächlicher Prüfumfang: Amtlicher Suchauszug zu Absatz 1 gelesen; direkter Abruf und Gesamtausgabe liefen in Timeout.
+- Eigene Zusammenfassung: Bekannte erhebliche Gefahrumstände, nach denen der Versicherer in Textform gefragt hat.
+- Grenze: Keine vollständige Norm-/Rechtsprechungsprüfung; Abrufgrenze ausdrücklich dokumentiert.
+
+
+## KW-OU-M011 · Der Aufbau des B1
+
+- URL: https://kwu.koenigswege.com/course/play/69aedbe09c086db9d565cdc0
+- Herausgeber: Königswege / KWU
+- Stand: Letzte Aktualisierung laut KWU: 28.08.26
+- Abruf: 2026-10-25
+- Status: `partial_activity_review`
+- Fundstelle / tatsächlicher Prüfumfang: Beide Aktivitäten geöffnet; Video-/PPT-URLs und 40-Folien-Viewer erfasst. Dokumenttexte separat D011/D012 gelesen. Stopp vor Modul abschließen.
+- Eigene Zusammenfassung: Einführungsvideo und B1-Präsentation; keine Quizschranke in diesen zwei Aktivitäten.
+- Grenze: Kein vollständiger audiovisueller Review; nichts eingereicht oder abgeschlossen.
+
+
+## KW-OU-M012 · Ein- und Ausleitung – Dein Schlüssel zu Vertrauen und Verbindlichkeit
+
+- URL: https://kwu.koenigswege.com/course/play/69295fe68d6a260fbc871f15
+- Herausgeber: Königswege / KWU
+- Stand: Letzte Aktualisierung laut KWU: 22.04.26
+- Abruf: 2026-10-25
+- Status: `partial_activity_review`
+- Fundstelle / tatsächlicher Prüfumfang: Beide Aktivitäten geöffnet; Videoeinbettung erfasst, separat verlinktes Skript D013 vollständig gelesen. Stopp vor Modul abschließen.
+- Eigene Zusammenfassung: Terminrahmen und Übergänge B1–B4; Skript erreichbar ohne Testeinreichung.
+- Grenze: Kein vollständiger audiovisueller Review; nichts eingereicht oder abgeschlossen.
+
+
+## KW-OU-M013 · Das richtige Money Mindset
+
+- URL: https://kwu.koenigswege.com/course/play/69aed47a9cb196ae24f09af1
+- Herausgeber: Königswege / KWU
+- Stand: Letzte Aktualisierung laut KWU: 28.08.26
+- Abruf: 2026-10-25
+- Status: `partial_activity_review`
+- Fundstelle / tatsächlicher Prüfumfang: Beide Aktivitäten geöffnet; Videoeinbettung erfasst, Skript D014 vollständig gelesen. Stopp vor Modul abschließen.
+- Eigene Zusammenfassung: Humankapital-/Absicherungslogik.
+- Grenze: Kein vollständiger audiovisueller Review; nichts eingereicht oder abgeschlossen.
+
+
+## KW-OU-M014 · Risikovoranfragen – LE 1.1
+
+- URL: https://kwu.koenigswege.com/course/play/6ac62edc137ddbb5f3ef7d92
+- Herausgeber: Königswege / KWU
+- Stand: Letzte Aktualisierung laut KWU: 22.10.26
+- Abruf: 2026-10-25
+- Status: `partial_activity_review`
+- Fundstelle / tatsächlicher Prüfumfang: Cover, Start und erste SCORM-Folie geöffnet; kein Abschlusstest. Unabhängige Archivfassung separat unter L005 gelesen.
+- Eigene Zusammenfassung: Live meldet neuere Aktualisierung als heruntergeladenes Archiv; keine Versionsgleichheit behauptet.
+- Grenze: Kein vollständiger audiovisueller Review; nichts eingereicht oder abgeschlossen.
+
+
+## KW-OU-M015 · ETF-Police verkaufen – Stage I
+
+- URL: https://kwu.koenigswege.com/course/play/679b49e5d500c75d1291fd5f
+- Herausgeber: Königswege / KWU
+- Stand: Letzte Aktualisierung laut KWU: 31.08.26
+- Abruf: 2026-10-25
+- Status: `partial_activity_review`
+- Fundstelle / tatsächlicher Prüfumfang: Cover und Beschreibung geöffnet; vorhandenen persönlichen Beendet-Status nicht als eigenen Prüfnachweis verwendet. Unabhängiges aktuelles Skript D018 gelesen.
+- Eigene Zusammenfassung: Drei Aktivitäten; keine Wiederholung/Abschlussbestätigung zur erzwungenen Versionsaktualisierung.
+- Grenze: Kein vollständiger audiovisueller Review; nichts eingereicht oder abgeschlossen.
+
