@@ -1,6 +1,6 @@
 # Quellenregister Online University
 
-Stand und Abruf: 25.10.2026. Unternehmensdarstellung, interne Regeln und eigene Bewertung werden getrennt. Pfadübersichten belegen Struktur, keine vollständige Lektionenprüfung. IDs P001–P058 entsprechen der Katalogreihenfolge. Vollständige Originalmedien wurden nicht gehasht; `source_hash: null` ist ausdrücklich kein Integritätsnachweis. [Struktur](STRUCTURE.md), [Medien](MEDIA.md), [Prüfstatus](REVIEW_STATUS.md), [Rechenprüfung](CALCULATIONS.md).
+Stand und Abruf: 25.10.2026. Unternehmensdarstellung, interne Regeln und eigene Bewertung werden getrennt. Pfadübersichten belegen Struktur, keine vollständige Lektionenprüfung. IDs P001–P058 entsprechen der Katalogreihenfolge. Ausgewählte tatsächlich heruntergeladene Dateien sind mit SHA-256 dokumentiert. Bei allen übrigen Quellen ist `source_hash: null` ausdrücklich kein Integritätsnachweis. [Struktur](STRUCTURE.md), [Medien](MEDIA.md), [Prüfstatus](REVIEW_STATUS.md), [Rechenprüfung](CALCULATIONS.md).
 
 ## KW-OU-P001 · Arbeitskraftabsicherung
 
@@ -858,9 +858,9 @@ Stand und Abruf: 25.10.2026. Unternehmensdarstellung, interne Regeln und eigene 
 - Stand: Veröffentlichungsdatum nicht ermittelt; Titel aus sichtbarer Einbettung, Transkript oder Dateimetadaten
 - Abruf: 2026-10-25
 - Status: `media_identified_not_reviewed`
-- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung.
+- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung. Drive-Viewer nach Playerinitialisierung geprüft; Transkript blieb deaktiviert.
 - Eigene Zusammenfassung: Inhaltsprüfung offen.
-- Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet.
+- Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet. Fehlende Transkriptansicht ist kein Nachweis fehlender Videoabspielbarkeit.
 
 ## KW-OU-V005 · Newcomer-Umfrage – Erklärvideo (Titel teils aus Kontext verkürzt)
 
@@ -913,9 +913,9 @@ Stand und Abruf: 25.10.2026. Unternehmensdarstellung, interne Regeln und eigene 
 - Stand: Veröffentlichungsdatum nicht ermittelt; Titel aus sichtbarer Einbettung, Transkript oder Dateimetadaten
 - Abruf: 2026-10-25
 - Status: `media_identified_not_reviewed`
-- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung.
+- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung. Drive-Viewer nach Playerinitialisierung geprüft; Transkript blieb deaktiviert.
 - Eigene Zusammenfassung: Inhaltsprüfung offen.
-- Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet.
+- Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet. Fehlende Transkriptansicht ist kein Nachweis fehlender Videoabspielbarkeit.
 
 ## KW-OU-V010 · P1 – Spielwiese und Quadranten (Titel teils aus Kontext verkürzt)
 
@@ -924,9 +924,9 @@ Stand und Abruf: 25.10.2026. Unternehmensdarstellung, interne Regeln und eigene 
 - Stand: Veröffentlichungsdatum nicht ermittelt; Titel aus sichtbarer Einbettung, Transkript oder Dateimetadaten
 - Abruf: 2026-10-25
 - Status: `media_identified_not_reviewed`
-- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung.
+- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung. Drive-Viewer nach Playerinitialisierung geprüft; Transkript blieb deaktiviert.
 - Eigene Zusammenfassung: Inhaltsprüfung offen.
-- Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet.
+- Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet. Fehlende Transkriptansicht ist kein Nachweis fehlender Videoabspielbarkeit.
 
 ## KW-OU-V011 · P1 – Steuerberatervergleich (Titel teils aus Kontext verkürzt)
 
@@ -935,9 +935,9 @@ Stand und Abruf: 25.10.2026. Unternehmensdarstellung, interne Regeln und eigene 
 - Stand: Veröffentlichungsdatum nicht ermittelt; Titel aus sichtbarer Einbettung, Transkript oder Dateimetadaten
 - Abruf: 2026-10-25
 - Status: `media_identified_not_reviewed`
-- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung.
+- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung. Drive-Viewer nach Playerinitialisierung geprüft; Transkript blieb deaktiviert.
 - Eigene Zusammenfassung: Inhaltsprüfung offen.
-- Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet.
+- Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet. Fehlende Transkriptansicht ist kein Nachweis fehlender Videoabspielbarkeit.
 
 ## KW-OU-V012 · P1 – Finanzielle Intelligenz (Titel teils aus Kontext verkürzt)
 
@@ -946,9 +946,9 @@ Stand und Abruf: 25.10.2026. Unternehmensdarstellung, interne Regeln und eigene 
 - Stand: Veröffentlichungsdatum nicht ermittelt; Titel aus sichtbarer Einbettung, Transkript oder Dateimetadaten
 - Abruf: 2026-10-25
 - Status: `media_identified_not_reviewed`
-- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung.
+- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung. Drive-Viewer nach Playerinitialisierung geprüft; Transkript blieb deaktiviert.
 - Eigene Zusammenfassung: Inhaltsprüfung offen.
-- Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet.
+- Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet. Fehlende Transkriptansicht ist kein Nachweis fehlender Videoabspielbarkeit.
 
 ## KW-OU-V013 · P1 – Reale Kosten (Titel teils aus Kontext verkürzt)
 
@@ -957,9 +957,9 @@ Stand und Abruf: 25.10.2026. Unternehmensdarstellung, interne Regeln und eigene 
 - Stand: Veröffentlichungsdatum nicht ermittelt; Titel aus sichtbarer Einbettung, Transkript oder Dateimetadaten
 - Abruf: 2026-10-25
 - Status: `media_identified_not_reviewed`
-- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung.
+- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung. Drive-Viewer nach Playerinitialisierung geprüft; Transkript blieb deaktiviert.
 - Eigene Zusammenfassung: Inhaltsprüfung offen.
-- Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet.
+- Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet. Fehlende Transkriptansicht ist kein Nachweis fehlender Videoabspielbarkeit.
 
 ## KW-OU-V014 · Abschlusstechniken – Entscheidungsfindung (Titel teils aus Kontext verkürzt)
 
@@ -968,9 +968,9 @@ Stand und Abruf: 25.10.2026. Unternehmensdarstellung, interne Regeln und eigene 
 - Stand: Veröffentlichungsdatum nicht ermittelt; Titel aus sichtbarer Einbettung, Transkript oder Dateimetadaten
 - Abruf: 2026-10-25
 - Status: `media_identified_not_reviewed`
-- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung.
+- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung. Drive-Viewer nach Playerinitialisierung geprüft; Transkript blieb deaktiviert.
 - Eigene Zusammenfassung: Inhaltsprüfung offen.
-- Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet.
+- Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet. Fehlende Transkriptansicht ist kein Nachweis fehlender Videoabspielbarkeit.
 
 ## KW-OU-V015 · NCW – Wertpapiere (Titel teils aus Kontext verkürzt)
 
@@ -979,9 +979,9 @@ Stand und Abruf: 25.10.2026. Unternehmensdarstellung, interne Regeln und eigene 
 - Stand: Veröffentlichungsdatum nicht ermittelt; Titel aus sichtbarer Einbettung, Transkript oder Dateimetadaten
 - Abruf: 2026-10-25
 - Status: `media_identified_not_reviewed`
-- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung.
+- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung. Drive-Viewer nach Playerinitialisierung geprüft; Transkript blieb deaktiviert.
 - Eigene Zusammenfassung: Inhaltsprüfung offen.
-- Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet.
+- Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet. Fehlende Transkriptansicht ist kein Nachweis fehlender Videoabspielbarkeit.
 
 ## KW-OU-V016 · NCW – Immobilien (Titel teils aus Kontext verkürzt)
 
@@ -990,9 +990,9 @@ Stand und Abruf: 25.10.2026. Unternehmensdarstellung, interne Regeln und eigene 
 - Stand: Veröffentlichungsdatum nicht ermittelt; Titel aus sichtbarer Einbettung, Transkript oder Dateimetadaten
 - Abruf: 2026-10-25
 - Status: `media_identified_not_reviewed`
-- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung.
+- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung. Drive-Viewer nach Playerinitialisierung geprüft; Transkript blieb deaktiviert.
 - Eigene Zusammenfassung: Inhaltsprüfung offen.
-- Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet.
+- Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet. Fehlende Transkriptansicht ist kein Nachweis fehlender Videoabspielbarkeit.
 
 ## KW-OU-V017 · NCW – Unternehmertum (Titel teils aus Kontext verkürzt)
 
@@ -1001,9 +1001,9 @@ Stand und Abruf: 25.10.2026. Unternehmensdarstellung, interne Regeln und eigene 
 - Stand: Veröffentlichungsdatum nicht ermittelt; Titel aus sichtbarer Einbettung, Transkript oder Dateimetadaten
 - Abruf: 2026-10-25
 - Status: `media_identified_not_reviewed`
-- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung.
+- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung. Drive-Viewer nach Playerinitialisierung geprüft; Transkript blieb deaktiviert.
 - Eigene Zusammenfassung: Inhaltsprüfung offen.
-- Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet.
+- Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet. Fehlende Transkriptansicht ist kein Nachweis fehlender Videoabspielbarkeit.
 
 ## KW-OU-V018 · NCW – Innovation und unternehmerische Chance (Titel teils aus Kontext verkürzt)
 
@@ -1012,9 +1012,9 @@ Stand und Abruf: 25.10.2026. Unternehmensdarstellung, interne Regeln und eigene 
 - Stand: Veröffentlichungsdatum nicht ermittelt; Titel aus sichtbarer Einbettung, Transkript oder Dateimetadaten
 - Abruf: 2026-10-25
 - Status: `media_identified_not_reviewed`
-- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung.
+- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung. Drive-Viewer nach Playerinitialisierung geprüft; Transkript blieb deaktiviert.
 - Eigene Zusammenfassung: Inhaltsprüfung offen.
-- Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet.
+- Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet. Fehlende Transkriptansicht ist kein Nachweis fehlender Videoabspielbarkeit.
 
 ## KW-OU-V019 · NCW – Entscheidung (Titel teils aus Kontext verkürzt)
 
@@ -1023,9 +1023,9 @@ Stand und Abruf: 25.10.2026. Unternehmensdarstellung, interne Regeln und eigene 
 - Stand: Veröffentlichungsdatum nicht ermittelt; Titel aus sichtbarer Einbettung, Transkript oder Dateimetadaten
 - Abruf: 2026-10-25
 - Status: `media_identified_not_reviewed`
-- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung.
+- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung. Drive-Viewer nach Playerinitialisierung geprüft; Transkript blieb deaktiviert.
 - Eigene Zusammenfassung: Inhaltsprüfung offen.
-- Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet.
+- Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet. Fehlende Transkriptansicht ist kein Nachweis fehlender Videoabspielbarkeit.
 
 ## KW-OU-V020 · Organigramm-Coaching To Go (Titel teils aus Kontext verkürzt)
 
@@ -1034,9 +1034,9 @@ Stand und Abruf: 25.10.2026. Unternehmensdarstellung, interne Regeln und eigene 
 - Stand: Veröffentlichungsdatum nicht ermittelt; Titel aus sichtbarer Einbettung, Transkript oder Dateimetadaten
 - Abruf: 2026-10-25
 - Status: `media_identified_not_reviewed`
-- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung.
+- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung. Drive-Viewer nach Playerinitialisierung geprüft; Transkript blieb deaktiviert.
 - Eigene Zusammenfassung: Inhaltsprüfung offen.
-- Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet.
+- Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet. Fehlende Transkriptansicht ist kein Nachweis fehlender Videoabspielbarkeit.
 
 ## KW-OU-V021 · Ausstellungsplan – Herleitung (Titel teils aus Kontext verkürzt)
 
@@ -1045,9 +1045,9 @@ Stand und Abruf: 25.10.2026. Unternehmensdarstellung, interne Regeln und eigene 
 - Stand: Veröffentlichungsdatum nicht ermittelt; Titel aus sichtbarer Einbettung, Transkript oder Dateimetadaten
 - Abruf: 2026-10-25
 - Status: `media_identified_not_reviewed`
-- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung.
+- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung. Drive-Viewer nach Playerinitialisierung geprüft; Transkript blieb deaktiviert.
 - Eigene Zusammenfassung: Inhaltsprüfung offen.
-- Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet.
+- Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet. Fehlende Transkriptansicht ist kein Nachweis fehlender Videoabspielbarkeit.
 
 ## KW-OU-V022 · Hauptberuflichkeitsplanung – Video (Titel teils aus Kontext verkürzt)
 
@@ -1056,9 +1056,9 @@ Stand und Abruf: 25.10.2026. Unternehmensdarstellung, interne Regeln und eigene 
 - Stand: Veröffentlichungsdatum nicht ermittelt; Titel aus sichtbarer Einbettung, Transkript oder Dateimetadaten
 - Abruf: 2026-10-25
 - Status: `media_identified_not_reviewed`
-- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung.
+- Fundstelle / tatsächlicher Prüfumfang: URL und thematischer Einbettungs-/Dateikontext erfasst; keine vollständige audiovisuelle Inhaltsprüfung. Drive-Viewer nach Playerinitialisierung geprüft; Transkript blieb deaktiviert.
 - Eigene Zusammenfassung: Inhaltsprüfung offen.
-- Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet.
+- Grenze: Kein ungeprüfter Ton-/Bildinhalt als Beleg verwendet; technische Abspielbarkeit nicht für jede Datei getestet. Fehlende Transkriptansicht ist kein Nachweis fehlender Videoabspielbarkeit.
 
 ## KW-OU-D011 · B1 Gespräch – V7.1
 
