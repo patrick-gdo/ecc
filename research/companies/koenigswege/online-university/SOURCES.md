@@ -1772,3 +1772,57 @@ Stand und Abruf: 25.10.2026. Unternehmensdarstellung, interne Regeln und eigene 
 - Eigene Zusammenfassung: Drei Aktivitäten; keine Wiederholung/Abschlussbestätigung zur erzwungenen Versionsaktualisierung.
 - Grenze: Kein vollständiger audiovisueller Review; nichts eingereicht oder abgeschlossen.
 
+
+## KW-OU-D046 · DSGVO-Grundlagen TG+VP – Videovorlage Teil I
+
+- URL: https://drive.google.com/file/d/1Yab3AFnOv6zyXB9_awauhVHgpOO-Nm8e/view
+- Herausgeber: basucon / im KWU-Material bereitgestellt
+- Stand: Videovorlage 18.08.2025; Drive geändert 2025-09-08T03:43:00.000Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Alle gelieferten Folientexte einschließlich wiederholter Aufbaufolien gelesen; keine vollständige Grafik-/Tonprüfung. Keine Schulung abgeschlossen.
+- Eigene Zusammenfassung: Grundsätze, Zweckbindung, Datenminimierung, Informations-/Nachweispflichten und behauptete vertrags-/haftungsrechtliche Konsequenzen.
+- Grenze: Keine Prüfung realer Datenflüsse, unterschriebener Individualvereinbarungen oder vollständige Rechtsvalidierung.
+
+## KW-OU-D047 · DSGVO-Grundlagen TG+VP – Videovorlage Teil II
+
+- URL: https://drive.google.com/file/d/12-uwWINREhs2QO0jlDbbRAvjhEaC766P/view
+- Herausgeber: basucon / im KWU-Material bereitgestellt
+- Stand: Videovorlage 18.08.2025; Drive geändert 2025-10-01T07:49:47.936Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Alle gelieferten Folientexte einschließlich wiederholter Aufbaufolien gelesen; keine vollständige Grafik-/Tonprüfung. Keine Schulung abgeschlossen.
+- Eigene Zusammenfassung: Datenschutzrichtlinie, Vertraulichkeit, freiwillige Fotoeinwilligung und gemeinsame Verantwortlichkeit; Partnerverzeichnisse/TOM/Löschkonzept und eigener Datenschutzbeauftragter.
+- Grenze: Keine Prüfung realer Datenflüsse, unterschriebener Individualvereinbarungen oder vollständige Rechtsvalidierung.
+
+## KW-OU-D048 · DSGVO-Grundlagen TG+VP – Videovorlage Teil III
+
+- URL: https://drive.google.com/file/d/1MVouiKfDwqnwwpT81ypjD_cr_0aJ_s_w/view
+- Herausgeber: basucon / im KWU-Material bereitgestellt
+- Stand: Videovorlage 18.08.2025; Drive geändert 2025-09-08T03:43:00.000Z
+- Abruf: 2026-10-25
+- Status: `scoped_text_review`
+- Fundstelle / tatsächlicher Prüfumfang: Alle gelieferten Folientexte einschließlich wiederholter Aufbaufolien gelesen; keine vollständige Grafik-/Tonprüfung. Keine Schulung abgeschlossen.
+- Eigene Zusammenfassung: Erstkontaktinformation, sichere Übermittlung, Vorfallmeldung, Betroffenenrechte und interne Eskalation. Unterscheidung 72-Stunden-Meldung falls meldepflichtig und Monatsfrist für Anfragen.
+- Grenze: Keine Prüfung realer Datenflüsse, unterschriebener Individualvereinbarungen oder vollständige Rechtsvalidierung.
+
+## KW-OU-M016 · Beratungsdokumentation
+
+- URL: https://kwu.koenigswege.com/course/play/678e3bccab9f086681375680
+- Herausgeber: Königswege / KWU
+- Stand: Live letzte Aktualisierung 24.02.2026
+- Abruf: 2026-10-25
+- Status: `partial_activity_review`
+- Fundstelle / tatsächlicher Prüfumfang: Cover, elf Aktivitätstitel, erste Videoeinbettung geöffnet. Sieben zugehörige Drive-Dateien unabhängig identifiziert; Inhalt/Transkriptzugang separat geprüft. Keine Kundenübung erstellt.
+- Eigene Zusammenfassung: Grundlagen, Warnhinweise, Formulierung, Altersvorsorge, Nachhaltigkeit, Arbeitskraft und Sach. Vier Wissensfragen zwischen Videoaktivitäten.
+- Grenze: Nach Grundlagen folgt Wissensfrage; weitere Inhalte im Live-Inhaltsverzeichnis deaktiviert. Kein Test beantwortet oder Abschluss ausgelöst.
+
+### Unabhängige Medienzugänge zu M016
+
+- 01 Grundlagen der Beratungsdokumentation.mp4: https://drive.google.com/file/d/1yGZHfGYeAODoA7UTPY44zuJdDIAbyPdn/view; Drive geändert 2024-10-11T14:11:03.320Z; Abruf 2026-10-25; transcript_disabled_after_player_initialization. Drive-Viewer unabhängig vom Live-Quiz geöffnet; kein Ton-/Bild-Inhaltsreview.
+- 02 Warnhinweise in der Beratungsdokumentation.mp4: https://drive.google.com/file/d/1r1vzKXvOCP_i91wHstrGssP8VBVkcMab/view; Drive geändert 2024-10-11T14:11:16.987Z; Abruf 2026-10-25; viewer_load_error_and_raw_download_failed. Drive-Viewer unabhängig vom Live-Quiz geöffnet; kein Ton-/Bild-Inhaltsreview.
+- 03 Formulierung in der Beratungsdokumentation.mp4: https://drive.google.com/file/d/175jJ104qk-4X65rag_pQB0G4uRC0T0bi/view; Drive geändert 2024-10-11T14:11:35.387Z; Abruf 2026-10-25; transcript_disabled_after_player_initialization. Drive-Viewer unabhängig vom Live-Quiz geöffnet; kein Ton-/Bild-Inhaltsreview.
+- 04 Altersvorsorge dokumentieren.mp4: https://drive.google.com/file/d/1k-shmiqeEv9UndYzPTU1rKMEceoALy8m/view; Drive geändert 2024-10-11T14:12:55.980Z; Abruf 2026-10-25; transcript_disabled_after_player_initialization. Drive-Viewer unabhängig vom Live-Quiz geöffnet; kein Ton-/Bild-Inhaltsreview.
+- 05 Nachhaltige Altersvorsorge dokumentieren.mp4: https://drive.google.com/file/d/1SZTA2ggtddnVs3_JMwGf6O7oo5z9Yax4/view; Drive geändert 2024-10-11T14:13:22.866Z; Abruf 2026-10-25; transcript_disabled_after_player_initialization. Drive-Viewer unabhängig vom Live-Quiz geöffnet; kein Ton-/Bild-Inhaltsreview.
+- 06 Arbeitskraftabsicherung dokumentieren.mp4: https://drive.google.com/file/d/1CzO8MDiUd5xylFEqxLE7YHW9NQXTfM1y/view; Drive geändert 2024-10-11T14:13:36.477Z; Abruf 2026-10-25; transcript_disabled_after_player_initialization. Drive-Viewer unabhängig vom Live-Quiz geöffnet; kein Ton-/Bild-Inhaltsreview.
+- 07 Sachversicherungen dokumentieren.mp4: https://drive.google.com/file/d/1H3Tcoi-w5InxlTPJQQzInTW2uDVDJ12b/view; Drive geändert 2024-10-11T14:13:46.000Z; Abruf 2026-10-25; transcript_disabled_after_player_initialization. Drive-Viewer unabhängig vom Live-Quiz geöffnet; kein Ton-/Bild-Inhaltsreview.
