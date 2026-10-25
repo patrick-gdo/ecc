@@ -17,3 +17,5 @@ Stand: 25.10.2026. Analysen zu [Königswege](research/companies/koenigswege/READ
 Andere KI-Chats benötigen Zugriff auf dieses GitHub-Repository oder die relevanten Dateien. Die Ablage allein erzeugt keinen automatischen Zugriff und keine chatübergreifende Erinnerung.
 
 Weitere Ergebnisse: [Königswege Immobilien & Finanzierung](research/companies/koenigswege-immobilien-finanzierung/README.md) und [öffentliche Website mit vollständigem technischem Seitenindex](research/companies/koenigswege/website/README.md). Die angefragten [Live-Intranets sind noch nicht lesbar](research/companies/koenigswege/INTRANET_ACCESS.md); deren vollständige Auswertung bleibt offen.
+
+Vertiefung: [Königswege-Partnerbereich – Artikel, Recruiting, Vergütung und Haftungsgrenzen](research/companies/koenigswege/website/PARTNER_ANALYSIS.md).

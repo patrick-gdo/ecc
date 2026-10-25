@@ -330,3 +330,5 @@ KW-023 dokumentiert eine technische Leselücke. KW-024/025 dokumentieren begrenz
 - Abruf: 25.10.2026.
 - Evidenzfamilie: `KW_FG_internal_comparison_2025`.
 - SHA-256: `6b6d2bff0d0712a6b87aacc201b47bd63038c0ae87093f47e69a3c7613d579db`
+
+- **KW-041**: [Bürgschaftsvorlage](https://drive.google.com/file/d/1LZ4TC2SMRGiSTPZBtG1CpzMJt2AHg-dW/view), Dateistand 06.2026, abgerufen 25.10.2026, S. 1–5 textlich gelesen. Anwerberbürgschaft auf erstes Anfordern; keine individuelle Anwendung oder rechtliche Wirksamkeit bestätigt. Details und Hash in sources.json.

@@ -34,3 +34,7 @@ Die Quelle mit `no_text_extracted` ist ebenfalls im Quellenregister dokumentiert
 14 weitere Dokumente heruntergeladen und mit explizitem Prüfumfang registriert; zwei bildbasierte PDFs zusätzlich gerendert und visuell gelesen. Kumuliert 64 heruntergeladene Dateien, 60 technisch verarbeitete Dokumente (eins ohne auslesbaren Text) und vier separat heruntergeladene Grafiken. Status im Index: `extracted_only` 25, `no_text_extracted` 1, `not_reviewed` 640, `scoped_review` 38. 39 Registereinträge einschließlich der zuvor dokumentierten Leselücke. Vorherige Zählungen oben sind historische Zwischenstände.
 
 Die zusätzlich eingeordnete Vergleichsarbeitsmappe KW-040 war bereits heruntergeladen. Aktuell: 40 Registereinträge, 39 `scoped_review`, 24 `extracted_only`, eine `no_text_extracted`, 640 `not_reviewed`; weiterhin 64 heruntergeladene Dateien. Ihre zweite Ablage FG-006 zählt nicht als unabhängiger Beleg.
+
+## Partnervertiefung: aktueller Stand
+
+Eine weitere Vorlage als KW-041 textlich gelesen: 65 heruntergeladene Dateien, 41 Registereinträge; 40 `scoped_review`, 24 `extracted_only`, eine `no_text_extracted`, 639 `not_reviewed`. Historische Zählungen oben bleiben als Zwischenstände erhalten.

@@ -77,3 +77,7 @@ After-Sales benötigt einen kalkulierten Auftrag und ausreichende Kapazität. Ei
 Die [öffentliche Websiteauswertung](../research/companies/koenigswege/website/ANALYSIS.md) zeigt zwei verbundene Akquisestrecken: Endkunden für Beratung und potenzielle Vertriebspartner. Für unser Modell separate Einstiegsangebote, Qualifizierung, Verantwortliche und Messgrößen entwickeln. Zentrale Marke, fachliche Inhalte, lokale Sichtbarkeit und persönliche Partnerpositionierung mit laufendem Pflegeaufwand kalkulieren.
 
 Ein zentrales Regel-/Aussagenregister soll Website, Erstinformation, Verträge, Präsentation und operativen Freigabestand miteinander verbinden. Für zeitabhängige Zins-, Förder-, Produkt- und Erlaubnisangaben Quelle, Stand und Aktualisierungsverantwortung vorsehen. Noch keine Konversionsrate, Renditeerwartung oder Ausschüttung aus Marketingangaben als Planungswert übernommen.
+
+## Aus der Partneranalyse: zu prüfender Modellentwurf
+
+Die [Partnervertiefung](../research/companies/koenigswege/website/PARTNER_ANALYSIS.md) liefert Hypothesen, keine bestätigte Rentabilität: getrennte Fach-/Führungslaufbahnen, plattformgestützte eigene Marke und wiederkehrend finanzierter Service. Vor Festlegung einen vollständigen Zahlungswasserfall nach Poolabzügen, Partner-/Führungsanteilen, Reserve und Kosten rechnen; Kundenbestand/Exit, Beteiligung und jede Bürgschaft gesondert regeln. Recruitment anhand aktiver qualifizierter Kohorten und Deckungsbeitrag nach Betreuung beurteilen. Historische Ausschüttungsquoten und Erfolgsgeschichten sind keine Nettoertragsprognosen.

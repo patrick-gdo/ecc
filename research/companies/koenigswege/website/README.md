@@ -16,12 +16,14 @@ Stand: 25.10.2026. Websiteweite technische Erfassung über Sitemap und interne H
 
 ## Wie viel davon inhaltlich geprüft ist
 
-- `targeted_text_review`: 17 Seiten.
-- `structural_index_only`: 214 Seiten.
-- `opening_section_review`: 16 Seiten.
+- `targeted_text_review`: 16 Seiten.
+- `structural_index_only`: 203 Seiten.
+- `article_body_review`: 16 Seiten.
+- `profile_text_review`: 8 Seiten.
+- `page_text_review`: 4 Seiten.
 - `catalog_excerpt_review`: 65 Seiten.
 
-`structural_index_only` bedeutet nur automatischen Abruf und Strukturindex. Bei Podcastseiten wurden sichtbare Begleittexte/Ankündigungen katalogisiert, keine Episoden angehört. Bei Partnerartikeln Eingangsabschnitte und Themen; keine vollständige Prüfung aller historischen Rechts-/Steuerangaben. Die im Bericht verwendeten Kernaussagen stammen aus gezielt gelesenen Seiten mit explizitem Prüfumfang.
+Vertiefung: [Partnerbereich vollständig schriftlich ausgewertet](PARTNER_ANALYSIS.md), [Prüfliste](partner_review.csv). Alle 16 Partnerartikel außerhalb der University-Ausschlüsse, acht direkt verlinkte Profile und vier Einstiegs-/Übersichtsseiten textlich gelesen; drei Abbildungen visuell geprüft. Audio, Video und externe Lerninhalte nicht gelesen. Strukturindex bedeutet keine Inhaltsprüfung.
 
 ## Grenzen der „gesamten Website“
 

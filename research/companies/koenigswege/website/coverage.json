@@ -22,9 +22,11 @@
     "Stellenangebot": 2
   },
   "review_states": {
-    "targeted_text_review": 17,
-    "structural_index_only": 214,
-    "opening_section_review": 16,
+    "targeted_text_review": 16,
+    "structural_index_only": 203,
+    "article_body_review": 16,
+    "profile_text_review": 8,
+    "page_text_review": 4,
     "catalog_excerpt_review": 65
   },
   "failures": [

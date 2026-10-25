@@ -23,3 +23,7 @@ Das vollständige Register steht in [sources.json](sources.json), die kompakte �
 - **KW-WEB-226**: [Erstelle deine eigene KW Partner Seite - Königswege GmbH](https://koenigswege.com/partnerseite-erstellen/) – Text zur eigenen Partner-Landingpage gelesen; keinen Account erstellt und keine Formularaktion ausgeführt.
 - **KW-WEB-291**: [VV-Lösung für 34d - Königswege GmbH](https://koenigswege.com/podcast/vv-loesung-fuer-34d/) – Begleittext vollständig gelesen; unternehmenseigener Hinweis auf Wechsel von §34h zu §34f, mit Datum 17.05.2024. Audio nicht angehört.
 - **KW-WEB-300**: [Unternehmen - Wir sind Königswege - Königswege GmbH](https://koenigswege.com/unternehmen/) – Positionierung und ausgewählte Einleitungs-/Standortangaben geprüft; widersprüchliche Standortzahlen im Text, keine personenbezogenen Biografien übernommen.
+
+## Partnervertiefung
+
+Aktualisierte konkrete Prüfumfänge stehen in [sources.json](sources.json) und [partner_review.csv](partner_review.csv); historische Artikel vollständig textlich außerhalb University-Ausschlüssen gelesen. Drei separat visuell geprüfte Abbildungen: [image_sources.json](image_sources.json). Auswertung: [PARTNER_ANALYSIS.md](PARTNER_ANALYSIS.md).

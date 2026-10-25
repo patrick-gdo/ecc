@@ -1,0 +1,32 @@
+[
+  {
+    "name": "career-build.png",
+    "url": "https://koenigswege.com/wp-content/uploads/2023/03/koenigswege-positionen-verguetungsstufen-aufbauer.png",
+    "sha256": "ba7dab583512e172eb0f7e2445c157bd842c5d44584b37c0669175f5fcf6f79a",
+    "bytes": 125660,
+    "source_id": "KW-WEB-IMG-001",
+    "retrieved_on": "2026-10-25",
+    "review_scope": "Abbildung vollständig visuell gelesen; historische Unternehmensveröffentlichung, keine unabhängige Bestätigung",
+    "original_in_repository": false
+  },
+  {
+    "name": "career-consult.png",
+    "url": "https://koenigswege.com/wp-content/uploads/2023/03/koenigswege-positionen-profilberater-verguetugngsstufen.png",
+    "sha256": "d958ec7c253ad57c17d2dbf4f5d72af9b238ec4e10f558fe9f66cfa1e7ed5768",
+    "bytes": 134720,
+    "source_id": "KW-WEB-IMG-002",
+    "retrieved_on": "2026-10-25",
+    "review_scope": "Abbildung vollständig visuell gelesen; historische Unternehmensveröffentlichung, keine unabhängige Bestätigung",
+    "original_in_repository": false
+  },
+  {
+    "name": "ranking.jpg",
+    "url": "https://koenigswege.com/wp-content/uploads/2023/08/screenshot-allfinanzvertriebe-2022.jpg",
+    "sha256": "874c46ceac9a7f21cb08e11efe7f4a58064ab12742b790fec0127624c800c22f",
+    "bytes": 119028,
+    "source_id": "KW-WEB-IMG-003",
+    "retrieved_on": "2026-10-25",
+    "review_scope": "Abbildung vollständig visuell gelesen; historische Unternehmensveröffentlichung, keine unabhängige Bestätigung",
+    "original_in_repository": false
+  }
+]

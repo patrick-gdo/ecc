@@ -45,3 +45,9 @@ KWIF-Drive: 176 sichtbare Einträge, davon 32 Ordner und 144 Dateien, vollständ
 **Blockierter Teilauftrag:** KW-/KWIF-Live-Intranets leiten zur Google-Anmeldung weiter. Keine Intranet-Inhalte gelesen. Für die ausdrücklich vollständige Intranet-Auswertung ist ein lesbarer Export oder eine unterstützte authentifizierte Anbindung erforderlich; Details in [INTRANET_ACCESS.md](../research/companies/koenigswege/INTRANET_ACCESS.md). Die bestehende Drive-Auswahl ist kein bestätigter vollständiger aktueller Intranetexport.
 
 Nächster Schritt: nach Bereitstellung tatsächlichen Inhaltszugriff prüfen, Navigation und verlinkte Dokumente der Intranets erfassen und dann die relevanten Inhalte quellenbezogen auswerten. Online University bleibt ausgeschlossen. Unabhängig davon können die übrigen KWIF-/KW-Akten thematisch vertieft und die neuen Erkenntnisse in einen einheitlichen Leistungs-/Kostenentwurf überführt werden.
+
+## Vertiefung Partnerbereich · 25.10.2026
+
+[Partneranalyse](../research/companies/koenigswege/website/PARTNER_ANALYSIS.md): alle 16 Partnerartikel vollständig textlich außerhalb University-Ausschlüssen, acht direkt verlinkte Profile und vier Einstiegs-/Übersichtsseiten gelesen; drei Artikelabbildungen visuell geprüft. Websiteweite manuelle Vollprüfung und Audio-/Videoprüfung bleiben offen. Aktuelle Prüfumfänge und Zählungen im Website-Register ersetzen die obigen historischen Zwischenstände.
+
+KW-041 zusätzlich: Anwerberbürgschaft, nicht ohne weiteren Beleg die im GmbH-Artikel beschriebene persönliche Sicherheit. KW nun 65 Downloads, 41 Registereinträge; 639 Dateien noch nicht geprüft. Wesentliche nächste Arbeit: vollständiger Zahlungswasserfall, Bedingungsmatrix für Exit/Phase-out, unabhängige Prüfung und echte Kohorten-/Kostendaten. Nutzer wünscht nach Websitearbeit Browseröffnung für Google-Login; Öffnung allein belegt keinen authentifizierten Inhaltszugriff des Agenten.

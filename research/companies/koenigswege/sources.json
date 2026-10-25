@@ -439,5 +439,16 @@
     "sha256": "6b6d2bff0d0712a6b87aacc201b47bd63038c0ae87093f47e69a3c7613d579db",
     "original_in_repository": false,
     "evidence_family": "KW_FG_internal_comparison_2025"
+  },
+  {
+    "source_id": "KW-041",
+    "drive_file_id": "1LZ4TC2SMRGiSTPZBtG1CpzMJt2AHg-dW",
+    "title": "Vorlage Bürgschaft, Dateistand 06.2026",
+    "url": "https://drive.google.com/file/d/1LZ4TC2SMRGiSTPZBtG1CpzMJt2AHg-dW/view",
+    "retrieved_on": "2026-10-25",
+    "document_date": "06.2026 laut Dateiname; individuelle Geltung unbestätigt",
+    "review_scope": "S. 1–5 vollständig textlich gelesen; Anwerberbürgschaft, nicht automatisch GmbH-Gesellschafterbürgschaft. Keine Wirksamkeitsprüfung.",
+    "sha256": "ebff0441deb73f122221e1022916acdcb1e2319d99929c56da23942207b418ac",
+    "original_in_repository": false
   }
 ]
