@@ -14,11 +14,11 @@ Noch keine Entscheidungen über Markt, Produktmix, Vergütung oder Rechtsform ge
 
 ID / Datum / Status / Fragestellung / Optionen / Entscheidung / Evidenz / Annahmen / Risiken / Verantwortlicher / Anlass zur Neubewertung.
 
-## DEC-002 – Königswege zuerst, University ausgeschlossen
+## DEC-002 – Königswege zuerst, damaliger University-Ausschluss (durch DEC-005 aufgehoben)
 
 Datum: 25.10.2026 · Status: durch Nutzerauftrag bestätigt.
 
-Den bereitgestellten Drive-Ordner „KW“ als Material für die Königswege-Analyse bearbeiten. „Online University“ bleibt ausgeschlossen; dies wird vorsorglich auf eindeutig zugehörige University-Ordner und Einzeldateien sowie entsprechende Passagen gemischter Dokumente angewendet. Keine Drive-Originale verändern oder löschen.
+Den bereitgestellten Drive-Ordner „KW“ als Material für die Königswege-Analyse bearbeiten. Im damaligen Auftrag war „Online University“ ausgeschlossen (seit DEC-005 aufgehoben); dies wird vorsorglich auf eindeutig zugehörige University-Ordner und Einzeldateien sowie entsprechende Passagen gemischter Dokumente angewendet. Keine Drive-Originale verändern oder löschen.
 
 Wissensablage über eigene quellenbezogene Zusammenfassungen. Originalverträge und personenbezogene Daten werden nicht ins Repository übernommen. Die erste Analyse bestätigt keine regulatorische Zulässigkeit, tatsächliche Umsetzung oder wirtschaftliche Überlegenheit.
 
@@ -34,7 +34,7 @@ Wettbewerbsbehauptungen aus Material der jeweils anderen Seite sind zu kennzeich
 
 Datum: 25.10.2026 · Status: zusätzlicher Nutzerauftrag.
 
-Zuerst die KWIF-Drive-Ablage `1eMzUe3VqhOb_OlWGa_Zi6KX3VOmaSfSY` bearbeiten, danach KW-/KWIF-Intranets und die Königswege-Website untersuchen und relevantes Wissen speichern. Online University bleibt ausgeschlossen. Öffentliche Aussagen, interne Arbeitsstände und tatsächliche Betriebsergebnisse bleiben getrennte Quellenarten.
+Zuerst die KWIF-Drive-Ablage `1eMzUe3VqhOb_OlWGa_Zi6KX3VOmaSfSY` bearbeiten, danach KW-/KWIF-Intranets und die Königswege-Website untersuchen und relevantes Wissen speichern. Im damaligen Auftrag war Online University ausgeschlossen; dieser Ausschluss ist durch DEC-005 aufgehoben. Öffentliche Aussagen, interne Arbeitsstände und tatsächliche Betriebsergebnisse bleiben getrennte Quellenarten.
 
 Beide Live-Intranets verlangten beim tatsächlichen Zugriff Google-Anmeldung; keine Inhalte daraus gelesen. Die öffentliche Website wurde über Sitemap und interne HTML-Links erfasst, relevante Kernbereiche gezielt geprüft. Dies ist kein vollständiger Live-Intranetreview und keine Vollvalidierung aller historischen Finanz-/Rechtsangaben.
 
