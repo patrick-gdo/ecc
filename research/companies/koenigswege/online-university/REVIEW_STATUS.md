@@ -59,3 +59,9 @@ Keine allgemeine KWU- oder GitHub-Blockade. Videoabspielbarkeit und fehlende Tra
 Zuerst Register und [Materialindex](drive_inventory.json) lesen. Bereits gelesene Textfassungen nur bei neuem Stand oder Widerspruch wiederholen. Beim Drive-Viewer Transkript erst nach Initialisierung beurteilen. Unabhängig zugängliche Kopien mit eigener Versionsgrenze prüfen; keine Quiz-/Einreichungsschranken umgehen. Noch ungeprüft, technischer Lesefehler, personenbezogen ausgelassen und gesperrte Folgeaktivität getrennt protokollieren.
 
 Keine Kurse als abgeschlossen markiert, Tests/Aufgaben beantwortet oder eingereicht, Nachrichten versendet oder Originale verändert. Lesen/Playerinitialisierung kann Zugriffs- und Lernzeitdaten erzeugen; daraus folgt keine Zertifizierung.
+
+## Ergänzender Drive-Durchlauf · 25.10.2026
+
+Sieben weitere Dateiquellen S001–S007 mit vollständig gelesenem extrahiertem Haupttext und spezifischen Grenzen ergänzt; Register aktuell 171 Einträge. Teilnehmerkodex, Einwandbehandlung und Anforderungsprofil enthalten ungeprüfte Bilder. Datenschutz-DOCX überschneidet sich mit D006; nicht als unabhängige Evidenz addieren.
+
+25 unterschiedliche Direktdownload-Versuche, 8 Dateien heruntergeladen, davon sieben textlich geprüft; eine heruntergeladene Datei ungeprüft. 17 Loginweiterleitungen, zusätzlich ein Docs-Export mit HTTP 401. Ordneransicht hier nicht authentifiziert lesbar; früherer erfolgreicher Browserzugriff anderer Sitzung bleibt davon unberührt. [Abrufnachweis](supplement_access.json), [Analyseergänzung](DRIVE_SUPPLEMENT.md). Keine neue rekursive Inventarisierung, vollständige Medienprüfung oder Auflösung der 16 Shortcuts. Vollständigkeit zwischen Drive und Live-KWU bleibt unbestätigt.

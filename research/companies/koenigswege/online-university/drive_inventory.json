@@ -691,10 +691,10 @@
       "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
       "size_bytes": 8748,
       "modified_time": "2025-10-21T08:00:30.697Z",
-      "title": null,
+      "title": "Wichtige Tipps und Tricks für dein Lernen auf der Plattform",
       "topic_tags": [],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_text_review",
+      "source_id": "KW-OU-S003"
     },
     {
       "drive_id": "1Gim58MxpmpWhI5zUxKg5CxT3D3DCHDO0",
@@ -717,12 +717,12 @@
       "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
       "size_bytes": 38476,
       "modified_time": "2025-10-21T08:00:14.757Z",
-      "title": null,
+      "title": "Datenschutzinformation KWU – DOCX-Fassung",
       "topic_tags": [
         "Datenschutz"
       ],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_text_review",
+      "source_id": "KW-OU-S001"
     },
     {
       "drive_id": "1v1n_hirInBFN8m4iZOQswsi9s4TJJK-M",
@@ -3527,12 +3527,12 @@
       "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
       "size_bytes": 19372,
       "modified_time": "2026-10-15T10:31:41.443Z",
-      "title": null,
+      "title": "Geisteshaltung zum Thema Empfehlungen",
       "topic_tags": [
         "Empfehlung"
       ],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_text_review",
+      "source_id": "KW-OU-S002"
     },
     {
       "drive_id": "1HnN14ortdkqSmdfxrTCwSylL-64A0rWx",
@@ -3541,10 +3541,10 @@
       "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
       "size_bytes": 25382,
       "modified_time": "2026-04-01T14:57:54.000Z",
-      "title": null,
+      "title": "Skript Feedbackgespräche",
       "topic_tags": [],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_text_review",
+      "source_id": "KW-OU-S004"
     },
     {
       "drive_id": "15pGwptjk7Q1xUDswqAD-UFNdwGWv-Ldq",
@@ -11663,10 +11663,10 @@
       "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
       "size_bytes": 1273486,
       "modified_time": "2024-09-11T15:09:41.000Z",
-      "title": null,
+      "title": "Checkliste Teilnehmer / Teilnehmerkodex",
       "topic_tags": [],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_text_review",
+      "source_id": "KW-OU-S005"
     },
     {
       "drive_id": "1LsTX1JT0ft8Su7RjvAXCn2a81xY0zUTD",
@@ -12037,10 +12037,10 @@
       "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
       "size_bytes": 32517,
       "modified_time": "2025-10-23T08:10:12.504Z",
-      "title": null,
+      "title": "Einwandbehandlung Akquise – Top 3 Werkzeuge",
       "topic_tags": [],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_text_review",
+      "source_id": "KW-OU-S006"
     },
     {
       "drive_id": "1CvcL2OPd1d-toPQQLmn2usbTyAahMUsy",
@@ -13875,10 +13875,10 @@
       "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
       "size_bytes": 297997,
       "modified_time": "2025-12-09T13:20:49.460Z",
-      "title": null,
+      "title": "Anforderungsprofil",
       "topic_tags": [],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_text_review",
+      "source_id": "KW-OU-S007"
     },
     {
       "drive_id": "1u04bIBdll_jwaeJJJTDo_CQrvnksytAv",

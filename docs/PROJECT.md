@@ -103,3 +103,9 @@ Neue Erkenntnisse: strukturierter Risikoprüfungsprozess neben unbelegten Leistu
 Aktuelle Details: [Prüfstatus](../research/companies/koenigswege/online-university/REVIEW_STATUS.md), [Analyse](../research/companies/koenigswege/online-university/ANALYSIS.md), [Quellen](../research/companies/koenigswege/online-university/SOURCES.md). Keine Kurse abgeschlossen, Quiz-/Aufgabenantworten oder persönliche Angaben eingereicht, Nachrichten versendet oder vollständige Originalmaterialien übernommen.
 
 Zusatzvertiefung: drei Partner-/Tippgeber-Datenschutz-Foliensätze D046–D048 vollständig textlich gelesen. Zuständigkeiten, gemeinsame Verantwortlichkeit, Vorfall-/Anfrageprozesse und behauptete Haftungsfolgen gegen den bestehenden Intranet-/Vertragsreview abgegrenzt. M016 Beratungsdokumentation geöffnet; erste Wissensfrage sperrt weitere Live-Aktivitäten. Separat geprüftes Warnhinweisvideo mit tatsächlichem Ladefehler; andere Dokumentationsvideos ohne aktive Transkriptansicht. Videos/Grafiken und individuelle Vertragsgeltung bleiben offen.
+
+## Ergänzende KWU-Drive-Auswertung · 25.10.2026
+
+Nutzer stellt Root 13I4aT3ddm92iBaHL6hnylA4Ns2QF7hm0 bereit; identisch mit dem bereits gespeicherten KWU-Materialindex. Sieben ergänzende Dateiquellen S001–S007 tatsächlich textlich gelesen; Register nun 171 Einträge. [Ergänzung](../research/companies/koenigswege/online-university/DRIVE_SUPPLEMENT.md) verbindet Policenkontrolle, Empfehlungsdruck, Feedback-/Beratungsfunnel, Akquisebehauptungen, Lernroutine und Wissenschatbot mit bestehenden Quellen. Datenschutz-DOCX ist inhaltlich überlappend mit D006, keine unabhängige Bestätigung.
+
+Direkte Downloads teilweise erfolgreich; Ordneransicht leitet in dieser Cloud-Sitzung zur Anmeldung. Abrufe quellenspezifisch dokumentiert. Keine Vollständigkeitsbehauptung zur Drive-/Live-Abdeckung; offene Medien, Grafiken, Shortcuts und weitere Lektionen bleiben. Nur eigene Zusammenfassungen und Metadaten gespeichert.

@@ -1,0 +1,205 @@
+{
+  "recorded_on": "2026-10-25",
+  "environment": "Cloud-Sitzung ohne authentifizierte Google-Browsersitzung",
+  "folder_url": "https://drive.google.com/drive/folders/13I4aT3ddm92iBaHL6hnylA4Ns2QF7hm0",
+  "folder_result": "Weiterleitung zur Google-Anmeldung; keine erneute rekursive Live-Inventarisierung",
+  "inventory_basis_commit": "ba88483",
+  "selected_download_attempts": [
+    {
+      "drive_id": "1IJQQaxHcGgrT8PSQ_NAcSMooDZZPXNs-",
+      "url": "https://drive.google.com/file/d/1IJQQaxHcGgrT8PSQ_NAcSMooDZZPXNs-/view",
+      "access": "downloaded",
+      "review_source_id": "KW-OU-S001",
+      "review_state": "scoped_text_review",
+      "sha256": "ed25309bd12b9ef6eb1f0da699847d28905757365d9d98095de6b9c7ca17dd63",
+      "download_bytes": 38476
+    },
+    {
+      "drive_id": "1V-RWn27hGw9LS3Hpe9Bs828Dp5m71nEN",
+      "url": "https://drive.google.com/file/d/1V-RWn27hGw9LS3Hpe9Bs828Dp5m71nEN/view",
+      "access": "login_redirect",
+      "review_source_id": null,
+      "review_state": "not_reviewed"
+    },
+    {
+      "drive_id": "1bHtEXmXp8TmXv1j4q1MncD6waX1DoaoT",
+      "url": "https://drive.google.com/file/d/1bHtEXmXp8TmXv1j4q1MncD6waX1DoaoT/view",
+      "access": "login_redirect",
+      "review_source_id": null,
+      "review_state": "not_reviewed"
+    },
+    {
+      "drive_id": "1ISk1yX9_3PnfmTO4CNtjrxNuuOO3XJ5D",
+      "url": "https://drive.google.com/file/d/1ISk1yX9_3PnfmTO4CNtjrxNuuOO3XJ5D/view",
+      "access": "downloaded",
+      "review_source_id": "KW-OU-S002",
+      "review_state": "scoped_text_review",
+      "sha256": "35f31760bc4af5a292b733a5fd95694222df408df296da5b24ec10a4736a15ff",
+      "download_bytes": 19372
+    },
+    {
+      "drive_id": "1Ow_Z3snii71p3tAw2x4UQWpHX6SEgQOI",
+      "url": "https://drive.google.com/file/d/1Ow_Z3snii71p3tAw2x4UQWpHX6SEgQOI/view",
+      "access": "login_redirect",
+      "review_source_id": null,
+      "review_state": "not_reviewed"
+    },
+    {
+      "drive_id": "1xLlGQqQDOJKq2-kzwfD1Rdx5pEOwuoAf",
+      "url": "https://drive.google.com/file/d/1xLlGQqQDOJKq2-kzwfD1Rdx5pEOwuoAf/view",
+      "access": "login_redirect",
+      "review_source_id": null,
+      "review_state": "not_reviewed"
+    },
+    {
+      "drive_id": "1FkK26b2Leo6wLtpMgvG2DQnLXHcIIDyr",
+      "url": "https://drive.google.com/file/d/1FkK26b2Leo6wLtpMgvG2DQnLXHcIIDyr/view",
+      "access": "login_redirect",
+      "review_source_id": null,
+      "review_state": "not_reviewed"
+    },
+    {
+      "drive_id": "13T_06QLfCH160stt6WUm7btZxTTTVNTm",
+      "url": "https://drive.google.com/file/d/13T_06QLfCH160stt6WUm7btZxTTTVNTm/view",
+      "access": "login_redirect",
+      "review_source_id": null,
+      "review_state": "not_reviewed"
+    },
+    {
+      "drive_id": "1T-0UK_N63LunGm1UYrODUZGLG2MAKy-q",
+      "url": "https://drive.google.com/file/d/1T-0UK_N63LunGm1UYrODUZGLG2MAKy-q/view",
+      "access": "login_redirect",
+      "review_source_id": null,
+      "review_state": "not_reviewed"
+    },
+    {
+      "drive_id": "1-0XUTo4LWE6SDERi1EhvxwxLMQlydrpW",
+      "url": "https://drive.google.com/file/d/1-0XUTo4LWE6SDERi1EhvxwxLMQlydrpW/view",
+      "access": "downloaded",
+      "review_source_id": "KW-OU-S003",
+      "review_state": "scoped_text_review",
+      "sha256": "b166f7864b7d6f655273b531932c836f184f24ab03149f6f1e9728739dc99ae3",
+      "download_bytes": 8748
+    },
+    {
+      "drive_id": "1lufmaf7K8hAcHHtN4lrxd6qkRtonSFIS",
+      "url": "https://drive.google.com/file/d/1lufmaf7K8hAcHHtN4lrxd6qkRtonSFIS/view",
+      "access": "login_redirect",
+      "review_source_id": null,
+      "review_state": "not_reviewed"
+    },
+    {
+      "drive_id": "1HnN14ortdkqSmdfxrTCwSylL-64A0rWx",
+      "url": "https://drive.google.com/file/d/1HnN14ortdkqSmdfxrTCwSylL-64A0rWx/view",
+      "access": "downloaded",
+      "review_source_id": "KW-OU-S004",
+      "review_state": "scoped_text_review",
+      "sha256": "7be74e64dc974fd92ef5e1b69a70a53995f279accfa22fb230c186afe6f6d064",
+      "download_bytes": 25382
+    },
+    {
+      "drive_id": "16q1_ca9MsTJHQVqYg9rFUwby_RlVCSN4",
+      "url": "https://drive.google.com/file/d/16q1_ca9MsTJHQVqYg9rFUwby_RlVCSN4/view",
+      "access": "login_redirect",
+      "review_source_id": null,
+      "review_state": "not_reviewed"
+    },
+    {
+      "drive_id": "1_wfz-HILugNFqpv27x6CSFu8viCoX-dl",
+      "url": "https://drive.google.com/file/d/1_wfz-HILugNFqpv27x6CSFu8viCoX-dl/view",
+      "access": "login_redirect",
+      "review_source_id": null,
+      "review_state": "not_reviewed"
+    },
+    {
+      "drive_id": "1iTFaA5pL0su8JCB3C8zlIStofjWYOMgv",
+      "url": "https://drive.google.com/file/d/1iTFaA5pL0su8JCB3C8zlIStofjWYOMgv/view",
+      "access": "login_redirect",
+      "review_source_id": null,
+      "review_state": "not_reviewed"
+    },
+    {
+      "drive_id": "1IOCj2x0lb0O5C6gNJhixYZMeYaob4bIw",
+      "url": "https://drive.google.com/file/d/1IOCj2x0lb0O5C6gNJhixYZMeYaob4bIw/view",
+      "access": "login_redirect",
+      "review_source_id": null,
+      "review_state": "not_reviewed"
+    },
+    {
+      "drive_id": "1HsBkMcUgIqZEMGBOzXwBM4JrOZr02U1y",
+      "url": "https://drive.google.com/file/d/1HsBkMcUgIqZEMGBOzXwBM4JrOZr02U1y/view",
+      "access": "login_redirect",
+      "review_source_id": null,
+      "review_state": "not_reviewed"
+    },
+    {
+      "drive_id": "1gB2Lx3kDnewulVfebTAS-1Cg9VqxVT65",
+      "url": "https://drive.google.com/file/d/1gB2Lx3kDnewulVfebTAS-1Cg9VqxVT65/view",
+      "access": "login_redirect",
+      "review_source_id": null,
+      "review_state": "not_reviewed"
+    },
+    {
+      "drive_id": "1Q6ZcBfZlYMm74Mlb5k6Okmw89zD4YTFI",
+      "url": "https://drive.google.com/file/d/1Q6ZcBfZlYMm74Mlb5k6Okmw89zD4YTFI/view",
+      "access": "login_redirect",
+      "review_source_id": null,
+      "review_state": "not_reviewed"
+    },
+    {
+      "drive_id": "1NU4s3xAWvS9zbC8UwJ7OMnqOWku-iu4h",
+      "url": "https://drive.google.com/file/d/1NU4s3xAWvS9zbC8UwJ7OMnqOWku-iu4h/view",
+      "access": "downloaded",
+      "review_source_id": null,
+      "review_state": "not_reviewed",
+      "sha256": "faf3638b0fcfd09b3320ac87fe32d52c7625c8556343db2d6472d9dd3e284c00",
+      "download_bytes": 1815779
+    },
+    {
+      "drive_id": "1t5prswPpaI2f6EF8gxDLHudGySI1tZt3",
+      "url": "https://drive.google.com/file/d/1t5prswPpaI2f6EF8gxDLHudGySI1tZt3/view",
+      "access": "login_redirect",
+      "review_source_id": null,
+      "review_state": "not_reviewed"
+    },
+    {
+      "drive_id": "1DOK84PHVqUXRji9oPGrHbgYXE4a-80bT",
+      "url": "https://drive.google.com/file/d/1DOK84PHVqUXRji9oPGrHbgYXE4a-80bT/view",
+      "access": "downloaded",
+      "review_source_id": "KW-OU-S005",
+      "review_state": "scoped_text_review",
+      "sha256": "df7265dffa01e51a69027d5f2a9e4cc2e277ce2d092a0ec1ee92c0e6f199f1ea",
+      "download_bytes": 1273486
+    },
+    {
+      "drive_id": "15bJc-onyKaeLFepgdnfJqUeuyeHgCckA",
+      "url": "https://drive.google.com/file/d/15bJc-onyKaeLFepgdnfJqUeuyeHgCckA/view",
+      "access": "login_redirect",
+      "review_source_id": null,
+      "review_state": "not_reviewed"
+    },
+    {
+      "drive_id": "156d5k-eYgy7i6QanzLWst5EDQW5N6DF_",
+      "url": "https://drive.google.com/file/d/156d5k-eYgy7i6QanzLWst5EDQW5N6DF_/view",
+      "access": "downloaded",
+      "review_source_id": "KW-OU-S006",
+      "review_state": "scoped_text_review",
+      "sha256": "f7edf413c324cdbae1427f79f331ec11246814ce64e5eea2dd50c40b1b4ae5db",
+      "download_bytes": 32517
+    },
+    {
+      "drive_id": "1Gtmkf3w_5aqITATtBKvMhg4YETjTMEHO",
+      "url": "https://drive.google.com/file/d/1Gtmkf3w_5aqITATtBKvMhg4YETjTMEHO/view",
+      "access": "downloaded",
+      "review_source_id": "KW-OU-S007",
+      "review_state": "scoped_text_review",
+      "sha256": "a13fe09557cd6750b1ddc6938dc0751230dcee71d6c44bc01d794772d64abd9a",
+      "download_bytes": 297997
+    }
+  ],
+  "additional_export_attempt": {
+    "drive_id": "1Xf8RaS573kBSvqKFdQrMFRVWoD7dAOqV-ox3ZBg5pD0",
+    "result": "HTTP 401 beim Google-Docs-Textexport"
+  },
+  "limitations": "Zugriffsergebnisse gelten nur für diese Aufrufe; Loginweiterleitung ist kein Nachweis einer gelöschten Datei oder generellen Unzugänglichkeit. Acht unterschiedliche Dateien heruntergeladen, sieben Texte geprüft und eine Datei ungeprüft."
+}

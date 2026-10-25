@@ -156,3 +156,7 @@ D046 kündigt fristlose Vertragskündigung und mögliche Beteiligung an Geldbuß
 **Bewertung für unser Modell:** Die klar beschriebenen Zuständigkeiten und Nachweise sind hilfreich. Umfragen, Familienempfehlungen und Gesundheitsaufbereitung aus den Vertriebslektionen müssen gegen genau diese Datenzwecke, Informationspflichten und Einwilligungsnachweise geprüft werden. Es wurde kein realer Datenfluss getestet und keine pauschale Rechtmäßigkeit dieser Strategien bestätigt.
 
 M016 Beratungsdokumentation wurde auf Lektionsebene geöffnet: elf Aktivitäten mit sieben Videothemen und vier Wissensfragen. Nach dem Grundlagenvideo blockiert die erste Frage die Live-Folgeaktivitäten. Die sieben Materialien sind separat in Drive zugänglich; beim Warnhinweisvideo trat ausdrücklich ein Ladefehler auf. Nichts eingereicht, keine echte Kundenakte zu Übungszwecken erstellt. [M016; D026]
+
+## Ergänzende Skript- und Prozessbefunde aus Drive
+
+[DRIVE_SUPPLEMENT.md](DRIVE_SUPPLEMENT.md) ergänzt die Analyse mit sieben tatsächlich gelesenen Dateiquellen S001–S007: Policenkontrolle, druckbehaftete Empfehlungsnachverfolgung, Feedback-zu-Beratung-Funnel, Akquise-/Kostenargumentation, Anforderungsprofil, Teilnehmernachbereitung und Wissenschatbot. Unternehmensbehauptungen bleiben von Bewertung getrennt. S001 überschneidet sich mit D006; kein unabhängiger Datenschutzbeleg.

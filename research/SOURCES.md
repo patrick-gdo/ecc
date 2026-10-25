@@ -31,3 +31,5 @@ Der zweite bereitgestellte Drive-Ordner „FG“ ist gesondert unter [Finanzgeni
 ## Online University · Auftragserweiterung 25.10.2026
 
 [University-Quellenregister](companies/koenigswege/online-university/SOURCES.md): 102 Einträge mit URL, Stand, Abrufdatum, Fundstelle und konkretem Prüfumfang. 58 Pfadübersichten, zehn Module, zehn Dokumente, 22 Medien und zwei Einstiegs-/Ablagequellen; daraus folgt keine vollständige Lektionen-/Medienprüfung. [Prüfstatus](companies/koenigswege/online-university/REVIEW_STATUS.md) weist Quiz-/Aufgabenschranken und offene Inhalte aus. Der frühere University-Ausschluss ist gemäß DEC-005 aufgehoben. Keine Originalmaterialien oder personenbezogenen Lernstände gespeichert.
+
+Ergänzende KWU-Drive-Dateiquellen S001–S007: [Befunde und Grenzen](companies/koenigswege/online-university/DRIVE_SUPPLEMENT.md), [Quellenregister](companies/koenigswege/online-university/sources.json) und [Abrufnachweis](companies/koenigswege/online-university/supplement_access.json). Der Ordner ist bereits als KWU-Materialroot erfasst, keine unabhängige zweite Datenbasis.

@@ -16,3 +16,5 @@ Stand: 25.10.2026. Der Nutzer hat den früheren University-Ausschluss ausdrückl
 Anschluss an die Wissensbasis: [Königswege](../README.md), [bestehende Modellanalyse](../ANALYSIS.md), [Live-Intranet](../intranet/ANALYSIS.md), [Projektstand](../../../../docs/PROJECT.md) und [Entscheidungen](../../../../docs/DECISIONS.md).
 
 Gespeichert werden eigene Zusammenfassungen, Metadaten und offene Fragen. Keine Zugangsdaten, personenbezogenen Teilnehmer-/Kundendaten, vollständigen Originalmaterialien oder Originalverträge. Keine Abschlussbestätigungen, Tests, Aufgaben oder Nachrichten abgegeben.
+
+Ergänzender Drive-Durchlauf: [Befunde und Lehren](DRIVE_SUPPLEMENT.md), [Abrufnachweis](supplement_access.json). Sieben weitere Dateiquellen S001–S007 textlich geprüft, Register jetzt 171 Einträge. Der oben genannte Stand mit 164 Quellen ist der vorherige Zwischenstand. Keine vollständige University-/Drive-Auswertung.

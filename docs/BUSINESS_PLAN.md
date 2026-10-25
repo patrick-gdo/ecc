@@ -81,3 +81,7 @@ Ein zentrales Regel-/Aussagenregister soll Website, Erstinformation, Verträge, 
 ## Aus der Partneranalyse: zu prüfender Modellentwurf
 
 Die [Partnervertiefung](../research/companies/koenigswege/website/PARTNER_ANALYSIS.md) liefert Hypothesen, keine bestätigte Rentabilität: getrennte Fach-/Führungslaufbahnen, plattformgestützte eigene Marke und wiederkehrend finanzierter Service. Vor Festlegung einen vollständigen Zahlungswasserfall nach Poolabzügen, Partner-/Führungsanteilen, Reserve und Kosten rechnen; Kundenbestand/Exit, Beteiligung und jede Bürgschaft gesondert regeln. Recruitment anhand aktiver qualifizierter Kohorten und Deckungsbeitrag nach Betreuung beurteilen. Historische Ausschüttungsquoten und Erfolgsgeschichten sind keine Nettoertragsprognosen.
+
+## Lern- und Vertriebsbetrieb: ergänzende Gestaltungshypothesen
+
+Aus [KWU-Drive-Ergänzung](../research/companies/koenigswege/online-university/DRIVE_SUPPLEMENT.md), S002–S007: Policierung nach Antrag kontrollieren; Feedbackanfrage, Beratungsmandat und Partneransprache transparent trennen; Empfehlungen und Nachverfolgung freiwillig und begrenzt gestalten. Kosten-/Vergütungsfragen konkret beantworten statt Kundenvorteil mit Vermittlereinkommen gleichzusetzen. Wissensassistent nur mit Quellen-/Versionsanzeige, Berechtigungen und fachlicher Eskalation planen. Qualität über Fallprüfung, Beschwerden, unerwünschte Kontakte und Bestandsverlauf neben Abschlussquoten messen. Dies sind Vorschläge, keine beschlossenen oder wirtschaftlich validierten Betriebsregeln.

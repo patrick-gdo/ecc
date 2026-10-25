@@ -1826,3 +1826,76 @@ Stand und Abruf: 25.10.2026. Unternehmensdarstellung, interne Regeln und eigene 
 - 05 Nachhaltige Altersvorsorge dokumentieren.mp4: https://drive.google.com/file/d/1SZTA2ggtddnVs3_JMwGf6O7oo5z9Yax4/view; Drive geändert 2024-10-11T14:13:22.866Z; Abruf 2026-10-25; transcript_disabled_after_player_initialization. Drive-Viewer unabhängig vom Live-Quiz geöffnet; kein Ton-/Bild-Inhaltsreview.
 - 06 Arbeitskraftabsicherung dokumentieren.mp4: https://drive.google.com/file/d/1CzO8MDiUd5xylFEqxLE7YHW9NQXTfM1y/view; Drive geändert 2024-10-11T14:13:36.477Z; Abruf 2026-10-25; transcript_disabled_after_player_initialization. Drive-Viewer unabhängig vom Live-Quiz geöffnet; kein Ton-/Bild-Inhaltsreview.
 - 07 Sachversicherungen dokumentieren.mp4: https://drive.google.com/file/d/1H3Tcoi-w5InxlTPJQQzInTW2uDVDJ12b/view; Drive geändert 2024-10-11T14:13:46.000Z; Abruf 2026-10-25; transcript_disabled_after_player_initialization. Drive-Viewer unabhängig vom Live-Quiz geöffnet; kein Ton-/Bild-Inhaltsreview.
+
+## Ergänzender Drive-Durchlauf: S001–S007
+
+
+### KW-OU-S001 – Datenschutzinformation KWU – DOCX-Fassung
+
+- URL: https://drive.google.com/file/d/1IJQQaxHcGgrT8PSQ_NAcSMooDZZPXNs-/view
+- Herausgeber: Königswege / KWU-Materialablage; individueller Autor nicht verifiziert
+- Abruf: 2026-10-25; Stand: Kein verlässliches Veröffentlichungsdatum festgestellt; Drive-Metadatum geändert 2025-10-21T08:00:14.757Z; Änderungsdatum ist kein Freigabedatum
+- Fundstelle/Umfang: Vollständiger Haupttext; insbesondere Zweck, Datenkategorien, Empfänger, Drittlandübermittlung und Profiling.
+- Befund: Teilnahme-, Lernerfolgs- und Kommunikationsdaten sowie Führungskräfte als Empfänger werden beschrieben; Drittlandtransfer und Profiling verneint.
+- Grenze: Inhaltliche Überschneidung mit KW-OU-D006; andere Dateiform, keine bestätigte Byte- oder Versionsidentität. Keine Prüfung tatsächlicher Datenflüsse.
+- SHA-256: `ed25309bd12b9ef6eb1f0da699847d28905757365d9d98095de6b9c7ca17dd63`; Original nicht im Repository.
+
+### KW-OU-S002 – Geisteshaltung zum Thema Empfehlungen
+
+- URL: https://drive.google.com/file/d/1ISk1yX9_3PnfmTO4CNtjrxNuuOO3XJ5D/view
+- Herausgeber: Königswege / KWU-Materialablage; individueller Autor nicht verifiziert
+- Abruf: 2026-10-25; Stand: Kein verlässliches Veröffentlichungsdatum festgestellt; Drive-Metadatum geändert 2026-10-15T10:31:41.443Z; Änderungsdatum ist kein Freigabedatum
+- Fundstelle/Umfang: Vollständiger extrahierter Haupttext einschließlich Eskalationsstufenmodell und Schlussabschnitt.
+- Befund: Policenkontrolle und Nutzenklärung werden mit gesteuerter Empfehlungsansprache, terminierter Nachverfolgung und emotionalem Eskalationsmodell verbunden.
+- Grenze: Autor- und Versionsfreigabe unbestätigt; Wirkungs-, Ersparnis- und Bestandsangaben sind Behauptungen. Kein Nachweis tatsächlicher Anwendung oder Häufigkeit.
+- SHA-256: `35f31760bc4af5a292b733a5fd95694222df408df296da5b24ec10a4736a15ff`; Original nicht im Repository.
+
+### KW-OU-S003 – Wichtige Tipps und Tricks für dein Lernen auf der Plattform
+
+- URL: https://drive.google.com/file/d/1-0XUTo4LWE6SDERi1EhvxwxLMQlydrpW/view
+- Herausgeber: Königswege / KWU-Materialablage; individueller Autor nicht verifiziert
+- Abruf: 2026-10-25; Stand: Kein verlässliches Veröffentlichungsdatum festgestellt; Drive-Metadatum geändert 2025-10-21T08:00:30.697Z; Änderungsdatum ist kein Freigabedatum
+- Fundstelle/Umfang: Vollständiger extrahierter Haupttext: Chatbot, Intranet, Kommunikationsguidelines.
+- Befund: Beschreibt einen KW-spezifischen Wissenschatbot, verweist bei Lücken auf das Intranet und fordert respektvolle Kommunikation.
+- Grenze: Keine Funktionsprüfung des Bots, keine Datenfluss-/Berechtigungsprüfung und kein Test der fachlichen Antwortqualität.
+- SHA-256: `b166f7864b7d6f655273b531932c836f184f24ab03149f6f1e9728739dc99ae3`; Original nicht im Repository.
+
+### KW-OU-S004 – Skript Feedbackgespräche
+
+- URL: https://drive.google.com/file/d/1HnN14ortdkqSmdfxrTCwSylL-64A0rWx/view
+- Herausgeber: Königswege / KWU-Materialablage; individueller Autor nicht verifiziert
+- Abruf: 2026-10-25; Stand: 27.09.2022 im Text; Drive-Metadatum geändert 2026-04-01T14:57:54.000Z; Änderungsdatum ist kein Freigabedatum
+- Fundstelle/Umfang: Vollständiger extrahierter Haupttext: Introduction, Dienstleistung, Überleitung zu B1 und Generell.
+- Befund: Feedbacktermin wird in mehrstufige Konzeptaufnahme überführt; zugleich ausdrücklich angebotener Abbruch und erneute Argumentation über den anwerbenden Partner.
+- Grenze: Text datiert 27.09.2022; keine aktuelle Freigabe bestätigt. Zahlen, Kostenfreiheit und Konkurrenzvergleiche nicht validiert.
+- SHA-256: `7be74e64dc974fd92ef5e1b69a70a53995f279accfa22fb230c186afe6f6d064`; Original nicht im Repository.
+
+### KW-OU-S005 – Checkliste Teilnehmer / Teilnehmerkodex
+
+- URL: https://drive.google.com/file/d/1DOK84PHVqUXRji9oPGrHbgYXE4a-80bT/view
+- Herausgeber: Königswege / KWU-Materialablage; individueller Autor nicht verifiziert
+- Abruf: 2026-10-25; Stand: Kein verlässliches Veröffentlichungsdatum festgestellt; Drive-Metadatum geändert 2024-09-11T15:09:41.000Z; Änderungsdatum ist kein Freigabedatum
+- Fundstelle/Umfang: Vollständiger extrahierter Haupttext; Vorbereitung, Durchführung und Nachbereitung.
+- Befund: Notizen, Lernvorbereitung, aktive Webinarteilnahme und Nachbereitung mit Mentor und Kalenderblock werden gefordert.
+- Grenze: 14 eingebettete Bilder nicht visuell geprüft; Textausgabe enthält Layoutzahlen. Kein Nachweis tatsächlicher Teilnahme, Lernwirkung oder Durchsetzung.
+- SHA-256: `df7265dffa01e51a69027d5f2a9e4cc2e277ce2d092a0ec1ee92c0e6f199f1ea`; Original nicht im Repository.
+
+### KW-OU-S006 – Einwandbehandlung Akquise – Top 3 Werkzeuge
+
+- URL: https://drive.google.com/file/d/156d5k-eYgy7i6QanzLWst5EDQW5N6DF_/view
+- Herausgeber: Königswege / KWU-Materialablage; individueller Autor nicht verifiziert
+- Abruf: 2026-10-25; Stand: Kein verlässliches Veröffentlichungsdatum festgestellt; Drive-Metadatum geändert 2025-10-23T08:10:12.504Z; Änderungsdatum ist kein Freigabedatum
+- Fundstelle/Umfang: Vollständiger extrahierter Haupttext mit Werkzeugen und Beispielsituationen.
+- Befund: Reframing, Gegenfragen und Feel/Felt/Found; Alternativtermine sollen ein Nein vermeiden. Enthält unvalidierte Ersparnis-, Vergütungs- und Konkurrenzbehauptungen.
+- Grenze: Ein eingebettetes Bild nicht visuell geprüft; keine aktuelle Freigabe, Conversion- oder Rechtsprüfung. Konkurrenzbehauptungen nicht als Tatsachen übernommen.
+- SHA-256: `f7edf413c324cdbae1427f79f331ec11246814ce64e5eea2dd50c40b1b4ae5db`; Original nicht im Repository.
+
+### KW-OU-S007 – Anforderungsprofil
+
+- URL: https://drive.google.com/file/d/1Gtmkf3w_5aqITATtBKvMhg4YETjTMEHO/view
+- Herausgeber: Königswege / KWU-Materialablage; individueller Autor nicht verifiziert
+- Abruf: 2026-10-25; Stand: Kein verlässliches Veröffentlichungsdatum festgestellt; Drive-Metadatum geändert 2025-12-09T13:20:49.460Z; Änderungsdatum ist kein Freigabedatum
+- Fundstelle/Umfang: Vollständiger extrahierter Haupttext: Zweck, Gesprächsherleitung, Leitfragen und gegenseitige Erwartungen.
+- Befund: Verbindet Bedarfs-/Erwartungsklärung und Abstimmung von Unterlagen mit Empfehlungsbereitschaft und möglicher Partnereignung.
+- Grenze: Zwei eingebettete Bilder nicht visuell geprüft; Nutzenbeträge und verallgemeinerte Ansprüche nicht validiert. Keine vollständige Geeignetheits- oder Dokumentationsprüfung.
+- SHA-256: `a13fe09557cd6750b1ddc6938dc0751230dcee71d6c44bc01d794772d64abd9a`; Original nicht im Repository.
