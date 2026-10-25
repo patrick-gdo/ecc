@@ -12,7 +12,7 @@ Ziel ist ein belastbarer Geschäftsplan für den Aufbau eines Strukturvertriebs 
 6. [Geschäftsplan – Arbeitsentwurf](docs/BUSINESS_PLAN.md)
 7. [Entscheidungen](docs/DECISIONS.md)
 
-Stand: 25.10.2026. Analysen zu [Königswege](research/companies/koenigswege/README.md) und [Finanzgenies](research/companies/finanzgenies/README.md) sowie ein [direkter Wettbewerbsvergleich](research/comparisons/koenigswege-vs-finanzgenies.md) liegen vor. Beide werden auf Nutzerauftrag als direkte Konkurrenten untersucht. Online University ist ausgeschlossen. Die vollständige Inhaltsprüfung der umfangreichen KW-Ablage und langer Transkripte, unabhängige Bestätigung, Marktgrößen und Finanzprognosen stehen noch aus.
+Stand: 25.10.2026. Analysen zu [Königswege](research/companies/koenigswege/README.md) und [Finanzgenies](research/companies/finanzgenies/README.md) sowie ein [direkter Wettbewerbsvergleich](research/comparisons/koenigswege-vs-finanzgenies.md) liegen vor. Beide werden auf Nutzerauftrag als direkte Konkurrenten untersucht. Online University ist seit der ausdrücklichen Auftragsänderung vom 25.10.2026 eingeschlossen (DEC-005); [Teilprüfung mit Kursstruktur, Quellen und offenen Medien](research/companies/koenigswege/online-university/README.md). Die vollständige Inhaltsprüfung der umfangreichen KW-Ablage und langer Transkripte, unabhängige Bestätigung, Marktgrößen und Finanzprognosen stehen noch aus.
 
 Andere KI-Chats benötigen Zugriff auf dieses GitHub-Repository oder die relevanten Dateien. Die Ablage allein erzeugt keinen automatischen Zugriff und keine chatübergreifende Erinnerung.
 
