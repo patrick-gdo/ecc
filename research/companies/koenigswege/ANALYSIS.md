@@ -77,3 +77,7 @@ Die folgenden Punkte sind eigene Vorschläge, noch keine beschlossenen Merkmale 
 ## 9. Noch nicht beantwortet
 
 Keine abschließende Aussage zu tatsächlicher Profitabilität, Kundenergebnissen, Beraterbindung, Eigentumsstruktur, Erlaubnislage, Qualität einzelner Personen oder Überlegenheit gegenüber Wettbewerbern. Dafür fehlen eine vollständige Datenprüfung, unabhängige Quellen, eine konsistente Zeitreihe und gegebenenfalls fachjuristische Klärung. Die erste Auswertung liefert eine Struktur für diese Prüfung und begründete Gestaltungshypothesen.
+
+## 10. Vertiefung aus dem zweiten Durchlauf
+
+Der [Regelstandsvergleich](RULE_VERSIONS.md) gleicht die ältere Vertragsdatei, Vorlage 08.2026, Karrieregrafiken und ausgewählte April-/Juli-Gesprächsabschnitte ab. Diskutierte Änderungen dürfen nicht als bereits geltende Regeln ausgegeben werden. Die [Modelloptionen](MODEL_OPTIONS.md) übersetzen die erkennbaren Zielkonflikte in drei zu prüfende Gestaltungen für unser Unternehmen. Noch keine Modellentscheidung oder operative Umsetzung bestätigt.

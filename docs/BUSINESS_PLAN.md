@@ -51,3 +51,11 @@ Markt und Fokus bestätigen → Quellen prüfen → Modelle vergleichen → Ziel
 ## 11. Erste Erkenntnisse aus Königswege – noch keine Modellentscheidung
 
 Die [erste Königswege-Analyse](../research/companies/koenigswege/ANALYSIS.md) begründet folgende Prüfaufträge für unser Modell: Unternehmens- und Partnerstatus getrennt definieren; Beratungs- und Führungsrollen mit Leistungen hinterlegen; Kundenmitnahme und Haftung praktisch durchspielen; Vergütung und Liquidität getrennt rechnen; Qualitätskennzahlen eindeutig definieren; Änderungen versioniert beschließen und ihre Umsetzung prüfen. Dies sind Gestaltungs- und Validierungsaufträge, keine ungeprüfte Übernahme fremder Vertragsklauseln oder Erfolgsangaben.
+
+## 12. Strategische Modellwahl vorbereiten
+
+Die [zweite Königswege-Auswertung](../research/companies/koenigswege/MODEL_OPTIONS.md) trennt drei noch offene Optionen: entwicklungsorientierter Strukturvertrieb, Plattform für erfahrene Fachberater und Hybrid mit klaren Schnittstellen. Vor einer Entscheidung je Option Zielkunden, Beraterprofil, versprochene Leistungen, tatsächliche Leistungserbringer, Kosten und Finanzierung ausarbeiten.
+
+Eine hohe Ausschüttung kann eine geringe Plattformmarge oder eine zeitlich begrenzte Subvention bedeuten. Zusätzliche Beförderungswertung schafft keinen zusätzlichen Zahlungszufluss. Ein Hybrid muss nachweisen, ob er zusätzliche tragfähige Fälle erzeugt oder nur vorhandenen Umsatz in besser vergütete Rollen verlagert. Bisher ist keine dieser Wirkungen validiert.
+
+Für den eigenen Karriereplan wird bis zur Modellentscheidung kein Prozentsatz aus fremden Entwürfen übernommen. Rechtsstatus („93er“), Produktname („Level 93“) und numerische Ausschüttung werden getrennt behandelt; siehe [Glossar](../research/companies/koenigswege/GLOSSARY.md).

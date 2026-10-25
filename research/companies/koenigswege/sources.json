@@ -130,5 +130,148 @@
     "review_scope": "Gezielte Prüfung der Blätter Next Steps und Kennzahlen Vertrieb; keine Livevalidierung des Dashboards",
     "sha256": "e950074dbfa11b720dc21930b6ebfbb5cb3ef2fa1513c11985044c82ebed16ff",
     "original_in_repository": false
+  },
+  {
+    "source_id": "KW-013",
+    "drive_file_id": "1DsnidRwu95lzE_11KVeGljNxLgZYCyP1",
+    "title": "VP-Vertrag, Ablage 2023_04; Dokumentstand Oktober 2022",
+    "url": "https://drive.google.com/file/d/1DsnidRwu95lzE_11KVeGljNxLgZYCyP1/view",
+    "retrieved_on": "2026-10-25",
+    "document_date": "Oktober 2022 im Dokument; 2023_04 nur im Dateinamen",
+    "review_scope": "Textlicher Gesamtvergleich mit KW-001 zur Ermittlung von Unterschieden; gezielte Klauselprüfung zu Rechtsstellung, Kundenmitnahme, Reserve und Karriere; Karrieregrafik S. 30 zusätzlich visuell geprüft. Kein vollständiger juristischer Vergleich.",
+    "sha256": "8d6925b4a23de3966a34d1770efc2e7b82f5efe0c61ee7230670e8165ab5d28d",
+    "original_in_repository": false
+  },
+  {
+    "source_id": "KW-014",
+    "drive_file_id": "1MJjIQgBov-IDhA6dDuB-fn9OL6Jn8jXG",
+    "title": "Karriereplan Profi – Intranetgrafik",
+    "url": "https://drive.google.com/file/d/1MJjIQgBov-IDhA6dDuB-fn9OL6Jn8jXG/view",
+    "retrieved_on": "2026-10-25",
+    "document_date": "Kein Gültigkeitsdatum im Bild",
+    "review_scope": "Gesamte Grafik visuell gelesen; ausgewählte Vergütungsstufen und Kriterien mit KW-001/KW-013 abgeglichen. Kein Nachweis operativer Gültigkeit.",
+    "sha256": "150021867ca08b96ec91e9544e96d7ed7d745548bac54e0732b7afabfaf0134c",
+    "original_in_repository": false
+  },
+  {
+    "source_id": "KW-015",
+    "drive_file_id": "10EGIqrNI7jHxhaYMNv2AjnfhQkPWLvXc",
+    "title": "Karriereplan Aufbau – Intranetgrafik",
+    "url": "https://drive.google.com/file/d/10EGIqrNI7jHxhaYMNv2AjnfhQkPWLvXc/view",
+    "retrieved_on": "2026-10-25",
+    "document_date": "Kein Gültigkeitsdatum im Bild",
+    "review_scope": "Gesamte Grafik visuell gelesen; insbesondere SAS, Manager-Anforderungen und SP-Regel mit Vertragsvorlagen verglichen.",
+    "sha256": "979afb543aea06fe1bc78751ffaf302a1cc634e3fac288f8ac25d3ac69258d91",
+    "original_in_repository": false
+  },
+  {
+    "source_id": "KW-016",
+    "drive_file_id": "1NTKsT4u1A-bBLpFMNLIZjVHPcdore6GW",
+    "title": "Skizze Wechsel zum Profi",
+    "url": "https://drive.google.com/file/d/1NTKsT4u1A-bBLpFMNLIZjVHPcdore6GW/view",
+    "retrieved_on": "2026-10-25",
+    "document_date": "Kein Gültigkeitsdatum im Bild",
+    "review_scope": "Grafik vollständig visuell gesichtet; nur dargestellte Umhängung von Knoten beschrieben, keine Regel aus fehlendem Begleittext abgeleitet.",
+    "sha256": "e4b285a7f0cfad972bd24af9f41df735469f8455c67879e5920fec860d4c3a89",
+    "original_in_repository": false
+  },
+  {
+    "source_id": "KW-017",
+    "drive_file_id": "1WqPKMG3IcFdD6LWQPV2sNDJSGofSKOu0",
+    "title": "Skizze Umstrukturierung",
+    "url": "https://drive.google.com/file/d/1WqPKMG3IcFdD6LWQPV2sNDJSGofSKOu0/view",
+    "retrieved_on": "2026-10-25",
+    "document_date": "Kein Gültigkeitsdatum im Bild",
+    "review_scope": "Grafik vollständig visuell gesichtet; keine Genehmigung oder Gültigkeit aus der Skizze abgeleitet.",
+    "sha256": "929ae518bdb48ea5b352c1bd5581164c87148fecea54c9e894fd75c9d7b1898c",
+    "original_in_repository": false
+  },
+  {
+    "source_id": "KW-018",
+    "drive_file_id": "1CXKh7VftazLUhA_GSZnslyurACy6Chyy",
+    "title": "FAQ Checkliste Anmeldung Partner",
+    "url": "https://drive.google.com/file/d/1CXKh7VftazLUhA_GSZnslyurACy6Chyy/view",
+    "retrieved_on": "2026-10-25",
+    "document_date": "Oktober 2026 im Dokument",
+    "review_scope": "S. 1 vollständig textlich gesichtet; Unterscheidung Tippgeber/Vertriebspartner und Nachreichungsfristen. Keine unabhängige Rechtsprüfung.",
+    "sha256": "f66839b7cd6f1ac6320b0bfe14d3ca76665d2081eeea23aeddca64dc42bee918",
+    "original_in_repository": false
+  },
+  {
+    "source_id": "KW-019",
+    "drive_file_id": "1cVE-NB1t3thYqRP59lycIbk717ACPxyD",
+    "title": "AG Geschäftsplan – Notizen und Transkript 21.04.2026",
+    "url": "https://drive.google.com/file/d/1cVE-NB1t3thYqRP59lycIbk717ACPxyD/view",
+    "retrieved_on": "2026-10-25",
+    "document_date": "21.04.2026 laut Dokument",
+    "review_scope": "Zusammenfassung und Detailabschnitte zu SP, Karrierewegen und Profiberatern; ausgewählte Transkriptpassagen insbesondere 00:17:51–00:26:15 und Diskussion des 93er-Modells. Kein vollständiger Transkript- oder Audioabgleich.",
+    "sha256": "9be82cbe3bdb9e8ac5af08401f7c743e596747518cdc589ac5411eb151510b3b",
+    "original_in_repository": false
+  },
+  {
+    "source_id": "KW-020",
+    "drive_file_id": "1B-Ql1s7aar49HyoP8ogqwIgOAMd--KmC",
+    "title": "AG Geschäftsplan – Notizen und Transkript 28.04.2026",
+    "url": "https://drive.google.com/file/d/1B-Ql1s7aar49HyoP8ogqwIgOAMd--KmC/view",
+    "retrieved_on": "2026-10-25",
+    "document_date": "28.04.2026 laut Dokument",
+    "review_scope": "Zusammenfassung und Detailabschnitte zu Mindestleistung, Modellpositionierung und alternativer Anbindung; gezielte Transkriptpassagen 00:31:55–00:35:41 sowie Begriffsverwendung 93er/Prozent. Kein vollständiger Audioabgleich.",
+    "sha256": "40c7b39d95a58ea5ca93e0988120a925adececf61512516c3f5b525f14971542",
+    "original_in_repository": false
+  },
+  {
+    "source_id": "KW-021",
+    "drive_file_id": "13FYEkTLpKqwiWbGjFrMhDZsrpakTZRp8",
+    "title": "Innovationen KW – Notizen und Transkript 07.07.2026",
+    "url": "https://drive.google.com/file/d/13FYEkTLpKqwiWbGjFrMhDZsrpakTZRp8/view",
+    "retrieved_on": "2026-10-25",
+    "document_date": "07.07.2026 laut Dokument",
+    "review_scope": "Zusammenfassung und relevante Detailabschnitte; Transkript 00:14:26–00:29:27 zu Reserve, Karriere, Level 93 und Technik ausgelesen. Personenbezogene Teamdiskussionen nicht in die Wissensbasis übernommen; kein Audioabgleich.",
+    "sha256": "399410cfcf752857adac6ac33460041ab82df1c516ca3dfb8e3d66f21416de6b",
+    "original_in_repository": false
+  },
+  {
+    "source_id": "KW-022",
+    "drive_file_id": "14sN4BlH2M07dTawXjd8f2hN-GuUyI5z4",
+    "title": "Tippgebervertrag, Vorlage Stand 08.2026",
+    "url": "https://drive.google.com/file/d/14sN4BlH2M07dTawXjd8f2hN-GuUyI5z4/view",
+    "retrieved_on": "2026-10-25",
+    "document_date": "08.2026 im Dokument",
+    "review_scope": "S. 1–6 gezielt gelesen: Tätigkeit, Grenzen, Vergütung und Vorschüsse. Restliche Seiten technisch extrahiert, noch nicht vollständig geprüft.",
+    "sha256": "996afabfd16727d4548164b11801d25d12cabbe8e8d9bd973d2ab7efbb205bdf",
+    "original_in_repository": false
+  },
+  {
+    "source_id": "KW-023",
+    "drive_file_id": "1ASG7OhiZoq-SslPRFfhKBT5cqemiTBsY",
+    "title": "README – aktualisierten VP-Vertrag hinterlegen",
+    "url": "https://drive.google.com/file/d/1ASG7OhiZoq-SslPRFfhKBT5cqemiTBsY/view",
+    "retrieved_on": "2026-10-25",
+    "document_date": "Kein Dokumentstand lesbar",
+    "review_scope": "Technische Prüfung: kein extrahierter Fließtext, keine w:t-Textknoten in word/document.xml und keine Medien im Word-Archiv. Daraus keine Aussage zum gewünschten Vertragsstand abgeleitet.",
+    "sha256": "2de0a3633dbf03ec23c2bf467acfd5c8ce65abf6df30ce30e11ef5c3fc9ae4e7",
+    "original_in_repository": false
+  },
+  {
+    "source_id": "KW-024",
+    "drive_file_id": "1obXze-egfcod6TPJ46itc-BHSJiDrLYm",
+    "title": "EB – Transkript, Ablage 21.07.2026 09:03",
+    "url": "https://drive.google.com/file/d/1obXze-egfcod6TPJ46itc-BHSJiDrLYm/view",
+    "retrieved_on": "2026-10-25",
+    "document_date": "21.07.2026 nur laut Ablagebezeichnung",
+    "review_scope": "Gezielte Begriffssuche nach Geschäftsplan, Stornoreserve, 93, Karriere, Beförderung und Beschluss; kein Treffer für diese Suchbegriffe. Keine vollständige Inhaltsprüfung; Suchergebnis kein Beweis für Abwesenheit aller relevanten Aussagen.",
+    "sha256": "832ba83d3be7b300aefd041f321049263f9fe4a01bcc25631f0d8c84e8630e68",
+    "original_in_repository": false
+  },
+  {
+    "source_id": "KW-025",
+    "drive_file_id": "1CbxSZCRozigmzpDmX3hZLJL-aUun17QY",
+    "title": "EB – Transkript, Ablage 21.07.2026 10:28",
+    "url": "https://drive.google.com/file/d/1CbxSZCRozigmzpDmX3hZLJL-aUun17QY/view",
+    "retrieved_on": "2026-10-25",
+    "document_date": "21.07.2026 nur laut Ablagebezeichnung",
+    "review_scope": "Thematische Suche und einzelne Passagen zu Beförderung/Beschlüssen gesichtet; unklare Referenzen und Sprechererfassung, kein belastbarer Beschluss oder Geltungsbeginn daraus festgestellt.",
+    "sha256": "d13fde80d2986c3c3bf33d288ad11a6d377d3a45f0c69a7bdb79681c36c46d26",
+    "original_in_repository": false
   }
 ]

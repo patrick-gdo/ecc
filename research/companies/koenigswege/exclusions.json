@@ -1,0 +1,55 @@
+{
+  "recorded_on": "2026-10-25",
+  "excluded_entries": [
+    {
+      "drive_id": "1p2Vhonv_40DN2t5ab6t83th7YHlYOEyv",
+      "label": "OnlineUniversity Shared folder",
+      "kind": "folder",
+      "exclude_descendants": true,
+      "reason": "Nutzerauftrag: Online University und eindeutig zugehörige Unterlagen auslassen"
+    },
+    {
+      "drive_id": "1Bxn3RNlZ8x-7up1AQXeg8GzW63To4S-9",
+      "label": "Königswege University TEAM.xlsx Microsoft Excel",
+      "kind": "file",
+      "exclude_descendants": false,
+      "reason": "Nutzerauftrag: Online University und eindeutig zugehörige Unterlagen auslassen"
+    },
+    {
+      "drive_id": "1EpU6vm1IgaPYZUHXHXnP_IwcKPwmqMo7",
+      "label": "KWU Shortcuts.xlsx Microsoft Excel",
+      "kind": "file",
+      "exclude_descendants": false,
+      "reason": "Nutzerauftrag: Online University und eindeutig zugehörige Unterlagen auslassen"
+    },
+    {
+      "drive_id": "1X0oPyAigXSWblNhcdu43FMGx-rbgilRw",
+      "label": "Note 4 - Königswege University Shared folder",
+      "kind": "folder",
+      "exclude_descendants": true,
+      "reason": "Nutzerauftrag: Online University und eindeutig zugehörige Unterlagen auslassen"
+    },
+    {
+      "drive_id": "1osrkGWyJHc4-y9AdNEiSKh5AeY6xIUBv",
+      "label": "KW-University Shared folder",
+      "kind": "folder",
+      "exclude_descendants": true,
+      "reason": "Nutzerauftrag: Online University und eindeutig zugehörige Unterlagen auslassen"
+    },
+    {
+      "drive_id": "13CDvrtnR5hHE56aIXv9a_HG3cB9AxGOs",
+      "label": "KW-University Shared folder",
+      "kind": "folder",
+      "exclude_descendants": true,
+      "reason": "Nutzerauftrag: Online University und eindeutig zugehörige Unterlagen auslassen"
+    },
+    {
+      "drive_id": "1SgpjR8ejliaZNPAyOV4o2g1raDM5HSVS",
+      "label": "Überblick ONBOARDING KWU.pdf PDF",
+      "kind": "file",
+      "exclude_descendants": false,
+      "reason": "Nutzerauftrag: Online University und eindeutig zugehörige Unterlagen auslassen"
+    }
+  ],
+  "mixed_documents": "University-Passagen ebenfalls nicht auswerten."
+}

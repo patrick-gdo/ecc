@@ -12,6 +12,6 @@ Ziel ist ein belastbarer Geschäftsplan für den Aufbau eines Strukturvertriebs 
 6. [Geschäftsplan – Arbeitsentwurf](docs/BUSINESS_PLAN.md)
 7. [Entscheidungen](docs/DECISIONS.md)
 
-Stand: 25.10.2026. Eine [erste dokumentenbasierte Königswege-Analyse](research/companies/koenigswege/README.md) liegt vor. Online University ist ausgeschlossen. Die vollständige Ordnerprüfung, unabhängige Bestätigung, Marktgrößen und Finanzprognosen stehen noch aus.
+Stand: 25.10.2026. Eine [dokumentenbasierte Königswege-Analyse](research/companies/koenigswege/README.md) mit Regelstandsvergleich, Modelloptionen und einem Dateiindex liegt vor. Online University ist ausgeschlossen. Die vollständige Ordnerprüfung, unabhängige Bestätigung, Marktgrößen und Finanzprognosen stehen noch aus.
 
 Andere KI-Chats benötigen Zugriff auf dieses GitHub-Repository oder die relevanten Dateien. Die Ablage allein erzeugt keinen automatischen Zugriff und keine chatübergreifende Erinnerung.

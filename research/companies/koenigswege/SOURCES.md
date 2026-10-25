@@ -99,3 +99,111 @@ University-Inhalte sind ausgeschlossen. Vertragsoriginale und personenbezogene D
 - Tatsächlich geprüft: Gezielte Prüfung der Blätter Next Steps und Kennzahlen Vertrieb; keine Livevalidierung des Dashboards.
 - Evidenzklasse: interner Dokumentenbefund; Umsetzung, Verbindlichkeit und externe Richtigkeit nicht unabhängig bestätigt.
 - SHA-256: `e950074dbfa11b720dc21930b6ebfbb5cb3ef2fa1513c11985044c82ebed16ff`
+
+# Ergänzungen aus dem zweiten Durchlauf
+
+KW-023 dokumentiert eine technische Leselücke. KW-024/025 dokumentieren begrenzte Such- und Sichtungsergebnisse. Ein Registereintrag ist ausdrücklich kein Beleg für eine vollständige Prüfung oder für die Richtigkeit einer Zusammenfassung.
+
+## KW-013 – VP-Vertrag, Ablage 2023_04; Dokumentstand Oktober 2022
+
+- URL: https://drive.google.com/file/d/1DsnidRwu95lzE_11KVeGljNxLgZYCyP1/view
+- Dokumentstand: Oktober 2022 im Dokument; 2023_04 nur im Dateinamen.
+- Tatsächlich geprüft: Textlicher Gesamtvergleich mit KW-001 zur Ermittlung von Unterschieden; gezielte Klauselprüfung zu Rechtsstellung, Kundenmitnahme, Reserve und Karriere; Karrieregrafik S. 30 zusätzlich visuell geprüft. Kein vollständiger juristischer Vergleich.
+- Evidenzklasse: bereitgestelltes internes Dokument bzw. technische Beobachtung; operative Geltung, Authentizität und Vollständigkeit nicht unabhängig bestätigt.
+- SHA-256: `8d6925b4a23de3966a34d1770efc2e7b82f5efe0c61ee7230670e8165ab5d28d`
+
+## KW-014 – Karriereplan Profi – Intranetgrafik
+
+- URL: https://drive.google.com/file/d/1MJjIQgBov-IDhA6dDuB-fn9OL6Jn8jXG/view
+- Dokumentstand: Kein Gültigkeitsdatum im Bild.
+- Tatsächlich geprüft: Gesamte Grafik visuell gelesen; ausgewählte Vergütungsstufen und Kriterien mit KW-001/KW-013 abgeglichen. Kein Nachweis operativer Gültigkeit.
+- Evidenzklasse: bereitgestelltes internes Dokument bzw. technische Beobachtung; operative Geltung, Authentizität und Vollständigkeit nicht unabhängig bestätigt.
+- SHA-256: `150021867ca08b96ec91e9544e96d7ed7d745548bac54e0732b7afabfaf0134c`
+
+## KW-015 – Karriereplan Aufbau – Intranetgrafik
+
+- URL: https://drive.google.com/file/d/10EGIqrNI7jHxhaYMNv2AjnfhQkPWLvXc/view
+- Dokumentstand: Kein Gültigkeitsdatum im Bild.
+- Tatsächlich geprüft: Gesamte Grafik visuell gelesen; insbesondere SAS, Manager-Anforderungen und SP-Regel mit Vertragsvorlagen verglichen.
+- Evidenzklasse: bereitgestelltes internes Dokument bzw. technische Beobachtung; operative Geltung, Authentizität und Vollständigkeit nicht unabhängig bestätigt.
+- SHA-256: `979afb543aea06fe1bc78751ffaf302a1cc634e3fac288f8ac25d3ac69258d91`
+
+## KW-016 – Skizze Wechsel zum Profi
+
+- URL: https://drive.google.com/file/d/1NTKsT4u1A-bBLpFMNLIZjVHPcdore6GW/view
+- Dokumentstand: Kein Gültigkeitsdatum im Bild.
+- Tatsächlich geprüft: Grafik vollständig visuell gesichtet; nur dargestellte Umhängung von Knoten beschrieben, keine Regel aus fehlendem Begleittext abgeleitet.
+- Evidenzklasse: bereitgestelltes internes Dokument bzw. technische Beobachtung; operative Geltung, Authentizität und Vollständigkeit nicht unabhängig bestätigt.
+- SHA-256: `e4b285a7f0cfad972bd24af9f41df735469f8455c67879e5920fec860d4c3a89`
+
+## KW-017 – Skizze Umstrukturierung
+
+- URL: https://drive.google.com/file/d/1WqPKMG3IcFdD6LWQPV2sNDJSGofSKOu0/view
+- Dokumentstand: Kein Gültigkeitsdatum im Bild.
+- Tatsächlich geprüft: Grafik vollständig visuell gesichtet; keine Genehmigung oder Gültigkeit aus der Skizze abgeleitet.
+- Evidenzklasse: bereitgestelltes internes Dokument bzw. technische Beobachtung; operative Geltung, Authentizität und Vollständigkeit nicht unabhängig bestätigt.
+- SHA-256: `929ae518bdb48ea5b352c1bd5581164c87148fecea54c9e894fd75c9d7b1898c`
+
+## KW-018 – FAQ Checkliste Anmeldung Partner
+
+- URL: https://drive.google.com/file/d/1CXKh7VftazLUhA_GSZnslyurACy6Chyy/view
+- Dokumentstand: Oktober 2026 im Dokument.
+- Tatsächlich geprüft: S. 1 vollständig textlich gesichtet; Unterscheidung Tippgeber/Vertriebspartner und Nachreichungsfristen. Keine unabhängige Rechtsprüfung.
+- Evidenzklasse: bereitgestelltes internes Dokument bzw. technische Beobachtung; operative Geltung, Authentizität und Vollständigkeit nicht unabhängig bestätigt.
+- SHA-256: `f66839b7cd6f1ac6320b0bfe14d3ca76665d2081eeea23aeddca64dc42bee918`
+
+## KW-019 – AG Geschäftsplan – Notizen und Transkript 21.04.2026
+
+- URL: https://drive.google.com/file/d/1cVE-NB1t3thYqRP59lycIbk717ACPxyD/view
+- Dokumentstand: 21.04.2026 laut Dokument.
+- Tatsächlich geprüft: Zusammenfassung und Detailabschnitte zu SP, Karrierewegen und Profiberatern; ausgewählte Transkriptpassagen insbesondere 00:17:51–00:26:15 und Diskussion des 93er-Modells. Kein vollständiger Transkript- oder Audioabgleich.
+- Evidenzklasse: bereitgestelltes internes Dokument bzw. technische Beobachtung; operative Geltung, Authentizität und Vollständigkeit nicht unabhängig bestätigt.
+- SHA-256: `9be82cbe3bdb9e8ac5af08401f7c743e596747518cdc589ac5411eb151510b3b`
+
+## KW-020 – AG Geschäftsplan – Notizen und Transkript 28.04.2026
+
+- URL: https://drive.google.com/file/d/1B-Ql1s7aar49HyoP8ogqwIgOAMd--KmC/view
+- Dokumentstand: 28.04.2026 laut Dokument.
+- Tatsächlich geprüft: Zusammenfassung und Detailabschnitte zu Mindestleistung, Modellpositionierung und alternativer Anbindung; gezielte Transkriptpassagen 00:31:55–00:35:41 sowie Begriffsverwendung 93er/Prozent. Kein vollständiger Audioabgleich.
+- Evidenzklasse: bereitgestelltes internes Dokument bzw. technische Beobachtung; operative Geltung, Authentizität und Vollständigkeit nicht unabhängig bestätigt.
+- SHA-256: `40c7b39d95a58ea5ca93e0988120a925adececf61512516c3f5b525f14971542`
+
+## KW-021 – Innovationen KW – Notizen und Transkript 07.07.2026
+
+- URL: https://drive.google.com/file/d/13FYEkTLpKqwiWbGjFrMhDZsrpakTZRp8/view
+- Dokumentstand: 07.07.2026 laut Dokument.
+- Tatsächlich geprüft: Zusammenfassung und relevante Detailabschnitte; Transkript 00:14:26–00:29:27 zu Reserve, Karriere, Level 93 und Technik ausgelesen. Personenbezogene Teamdiskussionen nicht in die Wissensbasis übernommen; kein Audioabgleich.
+- Evidenzklasse: bereitgestelltes internes Dokument bzw. technische Beobachtung; operative Geltung, Authentizität und Vollständigkeit nicht unabhängig bestätigt.
+- SHA-256: `399410cfcf752857adac6ac33460041ab82df1c516ca3dfb8e3d66f21416de6b`
+
+## KW-022 – Tippgebervertrag, Vorlage Stand 08.2026
+
+- URL: https://drive.google.com/file/d/14sN4BlH2M07dTawXjd8f2hN-GuUyI5z4/view
+- Dokumentstand: 08.2026 im Dokument.
+- Tatsächlich geprüft: S. 1–6 gezielt gelesen: Tätigkeit, Grenzen, Vergütung und Vorschüsse. Restliche Seiten technisch extrahiert, noch nicht vollständig geprüft.
+- Evidenzklasse: bereitgestelltes internes Dokument bzw. technische Beobachtung; operative Geltung, Authentizität und Vollständigkeit nicht unabhängig bestätigt.
+- SHA-256: `996afabfd16727d4548164b11801d25d12cabbe8e8d9bd973d2ab7efbb205bdf`
+
+## KW-023 – README – aktualisierten VP-Vertrag hinterlegen
+
+- URL: https://drive.google.com/file/d/1ASG7OhiZoq-SslPRFfhKBT5cqemiTBsY/view
+- Dokumentstand: Kein Dokumentstand lesbar.
+- Tatsächlich geprüft: Technische Prüfung: kein extrahierter Fließtext, keine w:t-Textknoten in word/document.xml und keine Medien im Word-Archiv. Daraus keine Aussage zum gewünschten Vertragsstand abgeleitet.
+- Evidenzklasse: bereitgestelltes internes Dokument bzw. technische Beobachtung; operative Geltung, Authentizität und Vollständigkeit nicht unabhängig bestätigt.
+- SHA-256: `2de0a3633dbf03ec23c2bf467acfd5c8ce65abf6df30ce30e11ef5c3fc9ae4e7`
+
+## KW-024 – EB – Transkript, Ablage 21.07.2026 09:03
+
+- URL: https://drive.google.com/file/d/1obXze-egfcod6TPJ46itc-BHSJiDrLYm/view
+- Dokumentstand: 21.07.2026 nur laut Ablagebezeichnung.
+- Tatsächlich geprüft: Gezielte Begriffssuche nach Geschäftsplan, Stornoreserve, 93, Karriere, Beförderung und Beschluss; kein Treffer für diese Suchbegriffe. Keine vollständige Inhaltsprüfung; Suchergebnis kein Beweis für Abwesenheit aller relevanten Aussagen.
+- Evidenzklasse: bereitgestelltes internes Dokument bzw. technische Beobachtung; operative Geltung, Authentizität und Vollständigkeit nicht unabhängig bestätigt.
+- SHA-256: `832ba83d3be7b300aefd041f321049263f9fe4a01bcc25631f0d8c84e8630e68`
+
+## KW-025 – EB – Transkript, Ablage 21.07.2026 10:28
+
+- URL: https://drive.google.com/file/d/1CbxSZCRozigmzpDmX3hZLJL-aUun17QY/view
+- Dokumentstand: 21.07.2026 nur laut Ablagebezeichnung.
+- Tatsächlich geprüft: Thematische Suche und einzelne Passagen zu Beförderung/Beschlüssen gesichtet; unklare Referenzen und Sprechererfassung, kein belastbarer Beschluss oder Geltungsbeginn daraus festgestellt.
+- Evidenzklasse: bereitgestelltes internes Dokument bzw. technische Beobachtung; operative Geltung, Authentizität und Vollständigkeit nicht unabhängig bestätigt.
+- SHA-256: `d13fde80d2986c3c3bf33d288ad11a6d377d3a45f0c69a7bdb79681c36c46d26`

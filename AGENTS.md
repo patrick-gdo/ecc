@@ -21,3 +21,7 @@ Unternehmensanalysen liegen unter research/companies/, Quellen unter research/SO
 Aktualisiere nach substanzieller Arbeit docs/PROJECT.md mit erledigten Punkten, offenen Fragen und nächstem Arbeitsschritt. Dokumentiere bei Entscheidungen Datum, Begründung, Evidenz und Bedingungen für eine Neubewertung. Bewahre abweichende Evidenz.
 
 Prüfe interne Links und Git-Diff vor einem Commit. Bewahre fremde Änderungen. Publiziere nur innerhalb des erteilten Auftrags und berichte klar, ob Änderungen lokal, committed oder zu GitHub gepusht sind.
+
+## Königswege: Fortsetzen der Quellenarbeit
+
+Vor neuen Dateiabrufen research/companies/koenigswege/INVENTORY.md und exclusions.json lesen. Die ausgeschlossenen University-Ordner einschließlich ihrer Nachkommen nicht öffnen; eindeutig zugehörige Dateien und University-Passagen gemischter Unterlagen auslassen. document_inventory.csv enthält bewusst nur datensparsame Metadaten. `scoped_review` bedeutet ausschließlich den im Quellenregister beschriebenen Prüfumfang, niemals automatisch eine vollständige Inhaltsprüfung. Vorschlag, Beschlussbehauptung, dokumentierte Regel und geprüfter Betrieb bleiben getrennte Evidenzarten.
