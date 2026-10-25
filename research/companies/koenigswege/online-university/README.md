@@ -2,7 +2,7 @@
 
 Stand: 25.10.2026. Der Nutzer hat den früheren University-Ausschluss ausdrücklich aufgehoben; Entscheidung DEC-005. KWU und `patrick-gdo/ecc/main` waren zu Beginn tatsächlich lesbar.
 
-**Ergebnis: strukturierte Teilprüfung.** 58 sichtbare Lernpfade erfasst, 15 Live-Module mit benanntem Teilumfang, 45 Dokumentquellen, 16 separat geprüfte Risikomaterialpakete und ausgewählte Medien registriert. Insgesamt 160 Quellen; V005 im verfügbaren Transkript gelesen. 312 reguläre Materialordner rekursiv gelistet, Shortcut-Ziele noch offen. Vollständige University-Auswertung bleibt offen.
+**Ergebnis: strukturierte Teilprüfung.** 58 sichtbare Lernpfade erfasst, 16 Live-Module mit benanntem Teilumfang, 48 Dokumentquellen, 16 separat geprüfte Risikomaterialpakete und ausgewählte Medien registriert. Insgesamt 164 Quellen; V005 im verfügbaren Transkript gelesen. 312 reguläre Materialordner rekursiv gelistet, Shortcut-Ziele noch offen. Vollständige University-Auswertung bleibt offen.
 
 - [Analyse: Darstellung, interne Regeln, eigene Bewertung und Lehren](ANALYSIS.md)
 - [Kurs- und Modulstruktur](STRUCTURE.md)
