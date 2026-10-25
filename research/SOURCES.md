@@ -27,3 +27,7 @@ Der zweite bereitgestellte Drive-Ordner „FG“ ist gesondert unter [Finanzgeni
 - [Websitequellen](companies/koenigswege/website/SOURCES.md): 312 kanonische HTML-Seiten mit je URL, Hash und konkretem Prüfumfang; Mehrheit nur strukturell indexiert. Unternehmenseigene Aussagen sind keine unabhängige Bestätigung.
 - [KW-Live-Intranetquellen](companies/koenigswege/intranet/SOURCES.md): 85 Seitenpositionen mit getrennten Lese-/Ausschlussstatus, 21 ausgewählte Dokumentverweise und fünf externe Primärquellen. Davon 74 gezielte Seiten- und 19 Dokumentreviews; zwei Dokumentabrufe scheiterten.
 - [Zugriffsstatus](companies/koenigswege/INTRANET_ACCESS.md): KW im späteren authentifizierten Durchlauf lesbar; KWIF dabei nicht erneut geprüft. Historische Anmeldeblockade bleibt als früherer Versuch dokumentiert.
+
+## Online University · Auftragserweiterung 25.10.2026
+
+[University-Quellenregister](companies/koenigswege/online-university/SOURCES.md): 102 Einträge mit URL, Stand, Abrufdatum, Fundstelle und konkretem Prüfumfang. 58 Pfadübersichten, zehn Module, zehn Dokumente, 22 Medien und zwei Einstiegs-/Ablagequellen; daraus folgt keine vollständige Lektionen-/Medienprüfung. [Prüfstatus](companies/koenigswege/online-university/REVIEW_STATUS.md) weist Quiz-/Aufgabenschranken und offene Inhalte aus. Der frühere University-Ausschluss ist gemäß DEC-005 aufgehoben. Keine Originalmaterialien oder personenbezogenen Lernstände gespeichert.
