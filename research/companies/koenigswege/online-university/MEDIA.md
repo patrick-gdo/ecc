@@ -35,3 +35,15 @@ Stand: 25.10.2026. Die folgende Liste ist eine **Auswahl tatsächlich entdeckter
 **Wichtig:** „Nicht geprüft“ bedeutet nicht automatisch „technisch unzugänglich“. Nur die ausdrücklich beobachtete Loom-Registrierungsschranke und konkrete Quiz-/Aufgabenschranken sind als solche belegt. Weitere Medien können nach erneuter Prüfung zugänglich sein. Aus fehlenden Transkripten in dieser Auswahl folgt nicht, dass keine existieren.
 
 Keine vollständigen Medien, Transkripte oder personenbezogenen Kommentare ins Repository übernommen.
+
+## Fortsetzung: Medienzugang genauer geprüft
+
+D009 wurde vollständig auf acht Seiten gerendert und visuell gelesen; diese frühere Grafik-Lücke ist geschlossen. Referentenkodex D016 ebenfalls beide Seiten visuell. Von 93 Folien in 16 Risikovoranfrage-Paketen sind OCR/Alternativtexte/Notizen geprüft; vier kritische Folien zusätzlich visuell. Das ist kein vollständiger grafischer Review dieser Pakete.
+
+Weitere vollständig gelesene separate Textquellen: B1-Aufbau (D012, 0:01–3:09), Money Mindset (D014), Wie funktioniert Geld (D015), drei Schwarzes-M-Skripte (D023–D025). D042 AVD ist in der gelieferten Fassung bis zum abgeschnittenen letzten Satz gelesen; die Aufzeichnung kann darüber hinausgehen. D003 und D031 sind korrespondierende Teamführungsunterlagen, keine unabhängigen Erfolgsbelege.
+
+**Wichtiger technischer Befund:** Ein zunächst deaktivierter Drive-Transkriptknopf beweist nicht, dass kein Transkript verfügbar ist. Bei V005 wurde er erst nach Initialisierung des Videoplayers aktiv. Danach war die vollständige Transkriptseitenleiste mit Segmenten 0:02–34:29 bei Gesamtdauer 34:34 lesbar. Alle Segmente textlich gelesen; weder Ton noch gesamtes Bildmaterial wurden geprüft. V002 blieb auch nach Playerstart deaktiviert. V003/V004 wurden im Viewer geöffnet; ihre anfängliche Deaktivierung allein wird nicht als endgültiger Blocker gewertet.
+
+Die frühere Loom-Registrierungsschranke V001 bleibt bestehen; mangels neuer Fassung nicht erneut durchlaufen. Vollständiger Rest von V001 und Ton-/Bildabgleich der Teamführungs-Looms weiterhin offen. Keine Registrierung, keine Medien als vollständig audiovisuell ausgewertet bezeichnet.
+
+347 Audio-/Videodateien sind im rekursiven Materialindex identifiziert. Das ist die Zahl sichtbarer Dateipositionen, nicht unabhängiger oder geprüfter Aufzeichnungen. Dateiversionen, mögliche Duplikate und Live-Verwendung sind nur teilweise abgeglichen. Siehe [Materialindex](drive_inventory.json) und das jeweils genaue Register.
