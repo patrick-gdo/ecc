@@ -2526,5 +2526,125 @@
     "summary": "Drei Aktivitäten; keine Wiederholung/Abschlussbestätigung zur erzwungenen Versionsaktualisierung.",
     "limitations": "Kein vollständiger audiovisueller Review; nichts eingereicht oder abgeschlossen.",
     "source_hash": null
+  },
+  {
+    "id": "KW-OU-D046",
+    "title": "DSGVO-Grundlagen TG+VP – Videovorlage Teil I",
+    "url": "https://drive.google.com/file/d/1Yab3AFnOv6zyXB9_awauhVHgpOO-Nm8e/view",
+    "drive_id": "1Yab3AFnOv6zyXB9_awauhVHgpOO-Nm8e",
+    "publisher": "basucon / im KWU-Material bereitgestellt",
+    "accessed_on": "2026-10-25",
+    "publication_state": "Videovorlage 18.08.2025; Drive geändert 2025-09-08T03:43:00.000Z",
+    "status": "scoped_text_review",
+    "scope": "Alle gelieferten Folientexte einschließlich wiederholter Aufbaufolien gelesen; keine vollständige Grafik-/Tonprüfung. Keine Schulung abgeschlossen.",
+    "summary": "Grundsätze, Zweckbindung, Datenminimierung, Informations-/Nachweispflichten und behauptete vertrags-/haftungsrechtliche Konsequenzen.",
+    "limitations": "Keine Prüfung realer Datenflüsse, unterschriebener Individualvereinbarungen oder vollständige Rechtsvalidierung.",
+    "source_hash": null
+  },
+  {
+    "id": "KW-OU-D047",
+    "title": "DSGVO-Grundlagen TG+VP – Videovorlage Teil II",
+    "url": "https://drive.google.com/file/d/12-uwWINREhs2QO0jlDbbRAvjhEaC766P/view",
+    "drive_id": "12-uwWINREhs2QO0jlDbbRAvjhEaC766P",
+    "publisher": "basucon / im KWU-Material bereitgestellt",
+    "accessed_on": "2026-10-25",
+    "publication_state": "Videovorlage 18.08.2025; Drive geändert 2025-10-01T07:49:47.936Z",
+    "status": "scoped_text_review",
+    "scope": "Alle gelieferten Folientexte einschließlich wiederholter Aufbaufolien gelesen; keine vollständige Grafik-/Tonprüfung. Keine Schulung abgeschlossen.",
+    "summary": "Datenschutzrichtlinie, Vertraulichkeit, freiwillige Fotoeinwilligung und gemeinsame Verantwortlichkeit; Partnerverzeichnisse/TOM/Löschkonzept und eigener Datenschutzbeauftragter.",
+    "limitations": "Keine Prüfung realer Datenflüsse, unterschriebener Individualvereinbarungen oder vollständige Rechtsvalidierung.",
+    "source_hash": null
+  },
+  {
+    "id": "KW-OU-D048",
+    "title": "DSGVO-Grundlagen TG+VP – Videovorlage Teil III",
+    "url": "https://drive.google.com/file/d/1MVouiKfDwqnwwpT81ypjD_cr_0aJ_s_w/view",
+    "drive_id": "1MVouiKfDwqnwwpT81ypjD_cr_0aJ_s_w",
+    "publisher": "basucon / im KWU-Material bereitgestellt",
+    "accessed_on": "2026-10-25",
+    "publication_state": "Videovorlage 18.08.2025; Drive geändert 2025-09-08T03:43:00.000Z",
+    "status": "scoped_text_review",
+    "scope": "Alle gelieferten Folientexte einschließlich wiederholter Aufbaufolien gelesen; keine vollständige Grafik-/Tonprüfung. Keine Schulung abgeschlossen.",
+    "summary": "Erstkontaktinformation, sichere Übermittlung, Vorfallmeldung, Betroffenenrechte und interne Eskalation. Unterscheidung 72-Stunden-Meldung falls meldepflichtig und Monatsfrist für Anfragen.",
+    "limitations": "Keine Prüfung realer Datenflüsse, unterschriebener Individualvereinbarungen oder vollständige Rechtsvalidierung.",
+    "source_hash": null
+  },
+  {
+    "id": "KW-OU-M016",
+    "title": "Beratungsdokumentation",
+    "url": "https://kwu.koenigswege.com/course/play/678e3bccab9f086681375680",
+    "publisher": "Königswege / KWU",
+    "accessed_on": "2026-10-25",
+    "publication_state": "Live letzte Aktualisierung 24.02.2026",
+    "status": "partial_activity_review",
+    "scope": "Cover, elf Aktivitätstitel, erste Videoeinbettung geöffnet. Sieben zugehörige Drive-Dateien unabhängig identifiziert; Inhalt/Transkriptzugang separat geprüft. Keine Kundenübung erstellt.",
+    "summary": "Grundlagen, Warnhinweise, Formulierung, Altersvorsorge, Nachhaltigkeit, Arbeitskraft und Sach. Vier Wissensfragen zwischen Videoaktivitäten.",
+    "limitations": "Nach Grundlagen folgt Wissensfrage; weitere Inhalte im Live-Inhaltsverzeichnis deaktiviert. Kein Test beantwortet oder Abschluss ausgelöst.",
+    "source_hash": null,
+    "media_checks": [
+      {
+        "title": "01 Grundlagen der Beratungsdokumentation.mp4",
+        "url": "https://drive.google.com/file/d/1yGZHfGYeAODoA7UTPY44zuJdDIAbyPdn/view",
+        "modified_time": "2024-10-11T14:11:03.320Z",
+        "accessed_on": "2026-10-25",
+        "scope": "Drive-Viewer unabhängig vom Live-Quiz geöffnet; kein Ton-/Bild-Inhaltsreview.",
+        "status": "transcript_disabled_after_player_initialization",
+        "limitations": "Fehlende Transkriptansicht ist kein Nachweis genereller Nichtabspielbarkeit; beim gesondert markierten Ladefehler meldete der Viewer ausdrücklich Video kann nicht geladen werden."
+      },
+      {
+        "title": "02 Warnhinweise in der Beratungsdokumentation.mp4",
+        "url": "https://drive.google.com/file/d/1r1vzKXvOCP_i91wHstrGssP8VBVkcMab/view",
+        "modified_time": "2024-10-11T14:11:16.987Z",
+        "accessed_on": "2026-10-25",
+        "scope": "Drive-Viewer unabhängig vom Live-Quiz geöffnet; kein Ton-/Bild-Inhaltsreview.",
+        "status": "viewer_load_error_and_raw_download_failed",
+        "limitations": "Fehlende Transkriptansicht ist kein Nachweis genereller Nichtabspielbarkeit; beim gesondert markierten Ladefehler meldete der Viewer ausdrücklich Video kann nicht geladen werden."
+      },
+      {
+        "title": "03 Formulierung in der Beratungsdokumentation.mp4",
+        "url": "https://drive.google.com/file/d/175jJ104qk-4X65rag_pQB0G4uRC0T0bi/view",
+        "modified_time": "2024-10-11T14:11:35.387Z",
+        "accessed_on": "2026-10-25",
+        "scope": "Drive-Viewer unabhängig vom Live-Quiz geöffnet; kein Ton-/Bild-Inhaltsreview.",
+        "status": "transcript_disabled_after_player_initialization",
+        "limitations": "Fehlende Transkriptansicht ist kein Nachweis genereller Nichtabspielbarkeit; beim gesondert markierten Ladefehler meldete der Viewer ausdrücklich Video kann nicht geladen werden."
+      },
+      {
+        "title": "04 Altersvorsorge dokumentieren.mp4",
+        "url": "https://drive.google.com/file/d/1k-shmiqeEv9UndYzPTU1rKMEceoALy8m/view",
+        "modified_time": "2024-10-11T14:12:55.980Z",
+        "accessed_on": "2026-10-25",
+        "scope": "Drive-Viewer unabhängig vom Live-Quiz geöffnet; kein Ton-/Bild-Inhaltsreview.",
+        "status": "transcript_disabled_after_player_initialization",
+        "limitations": "Fehlende Transkriptansicht ist kein Nachweis genereller Nichtabspielbarkeit; beim gesondert markierten Ladefehler meldete der Viewer ausdrücklich Video kann nicht geladen werden."
+      },
+      {
+        "title": "05 Nachhaltige Altersvorsorge dokumentieren.mp4",
+        "url": "https://drive.google.com/file/d/1SZTA2ggtddnVs3_JMwGf6O7oo5z9Yax4/view",
+        "modified_time": "2024-10-11T14:13:22.866Z",
+        "accessed_on": "2026-10-25",
+        "scope": "Drive-Viewer unabhängig vom Live-Quiz geöffnet; kein Ton-/Bild-Inhaltsreview.",
+        "status": "transcript_disabled_after_player_initialization",
+        "limitations": "Fehlende Transkriptansicht ist kein Nachweis genereller Nichtabspielbarkeit; beim gesondert markierten Ladefehler meldete der Viewer ausdrücklich Video kann nicht geladen werden."
+      },
+      {
+        "title": "06 Arbeitskraftabsicherung dokumentieren.mp4",
+        "url": "https://drive.google.com/file/d/1CzO8MDiUd5xylFEqxLE7YHW9NQXTfM1y/view",
+        "modified_time": "2024-10-11T14:13:36.477Z",
+        "accessed_on": "2026-10-25",
+        "scope": "Drive-Viewer unabhängig vom Live-Quiz geöffnet; kein Ton-/Bild-Inhaltsreview.",
+        "status": "transcript_disabled_after_player_initialization",
+        "limitations": "Fehlende Transkriptansicht ist kein Nachweis genereller Nichtabspielbarkeit; beim gesondert markierten Ladefehler meldete der Viewer ausdrücklich Video kann nicht geladen werden."
+      },
+      {
+        "title": "07 Sachversicherungen dokumentieren.mp4",
+        "url": "https://drive.google.com/file/d/1H3Tcoi-w5InxlTPJQQzInTW2uDVDJ12b/view",
+        "modified_time": "2024-10-11T14:13:46.000Z",
+        "accessed_on": "2026-10-25",
+        "scope": "Drive-Viewer unabhängig vom Live-Quiz geöffnet; kein Ton-/Bild-Inhaltsreview.",
+        "status": "transcript_disabled_after_player_initialization",
+        "limitations": "Fehlende Transkriptansicht ist kein Nachweis genereller Nichtabspielbarkeit; beim gesondert markierten Ladefehler meldete der Viewer ausdrücklich Video kann nicht geladen werden."
+      }
+    ]
   }
 ]
