@@ -74,3 +74,24 @@ Die separat geöffneten zehn Module stehen mit tatsächlichem Prüfumfang unter 
 ## Ergänzende Materialablage
 
 [KWU_ALLE_Inhalte_seit_2025](https://drive.google.com/drive/folders/13I4aT3ddm92iBaHL6hnylA4Ns2QF7hm0) enthält auf oberster Ebene 24 direkt gelistete Einträge. Ausgewählte Unterordner für Onboarding, Mentoren, Consulting, Führung und Organisation wurden gesichtet. Diese Ablage ist nicht vollständig rekursiv inventarisiert und nicht als identisch mit dem aktuellen Livekatalog bestätigt. Personenbezogene Planungsdateien werden nicht als allgemeine Ausbildungsvorlagen ausgewertet. Quelle KW-OU-R002.
+
+## Fortsetzung auf Lektionen-/Materialebene
+
+Die 58 historischen Pfadübersichten oben bleiben erhalten; sie wurden nicht erneut pauschal geöffnet. Priorisierte Vertiefung:
+
+| Bereich | Neu tatsächlich geprüft | Grenze |
+| --- | --- | --- |
+| B1 | M011 Aufbau: zwei Aktivitäten geöffnet, D011 40 Folien textlich, D012 Transkript 0:01–3:09; M012 Ein-/Ausleitung und D013; M013 Money Mindset/D014; D015 Geldtranskript | Weitere B1-Lektionen und Ton/Bild offen |
+| B2 | Budgetierung D017, Stage I/II D018/D019 und VV-Verkauf D020 vollständig in gelieferter Textfassung | Sachversicherungs-Verkaufsmodule, Stage III und audiovisuelle Prüfung offen |
+| B3 | M008 Ursachenlektion gelesen, dann Szenarioquiz; D021/D022 separat gelesen | Live-Folgelektionen gesperrt; kein Quiz eingereicht |
+| B4 | Drei Schwarzes-M-Skripte D023–D025 gelesen, Ein-/Ausleitung D013 | Andere Empfehlungswerkzeuge/Medien offen |
+| Risikoprüfung | 15 LE und Prozessübersicht als 16 separate Pakete L001–L016, 93 Folien textlich; vier davon visuell kontrolliert; E-Mail-Vorlagen D027 | Nicht mit dem neueren Live-Stand gleichgesetzt; Praxisvideos und Fallbeispiele offen |
+| Dokumentation | D026 Content-Creator-Vorlage gelesen | Sieben Praxisvideos nur inventarisiert; keine Kundenaufgabe erstellt |
+| Werkzeuge | Modultexte/Checkliste Onpartner und fb-expert sowie Workspace D032–D036; VV-Bestand D045 | Kein Softwaretest; audiovisuelle Lektionen offen |
+| Referenten | D016 vollständig visuell, zwei Seiten | Weitere Referentenmodule offen |
+| Pflichtschulungen | Drei unterschiedliche GwG-Foliensätze D028–D030 textlich | Videos, Grafiken, DS-Schulungsinhalte und Rechtsvollprüfung offen |
+| Begonnene Module | M003 separate Umfrageleitfäden D038–D040 und V005-Transkript; M005 D043; M006 D031; M009 D041; M010 D037 | Live-Schranken bleiben, keine Versionsgleichheit unterstellt |
+
+[Rekursiver Materialindex](drive_inventory.json): 312 gelistete Ordner einschließlich Root; 1417 Einträge = 311 Unterordner und 1106 Dateien/Shortcuts. Darunter 347 Audio-/Videodateien und 16 noch nicht aufgelöste Shortcuts. 66 Gruppen gleicher normalisierter Titel sind **Duplikatkandidaten**, keine bestätigten identischen Dateien. Keine automatische Addition zu historischen KW-Inventaren.
+
+Konkrete Versionspaare: Datenschutzinformation PDF/DOCX; Referentenkodex PDF/DOCX; Money-Mindset-PDF/Doc; Hauptberuflichkeitsplanung PDF/PPT; Abschluss-B2 PDF/Doc; Schwarzes-M-Skripte PDF/Doc. Formatpaare sind nicht automatisch verschiedene inhaltliche Fassungen. B1 V7.1, Abschlusspräsentation 2025, Beförderungspräsentation und 2026-AVD-Transkript haben unterschiedliche Stände und Zwecke. Live-Einbettungen von M011–M013 wurden mit den IDs der tatsächlich verlinkten Dateien abgeglichen; bei separaten Paket-/Ordnerkopien fehlt dieser Identitätsbeleg teilweise.
