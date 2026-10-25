@@ -1,0 +1,23 @@
+# Arbeitsanweisungen für KI-Chats
+
+## Einstieg
+
+Lies zuerst README.md, docs/PROJECT.md und docs/DECISIONS.md. Prüfe anschließend den Git-Status und die für die Aufgabe relevanten Analysen und Quellen. Nutze den bestehenden Checkout; erstelle keinen zusätzlichen Worktree ohne ausdrücklichen Auftrag.
+
+## Wissensqualität
+
+- Schreibe auf Deutsch. Halte Fakten, Unternehmensselbstdarstellung, externe Kritik, Interpretation, Hypothesen und Entscheidungen ausdrücklich auseinander.
+- Erfinde keine Zahlen, Quellen, Unternehmenspraktiken oder Erfolgsversprechen. Fehlende Daten bleiben offen. Keine unbelegten Vorwürfe gegen Unternehmen oder Personen.
+- Jede wesentliche empirische oder rechtliche Aussage erhält Quellen-ID und Fundstelle. Erfasse URL, Herausgeber, Veröffentlichungsstand, Abrufdatum, Geltungsbereich und Einschränkungen im Quellenregister.
+- Lies Quellen tatsächlich. Eine vorgeschlagene URL ist keine geprüfte Quelle. Prüfe Aktualität und unterscheide Rechtslage, angekündigte Änderungen und eigene Interpretation.
+- Nutze Primärquellen bevorzugt; prüfe Eigeninteressen und gleiche strittige Aussagen mit unabhängigen Quellen ab.
+- Vergleiche Kennzahlen nur bei gleichem Zeitraum, Markt, Nenner und Geschäftsmodell. Umsatz ist weder Gewinn noch verfügbarer Cashflow.
+- Speichere keine Kundendaten, Zugangsdaten oder vertraulichen Verträge im Repository. Verwende anonymisierte oder synthetische Beispiele.
+
+## Ablage und Übergabe
+
+Unternehmensanalysen liegen unter research/companies/, Quellen unter research/SOURCES.md, Entscheidungen unter docs/DECISIONS.md. Nutze templates/COMPANY_ANALYSIS.md für neue Analysen.
+
+Aktualisiere nach substanzieller Arbeit docs/PROJECT.md mit erledigten Punkten, offenen Fragen und nächstem Arbeitsschritt. Dokumentiere bei Entscheidungen Datum, Begründung, Evidenz und Bedingungen für eine Neubewertung. Bewahre abweichende Evidenz.
+
+Prüfe interne Links und Git-Diff vor einem Commit. Bewahre fremde Änderungen. Publiziere nur innerhalb des erteilten Auftrags und berichte klar, ob Änderungen lokal, committed oder zu GitHub gepusht sind.
