@@ -23,3 +23,7 @@ Für Deutschland die produktabhängigen Erlaubnis- und Aufsichtspflichten anhand
 3. Erste Unternehmensanalyse erstellen; Gegenmodell mit gleicher Methode untersuchen.
 4. Vergleichsmatrix und offene Evidenzlücken dokumentieren.
 5. Geschäftsplan und Pilot anhand der Befunde konkretisieren.
+
+## Aktueller Schwerpunkt: direkte Konkurrenten Königswege und FG
+
+Die Nutzereinordnung ist unter DEC-003 festgehalten. Aktuelle Ergebnisse: [Königswege](companies/koenigswege/README.md), [Finanzgenies](companies/finanzgenies/README.md) und [direkter Vergleich](comparisons/koenigswege-vs-finanzgenies.md). Die [strukturierte Aussagenliste](claims.csv) trennt Dokumentenbefund, Interpretation und Evidenzlücken. FG bedeutet Finanzgenies, nicht Fonds Finanz.

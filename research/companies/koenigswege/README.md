@@ -6,10 +6,13 @@ Stand und Abruf: 25.10.2026. Ausgangspunkt: der vom Nutzer freigegebene Google-D
 
 Die sichtbare Ordnerstruktur wurde rekursiv erfasst: 963 eindeutige Einträge, davon 256 Ordner und 707 Dateien. Darin enthalten sind sieben als ausgeschlossen markierte Einträge: vier University-Ordner und drei einzelne University-Dateien. Die Inhalte der ausgeschlossenen Ordner wurden nicht aufgerufen. Ihre Nachkommen sind nicht in diesen Zahlen enthalten. Außerhalb dieser Ausschlüsse verbleiben 704 sichtbare Dateien. Das sind beobachtete Einträge zum Abrufzeitpunkt, keine Garantie über alle existierenden oder nicht freigegebenen Dateien.
 
-Im ersten Durchlauf wurden 42 Kerndokumente technisch ausgelesen. Nach dem zweiten Durchlauf sind insgesamt 50 Dateien heruntergeladen: 46 technisch verarbeitete Text-/Office-/PDF-Dokumente (darunter eines ohne auslesbaren Text) sowie vier visuell geprüfte Grafiken. **Extrahiert bedeutet nicht vollständig gelesen oder geprüft.** 25 Registereinträge dokumentieren den konkreten Prüfumfang, darunter auch begrenzte Suchen und eine technische Leselücke. Große Tabellen, lange Transkripte und das restliche Material sind noch nicht vollständig inhaltlich geprüft. Formelwerte aus Excel wurden aus gespeicherten Ergebnissen gelesen und nicht neu berechnet; Bilder, Kommentare und Layout können bei Textextraktion fehlen.
+Kumuliert 64 Dateien heruntergeladen: 60 Office-/PDF-/Textdokumente technisch verarbeitet (darunter eines ohne auslesbaren Text) sowie vier separate Grafiken. Bildbasierte PDFs zusätzlich nach Bedarf gerendert. 40 Registereinträge dokumentieren unterschiedliche Prüfumfänge, darunter begrenzte Suchen und eine Leselücke. **Nicht alle Dateien vollständig geprüft.** Der dritte Durchlauf vertieft [Beratung, Produktauswahl und Kontrollen](OPERATIONS.md).
+
+Die interne Vergleichsarbeitsmappe wird unter KW-040 geführt und mit FG-006 als eine Evidenzfamilie behandelt. Weitere Zählstände und Grenzen stehen im [Prüfstatus](REVIEW_STATUS.md).
 
 ## Einstieg
 
+- [Beratung, Produktauswahl und Kontrollen](OPERATIONS.md)
 - [Analyse und Lehren für den Geschäftsplan](ANALYSIS.md)
 - [Vertrags-, Karriere- und Änderungsstände](RULE_VERSIONS.md)
 - [Drei strategische Gestaltungsoptionen](MODEL_OPTIONS.md)

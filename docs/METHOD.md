@@ -34,3 +34,9 @@ Vergleiche einheitliche Berichtsperioden und Länder. Unterscheide angestellte, 
 Je Befund dokumentieren: Evidenz → vermuteter Mechanismus → Übertragungsbedingungen → Risiko → messbarer Pilot → Entscheidung. Prüfe auch die stärkste Gegenhypothese.
 
 Ungewichtete Punktwerte vermeiden, solange Ziele, Datenqualität und Prioritäten ungeklärt sind. Fehlende Daten nicht als schlechte Leistung werten. Regulatorische Zulässigkeit und nachweisbarer Kundennutzen sind vor einer Wachstumsentscheidung zu klären.
+
+## Quellenabhängigkeit und ungleiche Abdeckung
+
+Ein Ablageort ist kein Herkunftsnachweis. Bei Kopien Herkunft und Evidenzfamilie erfassen; identischer Inhalt in mehreren Ordnern zählt nicht als unabhängige Bestätigung. Bei Screenshots nur sichtbare Inhalte, Datum, Ausschnitt und fehlenden Regeltext beurteilen. Bildbasierte PDFs bei unvollständigem Textauszug zusätzlich visuell prüfen.
+
+Bei einem Wettbewerbsvergleich dieselben Dimensionen verwenden und zwischen einer fehlenden Unterlage in unserer Auswahl und einer fehlenden Leistung des Unternehmens unterscheiden. Größere Dokumentenmengen, mehr Kurstitel oder längere Beratungsdokumentationen belegen für sich weder bessere Qualität noch höhere Wirtschaftlichkeit.

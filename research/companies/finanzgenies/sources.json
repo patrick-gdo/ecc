@@ -1,0 +1,88 @@
+[
+  {
+    "source_id": "FG-001",
+    "drive_file_id": "1v1EoO0AXwNDmYfuLcXLIh-_QoWm6HZ4D",
+    "title": "Geschäftsplan FG – Screenshot",
+    "url": "https://drive.google.com/file/d/1v1EoO0AXwNDmYfuLcXLIh-_QoWm6HZ4D/view",
+    "retrieved_on": "2026-10-25",
+    "document_date": "Kein sichtbares Gültigkeitsdatum",
+    "provenance": "Screenshot einer Karrieretabelle, Herkunft und Verbindlichkeit nicht unabhängig bestätigt",
+    "review_scope": "Gesamte Grafik visuell gelesen: Karrierebezeichnungen, Vergütungs- und Umsatzspalten, Punkte und Erlaubnisspalte. Verknüpfung der Anforderungen, Sonderregeln und Auszahlungsbedingungen nicht aus dem Ausschnitt ableitbar.",
+    "sha256": "7d75ab0deb015c1d0e3f669297e16c8df4f3bf954766ef4a0f3fb419e5f75237",
+    "original_in_repository": false
+  },
+  {
+    "source_id": "FG-002",
+    "drive_file_id": "1hC9vq8CfeJEV6MDcdQ8gs9RvmAPwb_q4",
+    "title": "Feste Kriterien Bauträger – Intranetausschnitt",
+    "url": "https://drive.google.com/file/d/1hC9vq8CfeJEV6MDcdQ8gs9RvmAPwb_q4/view",
+    "retrieved_on": "2026-10-25",
+    "document_date": "Kein sichtbares Gültigkeitsdatum",
+    "provenance": "Screenshot mit Finanzgenies-Branding; keine unabhängig bestätigte aktuelle Regel",
+    "review_scope": "Sichtbare Tabellen zu Lage, Bauzustand, Finanzen und Verwaltung sowie Hinweis zur Empfehlungsvergütung visuell gelesen. Oberer Seitenteil ist angeschnitten; keine vollständige Objekt-/Bauträgerprüfung.",
+    "sha256": "aa12c65f3364bb97f97efaa11e5276cfd2f411c02a114ea60b8aeb7afbd5677f",
+    "original_in_repository": false
+  },
+  {
+    "source_id": "FG-003",
+    "drive_file_id": "1ThJEKCtnG2cPfCE0mHfUsjTOoA-htW_5",
+    "title": "Honoraraufteilungsmöglichkeiten FG",
+    "url": "https://drive.google.com/file/d/1ThJEKCtnG2cPfCE0mHfUsjTOoA-htW_5/view",
+    "retrieved_on": "2026-10-25",
+    "document_date": "Kein gesichertes Gültigkeitsdatum",
+    "provenance": "Zweiseitige bildbasierte PDF mit Tabellen- und Intranetscreenshots, teilweise Finanzgenies-Branding",
+    "review_scope": "Beide Seiten gerendert und vollständig visuell gesichtet. Beitragssummenbezogene Aufteilung und NAV-Modell getrennt betrachtet; gezeigte Rechnungen und Prognosen nicht nachgerechnet, Kostenannahmen nicht extern bestätigt.",
+    "sha256": "e767d1a45c94a4f6a0c793fbf10fe76e78408e443f29e28cb27406abb7a367ca",
+    "original_in_repository": false
+  },
+  {
+    "source_id": "FG-004",
+    "drive_file_id": "1Qqx4PQAqq8QOfWr-CHcfd5Zuyr31sNjc",
+    "title": "Kurse FG Academy – Screenshot",
+    "url": "https://drive.google.com/file/d/1Qqx4PQAqq8QOfWr-CHcfd5Zuyr31sNjc/view",
+    "retrieved_on": "2026-10-25",
+    "document_date": "Kein sichtbares Gültigkeitsdatum",
+    "provenance": "Screenshot einer Kursübersicht mit Finanzgenies-Branding",
+    "review_scope": "Nur sichtbare Kurstitel und Freischaltungsanzeigen gelesen. Keine Kurse geöffnet, keine Video-/Lerninhalte oder Wirksamkeit geprüft. Eigenständiger FG-Academy-Ausschnitt, nicht der ausgeschlossene KW-Ordner OnlineUniversity.",
+    "sha256": "e30d9c58e2f7b00d71f2054b6ed66f927331418894969634f8e2380e70669283",
+    "original_in_repository": false
+  },
+  {
+    "source_id": "FG-005",
+    "drive_file_id": "1R7s75iTksxPx72PT29EQMBVidUKZshPp",
+    "title": "Gesellschafterliste Finanzgenies – vorgelegte PDF-Kopie",
+    "url": "https://drive.google.com/file/d/1R7s75iTksxPx72PT29EQMBVidUKZshPp/view",
+    "retrieved_on": "2026-10-25",
+    "document_date": "Notarieller Vermerk und Beglaubigungsvermerk vom 17.09.2025; Bezug auf Vorgang vom 15.09.2025",
+    "provenance": "Vorgelegte registerbezogene Liste mit notariellem Vermerk; kein eigener aktueller Handelsregisterabruf",
+    "review_scope": "Drei Seiten technisch ausgelesen; gezielt Rechtsträger Finanzgenies GmbH, Registerbezug HRB 33213 / Amtsgericht Zweibrücken, Dokumentdatum und größte aufgeführte Kapitalbeteiligung von 55 % geprüft. Keine personenbezogenen Details oder vollständige Gesellschafterliste übernommen; keine aktuelle Eigentums-/Stimmrechtsprüfung.",
+    "sha256": "dd4652bc7350f7dcf38cbca2bcd426df1c36d1dfdc7f130e10e2f439438b1a0a",
+    "original_in_repository": false
+  },
+  {
+    "source_id": "FG-006",
+    "drive_file_id": "113OFFExtbWwKut5yHoyEhvTXeuO07nYX",
+    "title": "KW vs. FG – Vergleich, zweite Ablage",
+    "url": "https://drive.google.com/file/d/113OFFExtbWwKut5yHoyEhvTXeuO07nYX/view",
+    "retrieved_on": "2026-10-25",
+    "document_date": "Gemischte Stände: u. a. 23.10.2025 und spätere Kommentare",
+    "provenance": "Inhaltlich Königswege-orientierte Arbeits-/Vergleichsunterlage; kein unabhängiger FG-Beleg",
+    "review_scope": "Blätter Next Steps und KW vs. FG thematisch geprüft; University-Passagen ausgeschlossen. Historische Kennzahlen, Bewertungen und behauptete Rechts-/Vertragsbedingungen nicht verifiziert. Ausgelesener Text samt gespeicherten Werten identisch zur KW-Ablage, Datei-Hashes verschieden.",
+    "sha256": "4e5de876f6914f81cf255a6c6dec444d48c770fcc76fdadee5a1e5bf79d251d5",
+    "original_in_repository": false,
+    "evidence_family": "KW_FG_internal_comparison_2025",
+    "same_extracted_text_as_drive_file_id": "1tyHVHyeZSH4UzMr7gHJAXzIwjGTkcscy"
+  },
+  {
+    "source_id": "FG-007",
+    "drive_file_id": "1H6rwe3jRMu_y5wsVtXjRaDZ2foS7NRWR",
+    "title": "AG Innovation – Transkript, Ablage 20.07.2026",
+    "url": "https://drive.google.com/file/d/1H6rwe3jRMu_y5wsVtXjRaDZ2foS7NRWR/view",
+    "retrieved_on": "2026-10-25",
+    "document_date": "20.07.2026 laut Dateiname; kein unabhängiger Terminbeleg",
+    "provenance": "Gesprächs-/Innovationsunterlage mit überwiegendem Königswege-Bezug; kein FG-Vertrags- oder Betriebsbeleg",
+    "review_scope": "Anfang und gezielt Themenpassagen zu 93er-Modell, Profiberatern, Mentoring, Positionierung und behaupteten Beschlüssen gesichtet. Keine vollständige Inhalts-/Audioprüfung; University-Passagen und personenbezogene Wertungen nicht übernommen. Unklare Referenzen und weitgehend gleichförmige Sprecherlabels begrenzen die Verlässlichkeit.",
+    "sha256": "4ad03831fcdca7bf91390b3b58486b2c1428bcc00bfc43040138c316903c0a4f",
+    "original_in_repository": false
+  }
+]

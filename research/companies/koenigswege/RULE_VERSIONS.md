@@ -60,3 +60,7 @@ Aus einer organisatorischen Nachreichungsfrist folgt keine Befugnis, zuvor schon
 - Bei Widersprüchen dokumentierte Klärung der Vertrags-/Intranetrangfolge.
 
 Diese Punkte sind Evidenzanforderungen für weitere Arbeit, keine Aufforderung, vertrauliche Originalverträge auf GitHub zu veröffentlichen.
+
+## Ergänzung nach Durchlauf drei
+
+KW-032 zeigt als separater Karriereplan sichtbar August 2023. KW-033/034 liefern nun Formulare und FAQ für die zuvor nur skizzierten Wechselprozesse; KW-035 ist ein Muster für eine Gesellschaft als Vertriebspartner. Die zusätzlichen Unterlagen belegen weiterhin keinen Livefall und keine allgemeine Einführung der diskutierten Reformen. Siehe [operative Auswertung](OPERATIONS.md).

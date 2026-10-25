@@ -28,3 +28,9 @@ Die Quelle mit `no_text_extracted` ist ebenfalls im Quellenregister dokumentiert
 3. Nach Themenbedarf aus dem Index wählen und Inhalt tatsächlich abrufen. Die bloße Präsenz im Inventar ist kein Beleg für eine Aussage.
 4. Quellen-ID, Hash, Datum und konkreten Prüfumfang ergänzen. Vertrauliche Originale und personenbezogene Daten außerhalb des Repositorys halten.
 5. Status, Schlussfolgerungen und Projektübergabe gemeinsam aktualisieren. Änderungen versioniert auf GitHub speichern.
+
+## Dritter Durchlauf – operative Vertiefung
+
+14 weitere Dokumente heruntergeladen und mit explizitem Prüfumfang registriert; zwei bildbasierte PDFs zusätzlich gerendert und visuell gelesen. Kumuliert 64 heruntergeladene Dateien, 60 technisch verarbeitete Dokumente (eins ohne auslesbaren Text) und vier separat heruntergeladene Grafiken. Status im Index: `extracted_only` 25, `no_text_extracted` 1, `not_reviewed` 640, `scoped_review` 38. 39 Registereinträge einschließlich der zuvor dokumentierten Leselücke. Vorherige Zählungen oben sind historische Zwischenstände.
+
+Die zusätzlich eingeordnete Vergleichsarbeitsmappe KW-040 war bereits heruntergeladen. Aktuell: 40 Registereinträge, 39 `scoped_review`, 24 `extracted_only`, eine `no_text_extracted`, 640 `not_reviewed`; weiterhin 64 heruntergeladene Dateien. Ihre zweite Ablage FG-006 zählt nicht als unabhängiger Beleg.

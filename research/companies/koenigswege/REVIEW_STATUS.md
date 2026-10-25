@@ -35,3 +35,11 @@ Details: [Regelstände](RULE_VERSIONS.md), [Modelloptionen](MODEL_OPTIONS.md), [
 704 sichtbare Dateien außerhalb der festgehaltenen University-Ausschlüsse. Aktueller Indexstatus: 654 `not_reviewed`, 25 `extracted_only`, 24 `scoped_review`, eine Datei `no_text_extracted`. Die letztere ist als Leselücke ebenfalls im Quellenregister enthalten. Inhaltliche Duplikate mit verschiedenen Drive-IDs wurden noch nicht systematisch zusammengeführt.
 
 Die ursprüngliche Ordnerinventarisierung wurde im zweiten Durchlauf nicht komplett wiederholt. Ein vollständiger Inhaltsreview des gesamten Ordners ist nicht abgeschlossen. University bleibt bei allen weiteren Schritten ausgeschlossen.
+
+## Dritter Durchlauf – operative Vertiefung abgeschlossen
+
+Beratungs-/Qualitätsunterlagen, zwei Produktleitfäden und ein internes Factsheet, Struktur- und Karrierewechselformulare, Quereinsteiger-Nachweise, Incentive, Offboarding und ausgewählte Datenschutztexte mit Fundstellen geprüft. Zwei bildbasierte PDFs und die strittigen Incentive-Daten zusätzlich visuell gelesen. Ergebnisse: [OPERATIONS.md](OPERATIONS.md).
+
+Kumuliert 64 Dateien heruntergeladen; 39 Registereinträge mit unterschiedlichen Prüfumfängen. Die operative Prüfung ist dokumentenbasiert, nicht durch Livefälle bestätigt. Das übrige Intranet, vollständige Langunterlagen, aktuelle Regelgeltung, Finanzmodell und externe Bestätigung bleiben offen. Im Anschluss wird auf Nutzerauftrag der zweite Drive als gesonderte FG-Quelle erfasst; keine Vollständigkeit der Königswege-Ordnerprüfung behauptet.
+
+Im Anschluss wurde die bereits ausgelesene Vergleichsarbeitsmappe als KW-040 eingeordnet und gegen FG-006 abgeglichen. Damit 40 KW-Registereinträge und 39 `scoped_review`; Index ansonsten 24 `extracted_only`, eine Leselücke, 640 ungeprüfte Dateien. Die Zahl heruntergeladener KW-Dateien bleibt 64.

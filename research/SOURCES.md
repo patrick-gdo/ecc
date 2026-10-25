@@ -16,3 +16,7 @@ Für jede Quelle einen Eintrag nach diesem Schema anlegen:
 - **Grenzen / Widersprüche / Aktualisierungsbedarf:**
 
 Keine vollständigen urheberrechtlich geschützten Berichte oder vertraulichen Originalunterlagen ohne entsprechende Berechtigung ins Repository übernehmen. Kurze notwendige Auszüge kennzeichnen und mit Fundstelle versehen.
+
+## Weitere Quellenbasis
+
+Der zweite bereitgestellte Drive-Ordner „FG“ ist gesondert unter [Finanzgenies-Quellen](companies/finanzgenies/SOURCES.md) registriert. Dort stehen Herkunft, Dokumentstand und Prüfumfang je Datei. Der [Vergleich](comparisons/koenigswege-vs-finanzgenies.md) behandelt beide als direkte Konkurrenten und verhindert die Doppelzählung derselben internen Vergleichsunterlage.

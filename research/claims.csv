@@ -1,0 +1,14 @@
+claim_id,subject,claim,evidence_type,references,limits,next_verification
+CTX-001,KW + FG,Direkte Konkurrenten,Nutzereinordnung,DEC-003,Bestätigter Projektkontext; keine Qualitätsrangfolge,Vergleich weiter nach gleichen Dimensionen führen
+KW-C001,Königswege,Unternehmens- und Partnerstatus in VP-Vorlage verschieden,Dokumentenbefund,KW-001,"Vorlage, keine bestätigte aktuelle Einzelfallgeltung",Anlagen/aktuellen Vertragsstand und Fall prüfen
+KW-C002,Königswege,Kundenmitnahme ist in der Vorlage an Bedingungen geknüpft,Dokumentenbefund,KW-001,Keine tatsächliche Übertragung geprüft,Anonymisierten Übertragungsfall nachvollziehen
+KW-C003,Königswege,Mehrere 2026 diskutierte Reformen stehen nicht in der gelesenen Vorlage 08.2026,Dokumentenvergleich,KW-001;KW-006;KW-019;KW-021,Keine Aussage über sämtliche Ergänzungen oder heutige Systemanwendung,Verbindliche Beschlüsse und Umsetzungsnachweise prüfen
+KW-C004,Königswege,Prozessunterlagen für Beratung und individuelle Auswahl sind vorhanden,Dokumentenbefund,KW-026;KW-027;KW-038;KW-039,Kein Nachweis tatsächlicher Anwendung oder heutiger Tarifrichtigkeit,Fallkontrolle und aktuelle Produktbedingungen prüfen
+KW-C005,Königswege,Incentive-Vorlage enthält widersprüchliche bzw. ungültige Datumsangaben,Visuell bestätigter Dokumentenbefund,KW-031,Keine nachgewiesene Falschabrechnung,Verbindliche Korrektur/Fassung klären
+FG-C001,Finanzgenies,Karrieregrafik enthält explizit Aufbau-/Führungsstufen,Visueller Dokumentenbefund,FG-001,Beförderungslogik und tatsächlicher Aufbau-Erfolg nicht bestätigt,Vollständige Regeln und vergleichbare Beispiele prüfen
+FG-C002,Finanzgenies,Screenshots zeigen verschiedene Abschluss-/Betreuungshonorarmodelle,Visueller Dokumentenbefund,FG-003,Keine validierten Formeln oder bestätigten geltenden Verträge,Honorarvertrag und Originalrechenmodell prüfen
+FG-C003,Finanzgenies,Ausschnitt zeigt Objekt-/Verwalterkriterien,Visueller Dokumentenbefund,FG-002,Kein vollständiger Bauträgerprüfprozess oder Anwendungsnachweis,Freigaben und anonymisierte Objektprüfakte prüfen
+FG-C004,Finanzgenies,Kursübersicht zeigt fachliche Themen,Visueller Dokumentenbefund,FG-004,Nur Übersicht; keine Inhalte/Wirksamkeit geprüft,Bei zukünftigem Auftrag Inhalte und Kompetenznachweise prüfen
+FG-C005,Finanzgenies,Eigene Reserve- und Kundenmitnahmebedingungen fehlen im bereitgestellten kleinen Ordner,Evidenzlücke,FG-001;FG-006,Keine Aussage dass entsprechende Regeln im Unternehmen fehlen,Eigene gültige FG-Regeltexte beschaffen
+X-C001,KW + FG,Vergleichstabelle in beiden Ablagen hat identischen ausgelesenen Inhalt,Technischer Herkunftsabgleich,KW-040;FG-006,Datei-Hashes verschieden; keine vollständige Formelvalidierung,Als eine Evidenzfamilie behandeln
+X-C002,KW + FG,Innovations-Transkript im FG-Ordner ist kein eigener FG-Vertragsnachweis,Herkunftseinordnung nach Themenprüfung,FG-007,"Nur ausgewählte Passagen geprüft, kein Audioabgleich",Keine verbindlichen FG-Regeln daraus ableiten

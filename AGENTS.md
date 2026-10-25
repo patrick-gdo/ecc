@@ -25,3 +25,7 @@ Prüfe interne Links und Git-Diff vor einem Commit. Bewahre fremde Änderungen. 
 ## Königswege: Fortsetzen der Quellenarbeit
 
 Vor neuen Dateiabrufen research/companies/koenigswege/INVENTORY.md und exclusions.json lesen. Die ausgeschlossenen University-Ordner einschließlich ihrer Nachkommen nicht öffnen; eindeutig zugehörige Dateien und University-Passagen gemischter Unterlagen auslassen. document_inventory.csv enthält bewusst nur datensparsame Metadaten. `scoped_review` bedeutet ausschließlich den im Quellenregister beschriebenen Prüfumfang, niemals automatisch eine vollständige Inhaltsprüfung. Vorschlag, Beschlussbehauptung, dokumentierte Regel und geprüfter Betrieb bleiben getrennte Evidenzarten.
+
+## Direkte Konkurrenten: Königswege und FG
+
+Der Nutzer ordnet Königswege und Finanzgenies (FG) als direkte Konkurrenten ein. FG nicht mit Fonds Finanz verwechseln. Vor vergleichender Arbeit research/comparisons/koenigswege-vs-finanzgenies.md und research/claims.csv lesen. Ein Drive-Ablageort belegt keine Urheberschaft: FG-006 und KW-040 sind dieselbe Evidenzfamilie, FG-007 hat überwiegenden Königswege-Bezug. Screenshots, Vertragsvorlagen, Gesprächsbehauptungen und verifizierte aktuelle Betriebsregeln auseinanderhalten.

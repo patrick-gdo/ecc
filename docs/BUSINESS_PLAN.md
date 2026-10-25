@@ -59,3 +59,9 @@ Die [zweite Königswege-Auswertung](../research/companies/koenigswege/MODEL_OPTI
 Eine hohe Ausschüttung kann eine geringe Plattformmarge oder eine zeitlich begrenzte Subvention bedeuten. Zusätzliche Beförderungswertung schafft keinen zusätzlichen Zahlungszufluss. Ein Hybrid muss nachweisen, ob er zusätzliche tragfähige Fälle erzeugt oder nur vorhandenen Umsatz in besser vergütete Rollen verlagert. Bisher ist keine dieser Wirkungen validiert.
 
 Für den eigenen Karriereplan wird bis zur Modellentscheidung kein Prozentsatz aus fremden Entwürfen übernommen. Rechtsstatus („93er“), Produktname („Level 93“) und numerische Ausschüttung werden getrennt behandelt; siehe [Glossar](../research/companies/koenigswege/GLOSSARY.md).
+
+## 13. Direkte Wettbewerber als Lernbasis
+
+Königswege und Finanzgenies werden auf Nutzerauftrag als direkte Konkurrenten verglichen. Die [Vergleichsauswertung](../research/comparisons/koenigswege-vs-finanzgenies.md) erweitert die Gestaltungsfragen: Eigen-/Teamumsatz und Führungskompetenz unterscheiden, Honorar nach Leistung und Zeitpunkt verstehen, Auswahlkriterien mit unabhängiger Freigabe verbinden und formale Regeln von tatsächlicher Anwendung trennen.
+
+Die FG-Karrieregrafik enthält einen Aufbaupfad; das rechtfertigt keine pauschale Einordnung als reines Einzelberatermodell. Ebenso belegt die umfangreichere KW-Dokumentenablage noch keine höhere Beratungsqualität. Für unseren Entwurf bleiben Modellwahl, Kundenfokus, Vergütungsanteile und Finanzierung offen. Nächste belastbare Grundlage wäre ein einheitlicher Fallvergleich mit gültigen Regeltexten, vollständiger Kosten-/Haftungslogik und tatsächlichen Leistungsnachweisen.

@@ -207,3 +207,126 @@ KW-023 dokumentiert eine technische Leselücke. KW-024/025 dokumentieren begrenz
 - Tatsächlich geprüft: Thematische Suche und einzelne Passagen zu Beförderung/Beschlüssen gesichtet; unklare Referenzen und Sprechererfassung, kein belastbarer Beschluss oder Geltungsbeginn daraus festgestellt.
 - Evidenzklasse: bereitgestelltes internes Dokument bzw. technische Beobachtung; operative Geltung, Authentizität und Vollständigkeit nicht unabhängig bestätigt.
 - SHA-256: `d13fde80d2986c3c3bf33d288ad11a6d377d3a45f0c69a7bdb79681c36c46d26`
+
+# Ergänzungen: operative Prozesse und Kontrollen
+
+## KW-026 – Checkliste sauberes Geschäft
+
+- URL: https://drive.google.com/file/d/1Kt2g66Eane__OZdRFm34mIXDr7MxiZLz/view
+- Dokumentstand: Kein verlässliches Datum ausgewiesen.
+- Tatsächlich geprüft: S. 1–3 textlich gelesen; Anforderungen an Mandat, Vollmacht, Ablage, Beratungsdokumentation und Angebotsaushändigung. Keine Fall- oder Systemprüfung.
+- Evidenzklasse: bereitgestelltes internes Dokument, keine verifizierte Betriebsanwendung.
+- SHA-256: `f644aadf945f690137145bb4544ef9c99bc4bcd4af24d60700e4d01fad3b91ab`
+
+## KW-027 – Beratungsdokumentation Gesamt
+
+- URL: https://drive.google.com/file/d/1K87O6fgWgfYiscknMQvJAClOyOwbLRc4/view
+- Dokumentstand: Kein verlässliches Datum ausgewiesen.
+- Tatsächlich geprüft: S. 1–7 als Formular gelesen; insbesondere Beratungsumfang, Empfehlung, Begründung, Kundenentscheidung und Aushändigung. Keine Bestätigung der fachlichen Aktualität der Tarif-/Rechtstexte.
+- Evidenzklasse: bereitgestelltes internes Dokument, keine verifizierte Betriebsanwendung.
+- SHA-256: `fd30d60b8eb4f1aa3e1bd3a2165be3d5b788e88e606ffdb1f0468484e0513eff`
+
+## KW-028 – Anweisung AVV-BD – V25
+
+- URL: https://drive.google.com/file/d/1J-axJIRpby6bgLR2vTaiXOTmATYFBTCG/view
+- Dokumentstand: V25 als Dateibezeichnung; kein gesichertes Gültigkeitsdatum.
+- Tatsächlich geprüft: S. 1 textlich gelesen: Anweisung zur Datenkopie bzw. Sperrung und Bestätigung. Keine personenbezogenen Formularwerte ausgefüllt oder gespeichert.
+- Evidenzklasse: bereitgestelltes internes Dokument, keine verifizierte Betriebsanwendung.
+- SHA-256: `eddb80db9021adc46123c5e91d0cff00f4f11a99379559293eb9da74d5e0669f`
+
+## KW-029 – FAQ Datenschutz – Version 1.00
+
+- URL: https://drive.google.com/file/d/1KnC6n6ZonJ4mB1FOPYBep-GMnGPRsBUY/view
+- Dokumentstand: 30.06.2021 laut Dokument.
+- Tatsächlich geprüft: Gezielte Textprüfung S. 9–11, 16, 18 zu Vorfällen, Zuständigkeiten, Dienstleistungspaketen und Betroffenenanfragen; keine Gesamtprüfung und keine Übernahme als heutige Rechtsauskunft.
+- Evidenzklasse: bereitgestelltes internes Dokument, keine verifizierte Betriebsanwendung.
+- SHA-256: `f057637626ada8de92562b609e81ac528c05513955e7769f8bf2d26321407307`
+
+## KW-030 – Automatisiertes Offboarding – Intraneterklärung
+
+- URL: https://drive.google.com/file/d/1R_X7nPW-LXQ_NDt1VtbHJCKDC6lMvWua/view
+- Dokumentstand: 19.05.2026 nur laut Dateiname.
+- Tatsächlich geprüft: S. 1–3 textlich gelesen: Aktivitätskriterium, Hinweisfolge, Kündigung und Veto. Keine Liveprüfung oder Aussage zur rechtlichen Wirksamkeit.
+- Evidenzklasse: bereitgestelltes internes Dokument, keine verifizierte Betriebsanwendung.
+- SHA-256: `6eb4dbf12ec03e3f9ae664ebad15f6b5a02bc361e88f8b8d48832b0a66e16558`
+
+## KW-031 – Incentive 2026 – Kriterien
+
+- URL: https://drive.google.com/file/d/1sKB8GKxkC2Msv2NHr7IT1UlCa8lJuX8k/view
+- Dokumentstand: Bezug 2026 im Dokument.
+- Tatsächlich geprüft: S. 1–2 textlich geprüft; S. 2 zusätzlich visuell geprüft, einschließlich widersprüchlicher Stichtage und fehlerhaftem Datum. Keine historische Sieger-/Abrechnungsprüfung.
+- Evidenzklasse: bereitgestelltes internes Dokument, keine verifizierte Betriebsanwendung.
+- SHA-256: `27ee6efda0a6c81608e2c5e0bb83d3a7a8043aec240ca23bf520502520ce220f`
+
+## KW-032 – Karriereplan / Geschäftsplan – einzelne PDF-Seite
+
+- URL: https://drive.google.com/file/d/1zzL58BusXVb-7oLkCy1FVjbeDg157byL/view
+- Dokumentstand: August 2023 sichtbar in der Grafik.
+- Tatsächlich geprüft: PDF vollständig gerendert und visuell geprüft; Textauszug war unvollständig. Auswahl zentraler Karrierewerte gegen KW-013/014/015 abgeglichen.
+- Evidenzklasse: bereitgestelltes internes Dokument, keine verifizierte Betriebsanwendung.
+- SHA-256: `356fecc066d50039816ee2b7808f4f5bb4cb2ebcdd8e4385fc479c74e64b981f`
+
+## KW-033 – Formular und FAQ Umstrukturierung
+
+- URL: https://drive.google.com/file/d/1NUoNgHwY1xKMwHNnixoR8IAwEymJH2g_/view
+- Dokumentstand: 05/2026 laut Dokument.
+- Tatsächlich geprüft: S. 1–3 textlich gelesen; Zustimmung, Zeitpunkt, Einreichung und vollständige Unterschriften. Kein durchgeführter Einzelfall nachgewiesen.
+- Evidenzklasse: bereitgestelltes internes Dokument, keine verifizierte Betriebsanwendung.
+- SHA-256: `3cd1e9847c2bf410078acc9907c44fb76ed5aa906dc849d6c7bbcbe9f0c2ca57`
+
+## KW-034 – Formular und FAQ Karrierewegwechsel
+
+- URL: https://drive.google.com/file/d/1h18PaKEU1ZG2xZAf4HN42r7EltvYZNXZ/view
+- Dokumentstand: 05/2026 laut Dokument.
+- Tatsächlich geprüft: S. 1–2 textlich gelesen: Zuordnung der Positionen, Signaturen und Berücksichtigung historischer Eigenumsätze. Kein angewendeter Einzelfall nachgewiesen.
+- Evidenzklasse: bereitgestelltes internes Dokument, keine verifizierte Betriebsanwendung.
+- SHA-256: `12c252a2e79438c6f4c8deb98b60694d2b7169aa4e425c55b4ceb21657a929c8`
+
+## KW-035 – Muster-Ergänzung zum Vertriebspartnervertrag
+
+- URL: https://drive.google.com/file/d/1VPDjU7V6k5L4m_xpXY6G0Cm8o9V150wx/view
+- Dokumentstand: 05/2026 laut Ablage; im Bild keine gesicherte Gültigkeit.
+- Tatsächlich geprüft: S. 1–3 gerendert und visuell gelesen; Muster für eine Gesellschaft mit Organen/Mitarbeitern. Keine unterschriebene Ergänzung und keine wirtschaftliche Tragfähigkeitsprüfung.
+- Evidenzklasse: bereitgestelltes internes Dokument, keine verifizierte Betriebsanwendung.
+- SHA-256: `2bf720516249baebc362e33aac238b6aa2bd8107e82d8ec24bc3440cac34a0c4`
+
+## KW-036 – Einstufung in den Karriereplan – Quereinsteiger
+
+- URL: https://drive.google.com/file/d/19dCUEi0akBVyu7MlOw7Y07NuMzFI4XNv/view
+- Dokumentstand: 09/2026 laut Dokument.
+- Tatsächlich geprüft: S. 1–2 textlich gelesen; Nachweisanforderungen und Umrechnung auf Firmenumsatz. Eingebettete Abrechnungsbeispiele nicht validiert.
+- Evidenzklasse: bereitgestelltes internes Dokument, keine verifizierte Betriebsanwendung.
+- SHA-256: `28efdb22bd584917acb03fd49c6b21a05c163512644263a40e9e7e83856267d5`
+
+## KW-037 – HDI CleverInvest – internes Factsheet
+
+- URL: https://drive.google.com/file/d/1DORBacJ_lkSe-y-1ny_HgWfGa7-KdiiN/view
+- Dokumentstand: Version 28012026 im Dokument.
+- Tatsächlich geprüft: Text und Kostentabellen strukturell gesichtet; individuelle Angebotsanforderung und Pflegebedarf. Keine Bestätigung heutiger Produktkosten, Gesellschaftsangaben oder Renditebehauptungen.
+- Evidenzklasse: bereitgestelltes internes Dokument, keine verifizierte Betriebsanwendung.
+- SHA-256: `135860b37a5ab8412798c5f103e3027c5750ecfffc61d6272170cc188420b882`
+
+## KW-038 – Leitfaden Hausratversicherung
+
+- URL: https://drive.google.com/file/d/1V_nPHsQcDmSdR32u-4fqRI9-2A3bmQEC/view
+- Dokumentstand: Kein verlässliches Datum ausgewiesen.
+- Tatsächlich geprüft: Textliche Sichtung der Fallparameter, individuellen Rechner-Einstellungen und bedingten Empfehlungen; keine Prüfung aller Tarifbehauptungen gegen Versicherungsbedingungen.
+- Evidenzklasse: bereitgestelltes internes Dokument, keine verifizierte Betriebsanwendung.
+- SHA-256: `bcff60ef4b8dc55b1869fbde471c66d845e269401a9fceac2003df55cc286425`
+
+## KW-039 – Leitfaden Berufsunfähigkeitsversicherung
+
+- URL: https://drive.google.com/file/d/1yw8VYXaFqDK9GVwRG9Ff8Oxqr9S3Ox6a/view
+- Dokumentstand: Empfehlungsliste Stand 11/2024 im Dokument.
+- Tatsächlich geprüft: Gezielte Sichtung zu Risikovoranfrage, Anonymisierung, Bestandswechsel und individuellen Parametern; keine aktuelle Tarif-/Leistungsprüfung und keine Übernahme pauschaler Sozialleistungsbehauptungen.
+- Evidenzklasse: bereitgestelltes internes Dokument, keine verifizierte Betriebsanwendung.
+- SHA-256: `0f3929c28ad609ec49e3b88e8cb9a0a36d29d2027c870564e2bd3a4976b133af`
+
+## KW-040 – KW vs. FG – Vergleich, ursprüngliche KW-Ablage
+
+- URL: https://drive.google.com/file/d/1tyHVHyeZSH4UzMr7gHJAXzIwjGTkcscy/view
+- Stand: Gemischte historische Stände, u. a. Oktober 2025.
+- Tatsächlich geprüft: Blätter Next Steps und KW vs. FG thematisch geprüft; University-Passagen ausgeschlossen. Ausgelesener Text entspricht FG-006, keine unabhängige zweite Quelle. Kennzahlen und Wettbewerbsurteile nicht validiert.
+- Abruf: 25.10.2026.
+- Evidenzfamilie: `KW_FG_internal_comparison_2025`.
+- SHA-256: `6b6d2bff0d0712a6b87aacc201b47bd63038c0ae87093f47e69a3c7613d579db`

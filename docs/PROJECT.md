@@ -22,8 +22,16 @@ Einen fundierten Geschäftsplan für einen Strukturvertrieb in der Finanzbranche
 
 ## Stand der Arbeit
 
-Erledigt: Wissensstruktur, Recherche- und Bewertungsmethode, Analysevorlage und Geschäftsplangerüst erstellt. Am 25.10.2026 den bereitgestellten Königswege-Drive außerhalb ausgeschlossener University-Unterordner inventarisiert und eine erste quellenbezogene Analyse gespeichert: [Königswege](../research/companies/koenigswege/README.md). Im zweiten Durchlauf Vertrags-/Karriereplanstände verglichen, ausgewählte Gesprächsabschnitte geprüft und drei strategische Modelloptionen hergeleitet. Jetzt 25 Registereinträge mit jeweils begrenztem Prüfumfang; ein datensparsamer Index für 704 Dateien und die University-Ausschlussliste ermöglichen gezieltes Fortsetzen. Vollständige Ordnerauswertung weiterhin offen.
+Königswege: Ordner außerhalb festgehaltener University-Ausschlüsse inventarisiert; Vertrags-/Karriereplanstände, ausgewählte Gesprächsunterlagen und operative Beratungs-/Kontrollprozesse bearbeitet. Kumuliert 64 Dateien heruntergeladen, 40 Registereinträge mit konkreten Prüfgrenzen, Index für 704 sichtbare Dateien. Vollständige Inhaltsprüfung offen. Einstieg: [Königswege](../research/companies/koenigswege/README.md).
 
-Noch nicht erledigt: vollständige Quellen- und Unternehmensprüfung, unabhängiger Marktvergleich, regulatorische Prüfung, Kundenvalidierung und Finanzmodell. Keine Tragfähigkeit oder regulatorische Umsetzbarkeit bestätigt.
+Danach auf neuen Nutzerauftrag den zweiten Drive „FG“ erfasst: sieben sichtbare Dateien, alle heruntergeladen und mit begrenztem Prüfumfang registriert. Bilder und Honorar-PDF visuell geprüft; langes Transkript nur thematisch geprüft. Quellenherkunft getrennt: KW-orientierte Tabelle und KW-bezogenes Transkript sind keine unabhängigen FG-Betriebsnachweise. Einstieg: [Finanzgenies](../research/companies/finanzgenies/README.md).
 
-Aktueller Nutzerfokus: Königswege. Online University einschließlich zugehöriger Unterlagen bleibt ausgeschlossen. Nächster Schritt: operative Beratung, Produktauswahl, Spezialisten- und Kontrollprozesse nach [Prüfplan](../research/companies/koenigswege/REVIEW_STATUS.md) bearbeiten. Offene Regelgeltung durch fehlende Ergänzungen/Praxisbelege nicht als geklärt behandeln. Vor neuen Dateiabrufen [Index](../research/companies/koenigswege/INVENTORY.md) und Ausschlussliste beachten. Markt und Produktfokus für das eigene Unternehmen bleiben offen.
+Königswege und FG sind gemäß Nutzereinordnung direkte Konkurrenten; FG bedeutet Finanzgenies, nicht Fonds Finanz. Ergebnisse im [direkten Vergleich](../research/comparisons/koenigswege-vs-finanzgenies.md); strukturierte Aussagen mit Grenzen in [claims.csv](../research/claims.csv).
+
+Noch offen: aktuell geltende individuelle Regelpakete und echte Anwendung, vollständige Langunterlagenprüfung, unabhängige Markt-/Rechtsprüfung, Kundenvalidierung, einheitlicher Fallvergleich und Finanzmodell. Keine Tragfähigkeit, aktuelle Vertragsgeltung oder regulatorische Umsetzbarkeit bestätigt. Keine pauschale Rangfolge der Wettbewerber.
+
+## Nächste sinnvolle Arbeit
+
+FG-Vertrags- und Vergütungsanlagen sowie KW-Ergänzungen/Umsetzungsbelege suchen, soweit bereitgestellt oder öffentlich zugänglich. Fehlende Angaben insbesondere zu FG-Reserve, Kundenmitnahme und Beförderungslogik nicht mit Konkurrenzbehauptungen auffüllen. Danach gleiche synthetische Kunden-/Beraterfälle mit konsistenten Leistungs-, Kosten- und Haftungsgrößen rechnen. Übrige KW-Inhalte thematisch aus Index und Ausschlussliste auswählen.
+
+Online University bleibt ausgeschlossen. Der eigenständig bereitgestellte FG-Academy-Screenshot wurde nur als sichtbare Übersicht gesichtet; keine Kurse geöffnet. Markt, Produkt- und Kundenfokus für unser eigenes Unternehmen bleiben offen.

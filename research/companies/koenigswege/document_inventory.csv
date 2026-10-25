@@ -17,7 +17,7 @@ drive_file_id,section,format,review_state,source_id
 1ZWiRNTPKb_Vax812ICIcsZt_eCk9z1Dw,Anteilsübertragung,Microsoft Word,not_reviewed,
 1qsM9l2z4cn65nCDnTTYEkMv5VNx6vgRf,Anteilsübertragung,Microsoft Word,not_reviewed,
 1crMN5ADvdN9Jv_2o6FnD3K_pBNGn22uC,Arbeitsgruppen,Microsoft Excel,extracted_only,
-1tyHVHyeZSH4UzMr7gHJAXzIwjGTkcscy,Arbeitsgruppen,Microsoft Excel,extracted_only,
+1tyHVHyeZSH4UzMr7gHJAXzIwjGTkcscy,Arbeitsgruppen,Microsoft Excel,scoped_review,KW-040
 1uxfsRaSVagvwhycn5MMT7Z7ZcEdcycnu,Arbeitsgruppen,Microsoft Excel,scoped_review,KW-005
 1NaHUlZ_jYfkp2XRhQQZYvz6KTBk3n1Ik,Arbeitsgruppen,Microsoft Excel,extracted_only,
 16VFqv4_KyMSaUBz4KyxYaAhNNQ2j8Ncu,Arbeitsgruppen,Microsoft Excel,scoped_review,KW-012
@@ -99,21 +99,21 @@ drive_file_id,section,format,review_state,source_id
 1DsnidRwu95lzE_11KVeGljNxLgZYCyP1,Branchenkenner,PDF,scoped_review,KW-013
 1ASG7OhiZoq-SslPRFfhKBT5cqemiTBsY,Branchenkenner,Microsoft Word,no_text_extracted,KW-023
 1mlsov-qWlOIeCfolR6yXTVQh_wLdh8tx,Intranet,Microsoft Word,not_reviewed,
-1K87O6fgWgfYiscknMQvJAClOyOwbLRc4,Intranet,PDF,not_reviewed,
+1K87O6fgWgfYiscknMQvJAClOyOwbLRc4,Intranet,PDF,scoped_review,KW-027
 1RBuKZSaor8Wj6dRsWcFU3mfCwLHNfALd,Intranet,PDF,not_reviewed,
 11oC_vYZPSojG89BKifTU34vHMUMznbAH,Intranet,PDF,not_reviewed,
 1bPjqIz6eZqvnySdX1CyQkwWuJGI07G92,Intranet,PDF,not_reviewed,
-1Kt2g66Eane__OZdRFm34mIXDr7MxiZLz,Intranet,PDF,not_reviewed,
+1Kt2g66Eane__OZdRFm34mIXDr7MxiZLz,Intranet,PDF,scoped_review,KW-026
 19j49ssMakPNwPtLJDzU4tAd2nBZHtIdA,Intranet,Image,not_reviewed,
 1_Y2EqcFoljJujddCgpzlw5AkCCaJSPO4,Intranet,Image,not_reviewed,
 1yJM-2w69wGDH-SkoQB9nzYAekkVbONh2,Intranet,Image,not_reviewed,
 1sEQScRJOa9yFlhel01rQmOqiTJxwFMs7,Intranet,Image,not_reviewed,
 1sujca5LORw2n1_HSSFECPRdha6sQh3-v,Intranet,PDF,not_reviewed,
 1OuQqzrMLJoYWCtij5--b9YdLyKh7EK6y,Intranet,Image,not_reviewed,
-1J-axJIRpby6bgLR2vTaiXOTmATYFBTCG,Intranet,PDF,not_reviewed,
+1J-axJIRpby6bgLR2vTaiXOTmATYFBTCG,Intranet,PDF,scoped_review,KW-028
 1IK_NhpVbpGtNQpKLUC5v6op7np5-dQif,Intranet,PDF,not_reviewed,
 1g8Z-y6Ma6fP7kaIKbD0yhLrxu4U7lSJ_,Intranet,PDF,not_reviewed,
-1KnC6n6ZonJ4mB1FOPYBep-GMnGPRsBUY,Intranet,PDF,not_reviewed,
+1KnC6n6ZonJ4mB1FOPYBep-GMnGPRsBUY,Intranet,PDF,scoped_review,KW-029
 1ilhJensfFZW1hlZWOavSZc7LxPfYt3SR,Intranet,PDF,not_reviewed,
 193M9dPJ1vVb6Bi8RGexCKL4vqOh96IMo,Intranet,Microsoft PowerPoint,not_reviewed,
 1XEX8Ww-iHv7zdOCrH5wF9L_UH_3kYCsk,Intranet,Video,not_reviewed,
@@ -125,7 +125,7 @@ drive_file_id,section,format,review_state,source_id
 1x7HyJQQY-3yEKPL0uWsDeAAETxKU3BBv,Intranet,PDF,not_reviewed,
 143Cxvhx9RuZq3wWFdqylhono7S0xFR3p,Intranet,PDF,not_reviewed,
 1KkSG3xrh9k0GyHDG0w_Q_z2r2DoJbTEu,Intranet,PDF,not_reviewed,
-1R_X7nPW-LXQ_NDt1VtbHJCKDC6lMvWua,Intranet,PDF,not_reviewed,
+1R_X7nPW-LXQ_NDt1VtbHJCKDC6lMvWua,Intranet,PDF,scoped_review,KW-030
 1_ZNcf8KToEGpW9_rJBWHQSBM8NDzSq2L,Intranet,PDF,not_reviewed,
 1rMNyYFNG59Vp0VlHHCHxIsPzfA3kqTNk,Intranet,PDF,not_reviewed,
 18-QwueTBEKNcXUzw07iy4TxLdZ8TybjK,Intranet,PDF,not_reviewed,
@@ -136,11 +136,11 @@ drive_file_id,section,format,review_state,source_id
 18DS-CofuvktuTAv_QuaQjnaGL1Yh0Thp,Intranet,PDF,not_reviewed,
 12o9zihQxXwkiFfekkUJLpDhyPzl4_bHH,Intranet,PDF,not_reviewed,
 1E0siHgEt4XUdYZJQtVEX31Tgo5uO66KS,Intranet,PDF,not_reviewed,
-1sKB8GKxkC2Msv2NHr7IT1UlCa8lJuX8k,Intranet,PDF,not_reviewed,
+1sKB8GKxkC2Msv2NHr7IT1UlCa8lJuX8k,Intranet,PDF,scoped_review,KW-031
 1pWMOjlY3wtLG7rEYf3L-V1LCnj2bd331,Intranet,PDF,not_reviewed,
 1L1XQoHxQiJ4IWpcMLGKerUmm1IxJ6-DP,Intranet,PDF,not_reviewed,
 1P_HclNZqetwP7wjFe7wXznykbp_9ZvlH,Intranet,Image,not_reviewed,
-1zzL58BusXVb-7oLkCy1FVjbeDg157byL,Intranet,PDF,not_reviewed,
+1zzL58BusXVb-7oLkCy1FVjbeDg157byL,Intranet,PDF,scoped_review,KW-032
 1bAuseNvLRx978nRWXauiBV3wdJSVx7DM,Intranet,PDF,not_reviewed,
 1M31ZetCwdgxBLTk9yOmMW2Yfn7WqscoN,Intranet,Video,not_reviewed,
 1Bumz6UvGU8UYpAEBQ0JU2aPnyH6h-ySH,Intranet,PDF,not_reviewed,
@@ -150,13 +150,13 @@ drive_file_id,section,format,review_state,source_id
 1UrVKtRGUDdkEblj2SNFciKFyugF7TYvH,Intranet,PDF,not_reviewed,
 1RL7Ml7zMqfUUjb6T__f8-iQeF50QpfF-,Intranet,PDF,not_reviewed,
 1P-GYaBh-RsVaY6wAtSNvNWyFd-nKqGOs,Intranet,PDF,not_reviewed,
-1NUoNgHwY1xKMwHNnixoR8IAwEymJH2g_,Intranet,PDF,not_reviewed,
-1h18PaKEU1ZG2xZAf4HN42r7EltvYZNXZ,Intranet,PDF,not_reviewed,
-1VPDjU7V6k5L4m_xpXY6G0Cm8o9V150wx,Intranet,PDF,not_reviewed,
+1NUoNgHwY1xKMwHNnixoR8IAwEymJH2g_,Intranet,PDF,scoped_review,KW-033
+1h18PaKEU1ZG2xZAf4HN42r7EltvYZNXZ,Intranet,PDF,scoped_review,KW-034
+1VPDjU7V6k5L4m_xpXY6G0Cm8o9V150wx,Intranet,PDF,scoped_review,KW-035
 1QNIlkSYKCCiVESQT35pZ5EEjRpZb-rgt,Intranet,PDF,not_reviewed,
 1LZ4TC2SMRGiSTPZBtG1CpzMJt2AHg-dW,Intranet,PDF,not_reviewed,
 1mIncOu25Zd3NROclYHb8f5jAqkJPFwRb,Intranet,PDF,not_reviewed,
-19dCUEi0akBVyu7MlOw7Y07NuMzFI4XNv,Intranet,PDF,not_reviewed,
+19dCUEi0akBVyu7MlOw7Y07NuMzFI4XNv,Intranet,PDF,scoped_review,KW-036
 1ZXFVZN1s11BEReKQXRc2CeXm4ns8_PCT,Intranet,PDF,not_reviewed,
 1Mb1JDjf4jtlonqMiOqk8eP5O052y1qaw,Intranet,PDF,not_reviewed,
 1ktrWTIKWn6e7ZHGoB86Vl6L-v7R2sKgd,Intranet,PDF,not_reviewed,
@@ -352,7 +352,7 @@ drive_file_id,section,format,review_state,source_id
 154xiHW3VnVlTpPOoG431L38ReHiQqrYI,Intranet,Microsoft Word,not_reviewed,
 1j2azf1RQek-pXle1IojVYlVXMo-RwXCO,Intranet,Microsoft Word,not_reviewed,
 1jKKkrQ5JZYAKRi0wDyyfXwAV9mfgkSY3,Intranet,Microsoft Word,not_reviewed,
-1DORBacJ_lkSe-y-1ny_HgWfGa7-KdiiN,Intranet,Microsoft Word,not_reviewed,
+1DORBacJ_lkSe-y-1ny_HgWfGa7-KdiiN,Intranet,Microsoft Word,scoped_review,KW-037
 1uLIcf2nvDlBp9Luh3vmdotV7f7oHWCCl,Intranet,Microsoft Word,not_reviewed,
 19lpKcRklCl7REr2DLeDc3iYp0NooSxE9,Intranet,Microsoft Word,not_reviewed,
 1n5Ha3K6wtEosyQVdvaQPZrwwRLDMy8JZ,Intranet,Microsoft Word,not_reviewed,
@@ -373,7 +373,7 @@ drive_file_id,section,format,review_state,source_id
 1ysn2hKTNXdxqWWVjIIIQFh_jfF7SvX4m,Intranet,Microsoft Word,not_reviewed,
 12aXgPwu1ZiiUWwe6z5J0hJUH3smjoSPh,Intranet,Microsoft Word,not_reviewed,
 1W8MvyGqlVXMraB5fuRlhlzy25z5rmoqC,Intranet,Microsoft Word,not_reviewed,
-1V_nPHsQcDmSdR32u-4fqRI9-2A3bmQEC,Intranet,Microsoft Word,not_reviewed,
+1V_nPHsQcDmSdR32u-4fqRI9-2A3bmQEC,Intranet,Microsoft Word,scoped_review,KW-038
 1zVCiau0u1vFvAJaXbLnNky_SyzdP2RsA,Intranet,Microsoft Word,not_reviewed,
 1hxFh4b7xYf-xvqOiPaaTgWRZ4zHW9RSN,Intranet,Microsoft Word,not_reviewed,
 1FditTnlpXFPRHbGKGTtrmtiqp1mjnTLH,Intranet,Microsoft Word,not_reviewed,
@@ -533,7 +533,7 @@ drive_file_id,section,format,review_state,source_id
 1mIn9RDHRsHUFVh97hPy2wymnn4Q1Q7O2,Intranet,Microsoft Word,not_reviewed,
 1mWpi9njpLpUTCGTPh2FPznZxVrJETcJF,Intranet,Microsoft Word,not_reviewed,
 1eNItabpnU_1ZFCYjpA_BfRAH9Uj6E0px,Intranet,Microsoft Word,not_reviewed,
-1yw8VYXaFqDK9GVwRG9Ff8Oxqr9S3Ox6a,Intranet,Microsoft Word,not_reviewed,
+1yw8VYXaFqDK9GVwRG9Ff8Oxqr9S3Ox6a,Intranet,Microsoft Word,scoped_review,KW-039
 1ESfx4_QMgIlrqmKbFGqOA79r5v3yWrJt,Intranet,Microsoft Word,not_reviewed,
 1KvanY6jWGj9MdfT-FmlE4R00pxN_YM2B,Intranet,Microsoft Word,not_reviewed,
 1hfLQ10vhtX0N9O-wjm3A8XhbgSWQ4t1V,Intranet,Microsoft Word,not_reviewed,
