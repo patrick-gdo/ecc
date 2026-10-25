@@ -22,7 +22,7 @@ Einen fundierten Geschäftsplan für einen Strukturvertrieb in der Finanzbranche
 
 ## Stand der Arbeit
 
-**Neuester Stand:** Online University ist durch ausdrückliche Auftragsänderung vom 25.10.2026 eingeschlossen (DEC-005). KWU und `ecc/main` zuerst erfolgreich gelesen; laufende Auswertung mit konkreten Prüfgrenzen unter `research/companies/koenigswege/online-university/`. Frühere University-Ausschlüsse in den folgenden Abschnitten beschreiben ausschließlich den historischen Prüfumfang.
+**Neuester Stand:** Online University ist durch ausdrückliche Auftragsänderung vom 25.10.2026 eingeschlossen (DEC-005). KWU und `ecc/main` zuerst erfolgreich gelesen; Teilprüfung mit konkreten Prüfgrenzen unter `research/companies/koenigswege/online-university/`. Frühere University-Ausschlüsse in den folgenden Abschnitten beschreiben ausschließlich den historischen Prüfumfang.
 
 **Vorheriger Stand:** Das KW-Live-Intranet wurde am 25.10.2026 authentifiziert gelesen und ausgewertet. Details und nächste Schritte im Abschnitt „KW-Live-Intranet“ am Ende dieser Datei. Die folgenden früheren Zählstände sind historische Zwischenstände.
 
@@ -68,10 +68,20 @@ Offen: zwei Dokument-Leselücken, restliche Klauseln einer bildbasierten Zusatzv
 
 Im damaligen Intranet-Durchlauf blieben University-Inhalte ungeprüft; DEC-005 hebt den Ausschluss für weitere Arbeit auf. Nur eigene Zusammenfassungen und Quellenmetadaten gespeichert; keine Zugangsdaten, Kundendaten, Originalverträge oder Rohseiten. Das Repository wird innerhalb des Nutzerauftrags auf `main` fortgeschrieben.
 
-## Online University · Auftragsänderung 25.10.2026
+## Online University · Auftragsänderung und Teilprüfung 25.10.2026
 
-Der Nutzer hebt den Ausschluss ausdrücklich auf. AGENTS.md, DEC-005 und exclusions.json sind entsprechend aktualisiert; frühere Ausschlussmarkierungen sind historische Prüflücken. Zuerst beide Zugriffe geprüft: KWU authentifiziert lesbar, `patrick-gdo/ecc/main` lesbar; erste Regeländerungen bereits erfolgreich über GitHub committed. Kein lokaler Git-Checkout im gefundenen bisherigen Arbeitsverzeichnis; Arbeit über GitHub-API mit Datei-SHAs, ohne fremde lokale Änderungen anzutasten.
+**STATUS: teilweise ausgewertet; vollständiger Auftrag bleibt offen.** Der Nutzer hat den früheren Ausschluss ausdrücklich aufgehoben (DEC-005). AGENTS.md, DECISIONS.md, exclusions.json und die Einstiegspunkte bilden dies ab. Frühere Auslassungen bleiben historische Prüflücken.
 
-Laufend: Katalog- und Inhaltsprüfung. Bereits alle drei Katalogseiten mit insgesamt 58 sichtbaren Lernpfaden erfasst; auch nach Aufheben der Suchfilter zeigt der Katalog 58. Die Zahl ist keine Vollständigkeitsgarantie für verborgene/anders freigegebene Inhalte. Pfadübersicht, Modulbeschreibung und tatsächliche Lektionen-/Medienprüfung werden getrennt dokumentiert. Erste Quellen: Akquiseskripte, Mentoren-Basic-Aufgaben, Basic-Präsentation, Testberatungsleitfaden und begrenzter Loom-Transkriptausschnitt.
+Zuerst beide Zugriffe tatsächlich geprüft: KWU authentifiziert lesbar; `patrick-gdo/ecc/main` lesbar und durch erfolgreiche Commits auch beschreibbar. Der kurzfristige Browserausfall wurde behoben. Es wurde kein nutzbarer lokaler Git-Checkout vorgefunden; Repositoryänderungen erfolgen mit Datei-SHAs über GitHub. Fremde lokale Arbeitsdateien wurden nicht verändert.
 
-Konkrete Grenzen: Aufgabeneinreichung und Tests würden weitere Lektionen freischalten, sind aber ausdrücklich nicht beauftragt. Loom zeigt nur einen Transkriptausschnitt, danach Registrierung. Keine Schranken umgangen; keine Tests, Aufgaben, Nachrichten oder Abschlussbestätigungen abgegeben. Endgültiger Prüfstand folgt im University-Register.
+**Gespeicherter Prüfumfang:** [University-Einstieg](../research/companies/koenigswege/online-university/README.md), [Analyse](../research/companies/koenigswege/online-university/ANALYSIS.md), [Struktur](../research/companies/koenigswege/online-university/STRUCTURE.md), [Quellen](../research/companies/koenigswege/online-university/SOURCES.md), [Medien](../research/companies/koenigswege/online-university/MEDIA.md), [Rechenprüfung](../research/companies/koenigswege/online-university/CALCULATIONS.md) und [Prüfstatus](../research/companies/koenigswege/online-university/REVIEW_STATUS.md).
+
+58 sichtbare Lernpfade strukturell erfasst und geöffnet. Zehn Module mit explizit begrenztem Lektionenreview; zehn Dokumentquellen, davon neun textlich und eine nur mit begrenzter Textausgabe geprüft. Dazu ein teilweise gelesenes Loom-Transkript und 21 weitere ausgewählte Medienverweise. Insgesamt 102 Registereinträge, keine Anzahl vollständig gelesener Kurse. Keine Addition zu historischen Drive-Zählungen.
+
+**BEFUND:** Konkrete Mentoraufgaben, Lernstufen, Übung und Planungsroutinen. Eng verzahnte Kunden-/Partnergewinnung, zu prüfende Erfolgs-/Vergleichsbehauptungen und teils abwertende Führungssprache. Beförderungs-Abrechnungsbezeichnungen und Coaching-Ausstellungsplan mit dem Intranet-/Vertragsstand abgleichen. P1-Modellrechnung mit begrenzter eigener Zahlungsstromprüfung eingeordnet. Darstellung, interne Anforderungen und Bewertung sind getrennt.
+
+**OFFEN:** Zahlreiche übrige Lektionen, vollständige Videos/Audios, einzelne Quiz-/Aufgabenschranken, visuelle PDF-/Präsentationsprüfung, vollständige rekursive Materialablage, unabhängiger Fach-/Rechtsabgleich und echte Ergebnisdaten. Manche Medien sind bisher nur ungeprüft, nicht nachgewiesen technisch unzugänglich. Loom verlangte nach einem Transkriptausschnitt Registrierung. Keine pauschale Vollständigkeitsbehauptung.
+
+**NÄCHSTER SCHRITT:** Den im Prüfstatus priorisierten Text-/Downloadreview fortsetzen; separate Materialfassungen gegen Live-Module abgleichen; danach Transkripte/Medien und grafische Leselücken bearbeiten. Bei Tests, Einreichungen oder Abschlussbestätigungen stoppen.
+
+Keine Zugangsdaten, personenbezogenen Daten oder vollständigen Originalmaterialien ins Repository übernommen; keine Kurse als abgeschlossen markiert, Tests/Aufgaben eingereicht oder Nachrichten versendet. Ergebnisse werden auf `main` committed und veröffentlicht; dies ist keine Fertigmeldung für den vollständigen Inhaltsauftrag.
