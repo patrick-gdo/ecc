@@ -22,7 +22,9 @@ Einen fundierten Geschäftsplan für einen Strukturvertrieb in der Finanzbranche
 
 ## Stand der Arbeit
 
-**Neuester Stand:** Das KW-Live-Intranet wurde am 25.10.2026 authentifiziert gelesen und ausgewertet. Details und nächste Schritte im Abschnitt „KW-Live-Intranet“ am Ende dieser Datei. Die folgenden früheren Zählstände sind historische Zwischenstände.
+**Neuester Stand:** Online University ist durch ausdrückliche Auftragsänderung vom 25.10.2026 eingeschlossen (DEC-005). KWU und `ecc/main` zuerst erfolgreich gelesen; laufende Auswertung mit konkreten Prüfgrenzen unter `research/companies/koenigswege/online-university/`. Frühere University-Ausschlüsse in den folgenden Abschnitten beschreiben ausschließlich den historischen Prüfumfang.
+
+**Vorheriger Stand:** Das KW-Live-Intranet wurde am 25.10.2026 authentifiziert gelesen und ausgewertet. Details und nächste Schritte im Abschnitt „KW-Live-Intranet“ am Ende dieser Datei. Die folgenden früheren Zählstände sind historische Zwischenstände.
 
 Königswege: Ordner außerhalb festgehaltener University-Ausschlüsse inventarisiert; Vertrags-/Karriereplanstände, ausgewählte Gesprächsunterlagen und operative Beratungs-/Kontrollprozesse bearbeitet. Kumuliert 64 Dateien heruntergeladen, 40 Registereinträge mit konkreten Prüfgrenzen, Index für 704 sichtbare Dateien. Vollständige Inhaltsprüfung offen. Einstieg: [Königswege](../research/companies/koenigswege/README.md).
 
@@ -36,7 +38,7 @@ Noch offen: aktuell geltende individuelle Regelpakete und echte Anwendung, volls
 
 FG-Vertrags- und Vergütungsanlagen sowie KW-Ergänzungen/Umsetzungsbelege suchen, soweit bereitgestellt oder öffentlich zugänglich. Fehlende Angaben insbesondere zu FG-Reserve, Kundenmitnahme und Beförderungslogik nicht mit Konkurrenzbehauptungen auffüllen. Danach gleiche synthetische Kunden-/Beraterfälle mit konsistenten Leistungs-, Kosten- und Haftungsgrößen rechnen. Übrige KW-Inhalte thematisch aus Index und Ausschlussliste auswählen.
 
-Online University bleibt ausgeschlossen. Der eigenständig bereitgestellte FG-Academy-Screenshot wurde nur als sichtbare Übersicht gesichtet; keine Kurse geöffnet. Markt, Produkt- und Kundenfokus für unser eigenes Unternehmen bleiben offen.
+Der University-Ausschluss galt für diesen früheren Durchlauf und ist seit DEC-005 aufgehoben. Der eigenständig bereitgestellte FG-Academy-Screenshot wurde nur als sichtbare Übersicht gesichtet; keine Kurse geöffnet. Markt, Produkt- und Kundenfokus für unser eigenes Unternehmen bleiben offen.
 
 ## Ergänzung: KWIF und Webauftrag
 
@@ -46,7 +48,7 @@ KWIF-Drive: 176 sichtbare Einträge, davon 32 Ordner und 144 Dateien, vollständ
 
 **Historischer Zugriffsblocker:** Beim ersten Versuch leiteten KW und KWIF zur Google-Anmeldung weiter. Im späteren authentifizierten Durchlauf wurde KW tatsächlich gelesen; KWIF dabei nicht erneut geprüft. Aktueller Stand in [INTRANET_ACCESS.md](../research/companies/koenigswege/INTRANET_ACCESS.md). Die bestehende Drive-Auswahl bleibt kein bestätigter vollständiger aktueller Intranetexport.
 
-Dieser damalige nächste Schritt wurde für das KW-Intranet im unten dokumentierten Umfang erledigt. Für das separate KWIF-Live-Intranet bleibt eine erneute Zugriffs-/Inhaltsprüfung offen. Online University bleibt ausgeschlossen. Unabhängig davon können die übrigen KWIF-/KW-Akten thematisch vertieft und die neuen Erkenntnisse in einen einheitlichen Leistungs-/Kostenentwurf überführt werden.
+Dieser damalige nächste Schritt wurde für das KW-Intranet im unten dokumentierten Umfang erledigt. Für das separate KWIF-Live-Intranet bleibt eine erneute Zugriffs-/Inhaltsprüfung offen. Der University-Ausschluss galt für diesen früheren Durchlauf und ist seit DEC-005 aufgehoben. Unabhängig davon können die übrigen KWIF-/KW-Akten thematisch vertieft und die neuen Erkenntnisse in einen einheitlichen Leistungs-/Kostenentwurf überführt werden.
 
 ## Vertiefung Partnerbereich · 25.10.2026
 
@@ -64,4 +66,12 @@ Wesentliche Erkenntnisse: konkretisierte Partner-/Kundenprozesse; widersprüchli
 
 Offen: zwei Dokument-Leselücken, restliche Klauseln einer bildbasierten Zusatzvereinbarung, vollständige Fach-/Tarifanhänge, verbindliche Regelgeltung, aktuelle Depotumstellung und empirische Ergebnisdaten. Nächster Schritt: Regelpaket versionieren und einen vollständigen synthetischen Zahlungs-/Haftungsfall je Rolle rechnen. Die Stornoformel erst nach Systemabgleich als Vergleichskennzahl verwenden. Keine neue Entscheidung über das eigene Geschäftsmodell.
 
-Online University und zugehörige Inhalte ausgeschlossen. Nur eigene Zusammenfassungen und Quellenmetadaten gespeichert; keine Zugangsdaten, Kundendaten, Originalverträge oder Rohseiten. Das Repository wird innerhalb des Nutzerauftrags auf `main` fortgeschrieben.
+Im damaligen Intranet-Durchlauf blieben University-Inhalte ungeprüft; DEC-005 hebt den Ausschluss für weitere Arbeit auf. Nur eigene Zusammenfassungen und Quellenmetadaten gespeichert; keine Zugangsdaten, Kundendaten, Originalverträge oder Rohseiten. Das Repository wird innerhalb des Nutzerauftrags auf `main` fortgeschrieben.
+
+## Online University · Auftragsänderung 25.10.2026
+
+Der Nutzer hebt den Ausschluss ausdrücklich auf. AGENTS.md, DEC-005 und exclusions.json sind entsprechend aktualisiert; frühere Ausschlussmarkierungen sind historische Prüflücken. Zuerst beide Zugriffe geprüft: KWU authentifiziert lesbar, `patrick-gdo/ecc/main` lesbar; erste Regeländerungen bereits erfolgreich über GitHub committed. Kein lokaler Git-Checkout im gefundenen bisherigen Arbeitsverzeichnis; Arbeit über GitHub-API mit Datei-SHAs, ohne fremde lokale Änderungen anzutasten.
+
+Laufend: Katalog- und Inhaltsprüfung. Bereits alle drei Katalogseiten mit insgesamt 58 sichtbaren Lernpfaden erfasst; auch nach Aufheben der Suchfilter zeigt der Katalog 58. Die Zahl ist keine Vollständigkeitsgarantie für verborgene/anders freigegebene Inhalte. Pfadübersicht, Modulbeschreibung und tatsächliche Lektionen-/Medienprüfung werden getrennt dokumentiert. Erste Quellen: Akquiseskripte, Mentoren-Basic-Aufgaben, Basic-Präsentation, Testberatungsleitfaden und begrenzter Loom-Transkriptausschnitt.
+
+Konkrete Grenzen: Aufgabeneinreichung und Tests würden weitere Lektionen freischalten, sind aber ausdrücklich nicht beauftragt. Loom zeigt nur einen Transkriptausschnitt, danach Registrierung. Keine Schranken umgangen; keine Tests, Aufgaben, Nachrichten oder Abschlussbestätigungen abgegeben. Endgültiger Prüfstand folgt im University-Register.
