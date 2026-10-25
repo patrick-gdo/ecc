@@ -85,3 +85,19 @@ Zuerst beide Zugriffe tatsächlich geprüft: KWU authentifiziert lesbar; `patric
 **NÄCHSTER SCHRITT:** Den im Prüfstatus priorisierten Text-/Downloadreview fortsetzen; separate Materialfassungen gegen Live-Module abgleichen; danach Transkripte/Medien und grafische Leselücken bearbeiten. Bei Tests, Einreichungen oder Abschlussbestätigungen stoppen.
 
 Keine Zugangsdaten, personenbezogenen Daten oder vollständigen Originalmaterialien ins Repository übernommen; keine Kurse als abgeschlossen markiert, Tests/Aufgaben eingereicht oder Nachrichten versendet. Ergebnisse werden auf `main` committed und veröffentlicht; dies ist keine Fertigmeldung für den vollständigen Inhaltsauftrag.
+
+## Online University · Fortsetzung 25.10.2026
+
+**STATUS: deutlich vertiefte Teilprüfung; kein vollständiger Abschluss.** Bestehende Texte nur bei offenem Umfang, Grafikbedarf oder Versionskonflikt erneut verwendet. DEC-005 und der aufgehobene Ausschluss gelten fort.
+
+Neu: 35 Dokumentquellen D011–D045, fünf Live-Module M011–M015 mit benanntem Teilumfang und 16 separate Risikovoranfrage-Pakete (93 Folien textlich, vier zusätzlich visuell). B1–B4-Skripte, Budgetierung, ETF-Police Stage I/II, VV-Verkauf/Bestand, Schwarzes M, Referentenkodex, drei GwG-Foliensätze, Dokumentationsvorlage, Werkzeugtexte und unabhängige Unterlagen zu M003/M005/M006/M009/M010 ausgewertet. D009 jetzt alle acht Seiten visuell, Referentenkodex beide Seiten. V005 gesamtes verfügbares Transkript 0:02–34:29 bei Laufzeit 34:34 gelesen, kein voller Ton-/Bildreview. Register nun 160 Quellen mit getrennten Statusangaben.
+
+[Rekursiver Materialindex](../research/companies/koenigswege/online-university/drive_inventory.json): 312 Ordner gelistet, 1417 Einträge, davon 1106 Dateien/Shortcuts; 347 Audio-/Videodateien, 66 Titel-Duplikatkandidaten, 16 noch nicht aufgelöste Shortcut-Ziele. Erfasste Dateien sind nicht automatisch inhaltlich geprüft. Keine Originalmaterialien oder personenbezogenen Dateinamen des Gesamtbestands übernommen; nicht registrierte Titel sind auf kontrollierte Themen reduziert.
+
+Neue Erkenntnisse: strukturierter Risikoprüfungsprozess neben unbelegten Leistungs-/Erfolgszusagen; aktualisierungsbedürftige Aktenkopiekosten-Folie nach gezieltem BGB-Abgleich; unterschiedliche Abschlussfreigaben; Empfehlungsanreize und Kontaktdatenerhebung; Spannungen zwischen offener Kundenentscheidung und paternalistischer Rückgewinnung; AVD-Unterricht mit interner Kritik am bisherigen Produktfokus und erwartetem Vergütungsmixwechsel. Interne Zahlen und Zukunftsaussagen bleiben unvalidiert. Schulung ersetzt keine vertragliche Karriere-/Vergütungs-/Haftungsregel.
+
+**Schranken:** M008 nun bis Szenariofrage, M010 bis erster Richtig/Falsch-Frage; spätere Live-Aktivitäten deaktiviert. Bereits bekannte Schranken M001/M002/M003/M005/M009 bleiben. Separate berechtigt zugängliche Unterlagen wurden ohne Quizfreischaltung gelesen. V005 zeigt: Drive-Transkriptknopf kann erst nach Playerstart aktiv werden; anfängliche Deaktivierung allein beweist keine Unzugänglichkeit. Loom-V001-Registrierungsschranke weiterhin offen.
+
+**Weiter offen:** weitere priorisierte Live-Lektionen, relevante Videos/Audios und grafische Inhalte, Datenschutz-Pflichtlektionen, vollständiger Download-/Live-/Versionsabgleich, Shortcut-Ziele, verbindliche Regelrangfolge und unabhängige Ergebnisdaten. Die neue AVD-Textquelle endet mitten im Satz. Zugängliche offene Inhalte bestehen weiterhin; dies ist ein gesicherter Arbeitsstand, keine Vollständigkeitsmeldung.
+
+Aktuelle Details: [Prüfstatus](../research/companies/koenigswege/online-university/REVIEW_STATUS.md), [Analyse](../research/companies/koenigswege/online-university/ANALYSIS.md), [Quellen](../research/companies/koenigswege/online-university/SOURCES.md). Keine Kurse abgeschlossen, Quiz-/Aufgabenantworten oder persönliche Angaben eingereicht, Nachrichten versendet oder vollständige Originalmaterialien übernommen.
