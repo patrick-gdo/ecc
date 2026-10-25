@@ -37,3 +37,15 @@ Datum: 25.10.2026 · Status: zusätzlicher Nutzerauftrag.
 Zuerst die KWIF-Drive-Ablage `1eMzUe3VqhOb_OlWGa_Zi6KX3VOmaSfSY` bearbeiten, danach KW-/KWIF-Intranets und die Königswege-Website untersuchen und relevantes Wissen speichern. Online University bleibt ausgeschlossen. Öffentliche Aussagen, interne Arbeitsstände und tatsächliche Betriebsergebnisse bleiben getrennte Quellenarten.
 
 Beide Live-Intranets verlangten beim tatsächlichen Zugriff Google-Anmeldung; keine Inhalte daraus gelesen. Die öffentliche Website wurde über Sitemap und interne HTML-Links erfasst, relevante Kernbereiche gezielt geprüft. Dies ist kein vollständiger Live-Intranetreview und keine Vollvalidierung aller historischen Finanz-/Rechtsangaben.
+
+## DEC-005 – Online University ausdrücklich einschließen
+
+Datum: 25.10.2026 · Status: ausdrückliche Auftragsänderung durch den Nutzer.
+
+Die frühere University-Ausschlussregel aus DEC-002/DEC-004 und AGENTS.md wird aufgehoben. Online University einschließlich relevanter zugehöriger Inhalte soll nun ausgewertet werden. Historische Ausschlüsse bleiben als damalige Prüfgrenzen nachvollziehbar; sie gelten nicht für neue Recherche. Keine Aussage, dass früher ausgelassene Inhalte nachträglich geprüft seien.
+
+Umfang: Kurs-/Modulstruktur und zugängliche Lektionen, Texte, Präsentationen, Downloads, Video-/Audioinhalte oder Transkripte; Schwerpunkt Recruiting, Onboarding, Beratung, Verkauf, Führung, Karriere, Vergütung, Compliance und operative Prozesse. Ablage eigener Zusammenfassungen mit URL, Datum, Fundstelle und tatsächlichem Prüfumfang unter research/companies/koenigswege/online-university/.
+
+Grenzen: Keine Zugangsdaten, personenbezogenen Daten oder vollständigen Originalmaterialien speichern. Keine Kurse als abgeschlossen markieren, Tests/Aufgaben einreichen oder Nachrichten versenden. Lernschranken nicht umgehen; dadurch offene Module und Medienzugangslücken ausdrücklich dokumentieren. Vollständigkeit erst nach quellenspezifischem Nachweis behaupten. Unternehmensdarstellung, dokumentierte interne Regeln und eigene Bewertung bleiben getrennt.
+
+Evidenz: Nutzerauftrag dieser Sitzung; KWU-Startseite und GitHub main am 25.10.2026 tatsächlich lesbar. Die Regeländerung ist keine Bestätigung wirtschaftlicher Wirksamkeit oder aktueller rechtlicher Zulässigkeit der Schulungsinhalte. Neubewertung bei weiterem Nutzerauftrag oder geänderten Zugriffsbedingungen.
