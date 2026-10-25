@@ -1,6 +1,6 @@
 # Quellenregister
 
-Erste bereitgestellte interne Quellen wurden für Königswege geprüft. Das detaillierte Register mit Fundstellen, Prüfgrenzen und Hashes steht unter [Königswege-Quellen](companies/koenigswege/SOURCES.md). Unabhängige externe Quellen sind noch nicht geprüft. Die Rechercheagenda ist kein Beleg.
+Erste bereitgestellte interne Quellen wurden für Königswege geprüft. Das detaillierte Register mit Fundstellen, Prüfgrenzen und Hashes steht unter [Königswege-Quellen](companies/koenigswege/SOURCES.md). Inzwischen wurden im KW-Live-Intranet-Durchlauf auch fünf unabhängige Primärquellen für eng begrenzte Fach-/Rechtsabgleiche geprüft; daraus folgt keine vollständige externe Unternehmensvalidierung. Die Rechercheagenda ist kein Beleg.
 
 Für jede Quelle einen Eintrag nach diesem Schema anlegen:
 
@@ -25,4 +25,5 @@ Der zweite bereitgestellte Drive-Ordner „FG“ ist gesondert unter [Finanzgeni
 
 - [KWIF-Quellenregister](companies/koenigswege-immobilien-finanzierung/SOURCES.md): elf bereitgestellte Unterlagen mit getrenntem Lese-/Extraktionsumfang.
 - [Websitequellen](companies/koenigswege/website/SOURCES.md): 312 kanonische HTML-Seiten mit je URL, Hash und konkretem Prüfumfang; Mehrheit nur strukturell indexiert. Unternehmenseigene Aussagen sind keine unabhängige Bestätigung.
-- [Live-Intranets](companies/koenigswege/INTRANET_ACCESS.md): Zugriff zur Google-Anmeldung umgeleitet; keine Inhaltsevidenz.
+- [KW-Live-Intranetquellen](companies/koenigswege/intranet/SOURCES.md): 85 Seitenpositionen mit getrennten Lese-/Ausschlussstatus, 21 ausgewählte Dokumentverweise und fünf externe Primärquellen. Davon 74 gezielte Seiten- und 19 Dokumentreviews; zwei Dokumentabrufe scheiterten.
+- [Zugriffsstatus](companies/koenigswege/INTRANET_ACCESS.md): KW im späteren authentifizierten Durchlauf lesbar; KWIF dabei nicht erneut geprüft. Historische Anmeldeblockade bleibt als früherer Versuch dokumentiert.

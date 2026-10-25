@@ -1,11 +1,16 @@
 [
   {
     "surface": "kw-intranet",
-    "requested_url": "https://sites.google.com/koenigswege.com/intranet/startseite_1?authuser=0",
+    "requested_url": "https://sites.google.com/koenigswege.com/intranet/startseite_1",
     "checked_on": "2026-10-25",
-    "state": "google_login_required",
-    "final_host": "accounts.google.com",
-    "content_read": false
+    "state": "authenticated_content_read",
+    "content_read": true,
+    "review_scope": "intranet/REVIEW_STATUS.md",
+    "previous_attempt": {
+      "checked_on": "2026-10-25",
+      "state": "google_login_required",
+      "content_read": false
+    }
   },
   {
     "surface": "kwif-intranet",
@@ -13,6 +18,15 @@
     "checked_on": "2026-10-25",
     "state": "google_login_required",
     "final_host": "accounts.google.com",
-    "content_read": false
+    "content_read": false,
+    "note": "Historischer früherer Versuch; im späteren KW-Auftrag nicht erneut geprüft."
+  },
+  {
+    "surface": "github-repository",
+    "requested_url": "https://github.com/patrick-gdo/ecc/tree/main",
+    "checked_on": "2026-10-25",
+    "state": "repository_read_and_write_access_confirmed",
+    "content_read": true,
+    "branch": "main"
   }
 ]

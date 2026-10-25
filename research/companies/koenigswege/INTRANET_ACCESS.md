@@ -1,18 +1,30 @@
 # Live-Intranets: Zugriff und Bearbeitungsgrenze
 
-Am 25.10.2026 wurden die angegebenen Adressen tatsächlich aufgerufen:
+Stand: 25.10.2026. Zwei Versuche am selben Tag sind zu unterscheiden.
 
-| Bereich | Angefragte Adresse | Beobachtung | Lesestatus |
-| --- | --- | --- | --- |
-| KW | https://sites.google.com/koenigswege.com/intranet/startseite_1?authuser=0 | Weiterleitung zur Google-Anmeldung auf accounts.google.com | Keine Intranet-Inhalte gelesen |
-| KWIF | https://sites.google.com/koenigswege.com/kwif/home | Weiterleitung zur Google-Anmeldung auf accounts.google.com | Keine Intranet-Inhalte gelesen |
+## Aktueller KW-Auftrag: beide erforderlichen Zugriffe erfolgreich
 
-Der zweite Link wurde aus dem vom Nutzer angegebenen Google-Weiterleitungslink auf die darin genannte direkte Zieladresse aufgelöst. Ein HTTP-200-Ergebnis der Anmeldeseite ist kein erfolgreicher Zugriff auf das Intranet. `authuser=0` wählt keine für diese Sitzung nutzbare Anmeldung aus.
+Vor der inhaltlichen Vertiefung wurden sowohl die KW-Intranetseite als auch das Repository geprüft:
 
-Die vorhandenen Drive-Ablagen enthalten als Intranetunterlagen bezeichnete Dateien. Sie wurden teilweise geprüft und inventarisiert, sind aber kein bestätigter vollständiger oder aktueller Export der Live-Sites.
+| Bereich | Geprüftes Ziel | Beobachtung |
+| --- | --- | --- |
+| KW-Intranet | https://sites.google.com/koenigswege.com/intranet/startseite_1 | Authentifizierte Startseite mit Navigation und Fachinhalten lesbar; relevante Unterseiten tatsächlich gelesen |
+| GitHub | https://github.com/patrick-gdo/ecc/tree/main | Privates Repository und Dateien auf main lesbar; Schreibberechtigung vorhanden |
+| KWIF-Live-Intranet | https://sites.google.com/koenigswege.com/kwif/home | Im aktuellen KW-Durchlauf nicht erneut geprüft; keine aktuelle Zugriffsaussage |
 
-## Benötigter nächster Schritt
+Ergebnisse: [Live-Intranet-Analyse](intranet/ANALYSIS.md), [Quellenregister](intranet/SOURCES.md), [Prüfstatus](intranet/REVIEW_STATUS.md). Zugriff war möglich, eine vollständige Prüfung sämtlicher Seiten/Anhänge und des Betriebs wird nicht behauptet.
 
-Ein für diese Sitzung lesbarer Export (z. B. HTML/PDF mit Navigation und relevanten verlinkten Dokumenten) oder eine unterstützte authentifizierte Anbindung. Zugangsdaten, Sitzungscookies und Passwörter nicht im Chat oder Repository ablegen. Die internen Inhalte müssen dafür nicht öffentlich veröffentlicht werden.
+## Verbleibende konkrete Leselücken
 
-Bis zum tatsächlichen Inhaltszugriff bleibt der Auftrag zur vollständigen Live-Intranet-Auswertung offen. Online University einschließlich zugehöriger Inhalte bleibt ausgeschlossen. Keine angeblichen Intranet-Fakten aus der Anmeldeseite, aus bloßen Dateinamen oder aus öffentlichen Werbetexten ableiten.
+- KW-IN-D20: eingebettete Researchprozess-PDF, Textabruf durch Transportfehler gescheitert.
+- KW-IN-D21: verlinkte Datensperr-Unterlage, Dokumentzugang meldet 404 / File not found; fehlende Freigabe und fehlende Datei sind damit nicht unterscheidbar.
+- KW-IN-P084: verlinkte Geldwäsche-Arbeitshilfen-Seite zeigt 404.
+- KW-IN-D10: PDF-Text kaum lesbar; ein relevanter Ausschnitt visuell geprüft, restliche Klauseln offen.
+
+Diese Grenzen betreffen einzelne Quellen, nicht den nachgewiesenen allgemeinen KW-Intranetzugriff.
+
+## Historischer erster Versuch
+
+Der frühere Aufruf am 25.10.2026 wurde bei KW und KWIF zur Google-Anmeldung auf accounts.google.com umgeleitet. Dabei wurden keine Intranetinhalte gelesen. Dieser frühere Versuch wird nicht nachträglich als Erfolg umgedeutet; für KW ersetzt ihn nun der spätere authentifizierte Inhaltszugriff. Für KWIF bleibt er lediglich die letzte hier dokumentierte Zugriffsbeobachtung.
+
+Die bisherige Drive-Ablage ist kein bestätigter vollständiger aktueller Intranetexport. Online University einschließlich zugehöriger Inhalte bleibt ausgeschlossen. Keine Zugangsdaten, Cookies, Kundenakten, Originalverträge oder Rohseiten gespeichert.

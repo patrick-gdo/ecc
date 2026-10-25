@@ -68,3 +68,18 @@ KW-032 zeigt als separater Karriereplan sichtbar August 2023. KW-033/034 liefern
 ## Ergänzung: öffentliche Erlaubnisdarstellung
 
 Website-Erstinformation und Impressum nennen §34f; das Impressum zusätzlich §34i. [KW-WEB-025, KW-WEB-048 in website/sources.json] KW-001 nennt dagegen §34h und verweist §34c/§34i auf andere Gesellschaften. Eine öffentliche Podcast-Begleitseite vom 17.05.2024 erwähnt einen Wechsel von §34h zu §34f. [KW-WEB-291]. Das ist ein Erklärungshinweis aus Eigenveröffentlichung, keine unabhängige Bestätigung aktueller Erlaubnisse oder Vertragsgeltung. Details im [Websiteabgleich](website/ANALYSIS.md).
+
+## Ergänzung: Live-Regelstände vom 25.10.2026
+
+Die [Live-Intranet-Auswertung](intranet/ANALYSIS.md) belegt nun tatsächliche Veröffentlichung, weiterhin keine individuelle Vertragsgeltung oder geprüfte Softwareumsetzung. Die live verlinkte Vorlage trägt Stand 08.2026, hat aber eine andere Drive-ID als KW-001; sie wird separat als KW-IN-D09 geführt. Keine bytegleiche Identität behauptet.
+
+| Thema | Geprüfter Abgleich | Offene Zuordnung |
+| --- | --- | --- |
+| Reserve | Live-Clusterfreigabe aktiver Partner (KW-IN-P080) gegenüber Anlage 2 § 6 der Vorlage, S. 26–27 (KW-IN-D09) | Ergänzungsgrundlage, Ausnahmen, weitere Sicherungsansprüche |
+| Offboarding | Vier Wochen zum Monatsende (KW-IN-D05, S. 2) gegenüber ein/drei/sechs Monaten nach Vertragsdauer (KW-IN-D09, Hauptvertrag § 3) | Vertragliche Grundlage des Automatismus |
+| Karriere | Nullstellung und Sprungregeln in Live-FAQ (KW-IN-P035) gegenüber Anlage 3 § 2, S. 32–33 (KW-IN-D09) | Freigegebene Rechen-/Übergangsregel |
+| Karrierewechsel | Fünf Tage auf Seite, fünf Arbeitstage im Formular (KW-IN-P036/D06) | Verbindliche Frist und sechs-/zwölfmonatige Umsatzwertung |
+| Standortförderung | Zusammenfassung auf Seite (KW-IN-P039), Rückzahlungsregeln im Formular (KW-IN-D15, S. 2) | Individuelle Bewilligung und Kontrollzeitraum |
+| Gesellschaftssicherheit | Persönliche Bürgschaft in separater Zusatzvereinbarung, nur visueller Ausschnitt (KW-IN-D10, S. 2 Ziff. 3 a–c) | Übrige Vertragsbedingungen und Einzelfallgeltung |
+
+Fundstellen, URL, Dokumentmetadaten und Grenzen im [Live-Quellenregister](intranet/SOURCES.md). Ein Änderungsdatum in Drive ist kein Inkrafttretensdatum.

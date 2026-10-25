@@ -1,8 +1,12 @@
-# Königswege – erste Auswertung der bereitgestellten Unterlagen
+# Königswege – Analysen und Quellen
 
 Stand und Abruf: 25.10.2026. Ausgangspunkt: der vom Nutzer freigegebene Google-Drive-Ordner „KW“. Dies ist eine erste dokumentenbasierte Analyse, keine abgeschlossene Unternehmensprüfung.
 
-## Umfang und Lesestatus
+## Aktuelle Ergänzung: KW-Live-Intranet
+
+Am 25.10.2026 authentifiziert ausgewertet: [Live-Intranet-Analyse](intranet/ANALYSIS.md), [Quellen/Fundstellen](intranet/SOURCES.md) und [Prüfgrenzen](intranet/REVIEW_STATUS.md). 74 gezielte Seitenreviews, 19 Dokumentreviews und fünf begrenzte externe Primärquellenabgleiche. Zwei Dokumentabrufe und ein interner Link blieben ohne Inhalt. Online University ausgeschlossen. Diese Live-Zählung wird wegen möglicher Überschneidungen nicht zu bisherigen Downloads addiert.
+
+## Umfang und Lesestatus der früheren Drive-Durchläufe
 
 Die sichtbare Ordnerstruktur wurde rekursiv erfasst: 963 eindeutige Einträge, davon 256 Ordner und 707 Dateien. Darin enthalten sind sieben als ausgeschlossen markierte Einträge: vier University-Ordner und drei einzelne University-Dateien. Die Inhalte der ausgeschlossenen Ordner wurden nicht aufgerufen. Ihre Nachkommen sind nicht in diesen Zahlen enthalten. Außerhalb dieser Ausschlüsse verbleiben 704 sichtbare Dateien. Das sind beobachtete Einträge zum Abrufzeitpunkt, keine Garantie über alle existierenden oder nicht freigegebenen Dateien.
 
@@ -31,7 +35,7 @@ Ins Repository gelangen eigene Zusammenfassungen, Quellenverweise und offene Pr�
 ## Ergänzende Oberflächen
 
 - [Öffentliche Website: Positionierung und Abgleich](website/README.md)
-- [Live-Intranets: Zugriff noch blockiert](INTRANET_ACCESS.md)
+- [Live-Intranets: KW zugänglich; KWIF nicht erneut geprüft](INTRANET_ACCESS.md)
 - [KWIF-Drive: eigene Analyse und Quellen](../koenigswege-immobilien-finanzierung/README.md)
 
 Webquellen werden separat von den bisherigen 40 Drive-Registereinträgen geführt. Erfolgreicher Abruf oder Strukturindex bedeutet keine vollständige manuelle Inhaltsprüfung.

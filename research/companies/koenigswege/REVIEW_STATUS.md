@@ -43,3 +43,11 @@ Beratungs-/Qualitätsunterlagen, zwei Produktleitfäden und ein internes Factshe
 Kumuliert 64 Dateien heruntergeladen; 39 Registereinträge mit unterschiedlichen Prüfumfängen. Die operative Prüfung ist dokumentenbasiert, nicht durch Livefälle bestätigt. Das übrige Intranet, vollständige Langunterlagen, aktuelle Regelgeltung, Finanzmodell und externe Bestätigung bleiben offen. Im Anschluss wird auf Nutzerauftrag der zweite Drive als gesonderte FG-Quelle erfasst; keine Vollständigkeit der Königswege-Ordnerprüfung behauptet.
 
 Im Anschluss wurde die bereits ausgelesene Vergleichsarbeitsmappe als KW-040 eingeordnet und gegen FG-006 abgeglichen. Damit 40 KW-Registereinträge und 39 `scoped_review`; Index ansonsten 24 `extracted_only`, eine Leselücke, 640 ungeprüfte Dateien. Die Zahl heruntergeladener KW-Dateien bleibt 64.
+
+## Aktueller Zusatz: KW-Live-Intranet tatsächlich gelesen
+
+Im späteren Durchlauf am 25.10.2026 war der KW-Zugriff erfolgreich. 74 gezielte Seitenreviews und 19 ausgewählte Dokumentreviews einschließlich eines begrenzten visuellen Reviews sind dokumentiert. Fünf externe Primärquellen wurden für einzelne Fach-/Rechtsabgleiche herangezogen. Der bisherige pauschale KW-Zugriffsblocker ist damit aufgehoben; KWIF wurde nicht erneut geprüft.
+
+Die oben genannten früheren Zählstände bleiben historisch. Aktueller Scope, Ausschlüsse und konkrete Leselücken: [intranet/REVIEW_STATUS.md](intranet/REVIEW_STATUS.md). Zwei Dokumentabrufe ohne Inhalt und ein interner 404-Link sind ausdrücklich registriert. Die Auswertung aller verlinkten Dokumente und tatsächlichen Abläufe ist nicht abgeschlossen.
+
+Priorität haben jetzt Regelgeltung und Nachrechnung: Reservefreigabe, Kündigungsfristen und Karrierewertung gegen verbindliche Fassung abgleichen; Stornoformel im System anhand synthetischer/aggregierter Daten prüfen; Standortförderung und Bürgschaften in die Liquiditätsplanung aufnehmen. Relevante Rechts-/Rechnerangaben vor Übernahme aktualisieren. Keine neue Entscheidung über das eigene Geschäftsmodell.

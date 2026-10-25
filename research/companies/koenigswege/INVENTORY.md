@@ -38,3 +38,9 @@ Die zusätzlich eingeordnete Vergleichsarbeitsmappe KW-040 war bereits herunterg
 ## Partnervertiefung: aktueller Stand
 
 Eine weitere Vorlage als KW-041 textlich gelesen: 65 heruntergeladene Dateien, 41 Registereinträge; 40 `scoped_review`, 24 `extracted_only`, eine `no_text_extracted`, 639 `not_reviewed`. Historische Zählungen oben bleiben als Zwischenstände erhalten.
+
+## Separate Ergänzung: Live-Intranet am 25.10.2026
+
+Der authentifizierte KW-Durchlauf ist unter [intranet/](intranet/README.md) separat erfasst: 85 Seitenpositionen, davon 74 gezielte Inhaltsreviews; 21 ausgewählte Dokumentverweise, davon 19 mit benanntem inhaltlichem Prüfumfang und zwei Abruffehler; fünf externe Primärquellen. [Seitenindex](intranet/page_inventory.csv) und [Quellenregister](intranet/sources.json) enthalten eigene Zusammenfassungen und keine Originale.
+
+Die früheren 704 Drive-Dateien wurden nicht erneut komplett inventarisiert. Live-Verknüpfungen können dieselbe Quelle oder neue Fassungen mit anderer Drive-ID betreffen. Deshalb keine Addition zu historischen Download-/Reviewzahlen und keine pauschale Umstufung des alten Dateiindex.

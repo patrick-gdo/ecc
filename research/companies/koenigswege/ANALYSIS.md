@@ -81,3 +81,9 @@ Keine abschließende Aussage zu tatsächlicher Profitabilität, Kundenergebnisse
 ## 10. Vertiefung aus dem zweiten Durchlauf
 
 Der [Regelstandsvergleich](RULE_VERSIONS.md) gleicht die ältere Vertragsdatei, Vorlage 08.2026, Karrieregrafiken und ausgewählte April-/Juli-Gesprächsabschnitte ab. Diskutierte Änderungen dürfen nicht als bereits geltende Regeln ausgegeben werden. Die [Modelloptionen](MODEL_OPTIONS.md) übersetzen die erkennbaren Zielkonflikte in drei zu prüfende Gestaltungen für unser Unternehmen. Noch keine Modellentscheidung oder operative Umsetzung bestätigt.
+
+## 11. Authentifizierte Live-Intranet-Auswertung
+
+Der spätere Durchlauf vom 25.10.2026 ergänzt die Dokumentenanalyse durch [tatsächlich gelesene Intranetseiten und aktuelle Verlinkungen](intranet/ANALYSIS.md). Er konkretisiert Onboarding/Bürgschaft, Karriere, Offboarding, Teilung, Reserve und Standortförderung. Die [Fundstellen](intranet/SOURCES.md) unterscheiden Live-Seite, Vertragsvorlage, externe Primärquelle und eigene Nachrechnung.
+
+Neu dokumentiert sind insbesondere widersprüchliche Stornoformeln (KW-IN-P007/P080), Unterschiede zwischen Reserve-/Kündigungs-/Beförderungsbeschreibungen und Vertragsvorlage (KW-IN-D09), Rückzahlungsvorbehalte der Standortförderung (KW-IN-D15), ein persönlicher Sicherungsbaustein für Geschäftsführer/Gesellschafter im begrenzt visuell geprüften Ausschnitt (KW-IN-D10) sowie konkrete Aktualitätsprobleme bei Kleinunternehmer- und GwG-Angaben. Die Rentenrechnerbeschreibung wird gegen die Definition der Deutschen Rentenversicherung abgegrenzt. Details und Grenzen stehen in der neuen Analyse; keine tatsächlichen Softwarefehler, individuellen Vertragswirkungen oder Kundenergebnisse daraus ableiten.
