@@ -29,3 +29,7 @@ Vor neuen Dateiabrufen research/companies/koenigswege/INVENTORY.md und exclusion
 ## Direkte Konkurrenten: Königswege und FG
 
 Der Nutzer ordnet Königswege und Finanzgenies (FG) als direkte Konkurrenten ein. FG nicht mit Fonds Finanz verwechseln. Vor vergleichender Arbeit research/comparisons/koenigswege-vs-finanzgenies.md und research/claims.csv lesen. Ein Drive-Ablageort belegt keine Urheberschaft: FG-006 und KW-040 sind dieselbe Evidenzfamilie, FG-007 hat überwiegenden Königswege-Bezug. Screenshots, Vertragsvorlagen, Gesprächsbehauptungen und verifizierte aktuelle Betriebsregeln auseinanderhalten.
+
+## KWIF, Website und Live-Intranets
+
+KWIF-Drivequellen liegen unter research/companies/koenigswege-immobilien-finanzierung/. Öffentliche Websitequellen liegen unter research/companies/koenigswege/website/; deren page_inventory.csv und sources.json unterscheiden strukturellen Index von gezielter Textprüfung. Nur Metadaten und eigene Zusammenfassungen speichern, keine Rohseiten, personenbezogenen Objekt-/Bonitätsakten oder Originalverträge. Beide Live-Intranets verlangten beim letzten Zugriff Google-Anmeldung; INTRANET_ACCESS.md lesen und keine vollständige Intranetprüfung behaupten, solange kein tatsächlicher Inhaltszugriff vorliegt. Online University bleibt ausgeschlossen.

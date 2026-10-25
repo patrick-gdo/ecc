@@ -27,3 +27,7 @@ Für Deutschland die produktabhängigen Erlaubnis- und Aufsichtspflichten anhand
 ## Aktueller Schwerpunkt: direkte Konkurrenten Königswege und FG
 
 Die Nutzereinordnung ist unter DEC-003 festgehalten. Aktuelle Ergebnisse: [Königswege](companies/koenigswege/README.md), [Finanzgenies](companies/finanzgenies/README.md) und [direkter Vergleich](comparisons/koenigswege-vs-finanzgenies.md). Die [strukturierte Aussagenliste](claims.csv) trennt Dokumentenbefund, Interpretation und Evidenzlücken. FG bedeutet Finanzgenies, nicht Fonds Finanz.
+
+## Ergänzender Quellenraum
+
+[KWIF-Leistungs-/Prozessanalyse](companies/koenigswege-immobilien-finanzierung/ANALYSIS.md) und [Königswege-Website](companies/koenigswege/website/README.md) ergänzen den direkten Wettbewerbsvergleich. [Intranet-Zugriff](companies/koenigswege/INTRANET_ACCESS.md) dokumentiert den noch blockierten Auftragsteil.

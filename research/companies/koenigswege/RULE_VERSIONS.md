@@ -64,3 +64,7 @@ Diese Punkte sind Evidenzanforderungen für weitere Arbeit, keine Aufforderung, 
 ## Ergänzung nach Durchlauf drei
 
 KW-032 zeigt als separater Karriereplan sichtbar August 2023. KW-033/034 liefern nun Formulare und FAQ für die zuvor nur skizzierten Wechselprozesse; KW-035 ist ein Muster für eine Gesellschaft als Vertriebspartner. Die zusätzlichen Unterlagen belegen weiterhin keinen Livefall und keine allgemeine Einführung der diskutierten Reformen. Siehe [operative Auswertung](OPERATIONS.md).
+
+## Ergänzung: öffentliche Erlaubnisdarstellung
+
+Website-Erstinformation und Impressum nennen §34f; das Impressum zusätzlich §34i. [KW-WEB-025, KW-WEB-048 in website/sources.json] KW-001 nennt dagegen §34h und verweist §34c/§34i auf andere Gesellschaften. Eine öffentliche Podcast-Begleitseite vom 17.05.2024 erwähnt einen Wechsel von §34h zu §34f. [KW-WEB-291]. Das ist ein Erklärungshinweis aus Eigenveröffentlichung, keine unabhängige Bestätigung aktueller Erlaubnisse oder Vertragsgeltung. Details im [Websiteabgleich](website/ANALYSIS.md).

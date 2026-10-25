@@ -20,3 +20,9 @@ Keine vollständigen urheberrechtlich geschützten Berichte oder vertraulichen O
 ## Weitere Quellenbasis
 
 Der zweite bereitgestellte Drive-Ordner „FG“ ist gesondert unter [Finanzgenies-Quellen](companies/finanzgenies/SOURCES.md) registriert. Dort stehen Herkunft, Dokumentstand und Prüfumfang je Datei. Der [Vergleich](comparisons/koenigswege-vs-finanzgenies.md) behandelt beide als direkte Konkurrenten und verhindert die Doppelzählung derselben internen Vergleichsunterlage.
+
+## KWIF und öffentliche Website
+
+- [KWIF-Quellenregister](companies/koenigswege-immobilien-finanzierung/SOURCES.md): elf bereitgestellte Unterlagen mit getrenntem Lese-/Extraktionsumfang.
+- [Websitequellen](companies/koenigswege/website/SOURCES.md): 312 kanonische HTML-Seiten mit je URL, Hash und konkretem Prüfumfang; Mehrheit nur strukturell indexiert. Unternehmenseigene Aussagen sind keine unabhängige Bestätigung.
+- [Live-Intranets](companies/koenigswege/INTRANET_ACCESS.md): Zugriff zur Google-Anmeldung umgeleitet; keine Inhaltsevidenz.

@@ -57,3 +57,7 @@ Pro Aussage festhalten: Wer behauptet sie? Aus welchem Interesse? Welcher Zeitra
 5. Erst danach einen begründeten Entwurf unserer eigenen Rollen, Karriere und Vergütung festlegen.
 
 Diese Schritte präzisieren den Prüfbedarf. Noch keine vollständige Unternehmens-, Rechts- oder Finanzprüfung abgeschlossen.
+
+## Ergänzung: KWIF-Leistungsumfang und öffentliches Marketing
+
+Die [KWIF-Unterlagen](../companies/koenigswege-immobilien-finanzierung/ANALYSIS.md) zeigen eine detailliertere Differenzierung der Immobilienkategorien als das pauschale Wort „Immobilienservice“ erkennen lässt. Der [Websiteabgleich](../companies/koenigswege/website/ANALYSIS.md) hält öffentliche Prüf-/Begleitversprechen und interne Leistungsgrenzen auseinander. Für den Vergleich mit FG ist deshalb nicht nur das Vorhandensein einer Kriterienliste, sondern der tatsächlich zugesagte Leistungsumfang je Angebot zu prüfen. Die zusätzliche KW-Quellenmenge ist weiterhin kein Qualitätsnachweis gegenüber FG.

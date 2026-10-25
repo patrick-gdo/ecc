@@ -1,0 +1,48 @@
+{
+  "as_of": "2026-10-25",
+  "scope": "Oeffentliche statisch erreichbare HTML-Seiten auf koenigswege.com, Sitemap und interne Links; University ausgeschlossen",
+  "sitemap_urls": 309,
+  "sitemap_urls_attempted": 309,
+  "requested_urls": 449,
+  "fetched_html": 447,
+  "canonical_html_pages": 312,
+  "url_variants_grouped": 135,
+  "pending_urls": 0,
+  "categories": {
+    "Unternehmens_und_Funnelseite": 18,
+    "Kunden-Ratgeber": 49,
+    "Kategoriearchiv": 5,
+    "Rechtliche_Selbstauskunft": 3,
+    "Partner-Ratgeber": 16,
+    "Partnerprofil": 48,
+    "Standortseite": 86,
+    "Leistungsseite": 17,
+    "Loginoberflaeche_ohne_Anmeldung": 2,
+    "Podcast-Begleitseite": 66,
+    "Stellenangebot": 2
+  },
+  "review_states": {
+    "targeted_text_review": 17,
+    "structural_index_only": 214,
+    "opening_section_review": 16,
+    "catalog_excerpt_review": 65
+  },
+  "failures": [
+    {
+      "url": "https://koenigswege.com/kw-standorte/mannheim-erzbergstrasse/",
+      "state": "http_error",
+      "http_status": 404
+    },
+    {
+      "url": "https://koenigswege.com/?oxy_user_library=stoerer-b2c-2",
+      "state": "http_error",
+      "http_status": 503
+    }
+  ],
+  "limits": [
+    "Nicht jede Fachbehauptung aller Seiten manuell oder extern validiert",
+    "Keine externen Audio-/Video-/Formular-/E-Book-Inhalte ohne bereitgestellten Inhalt gelesen",
+    "Keine authentifizierten Funktionen, Cookies oder Konten verwendet",
+    "Live-Intranets verlangen Google-Anmeldung; Drive-Material ist kein Vollersatz"
+  ]
+}

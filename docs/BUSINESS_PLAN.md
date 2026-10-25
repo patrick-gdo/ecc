@@ -65,3 +65,15 @@ Für den eigenen Karriereplan wird bis zur Modellentscheidung kein Prozentsatz a
 Königswege und Finanzgenies werden auf Nutzerauftrag als direkte Konkurrenten verglichen. Die [Vergleichsauswertung](../research/comparisons/koenigswege-vs-finanzgenies.md) erweitert die Gestaltungsfragen: Eigen-/Teamumsatz und Führungskompetenz unterscheiden, Honorar nach Leistung und Zeitpunkt verstehen, Auswahlkriterien mit unabhängiger Freigabe verbinden und formale Regeln von tatsächlicher Anwendung trennen.
 
 Die FG-Karrieregrafik enthält einen Aufbaupfad; das rechtfertigt keine pauschale Einordnung als reines Einzelberatermodell. Ebenso belegt die umfangreichere KW-Dokumentenablage noch keine höhere Beratungsqualität. Für unseren Entwurf bleiben Modellwahl, Kundenfokus, Vergütungsanteile und Finanzierung offen. Nächste belastbare Grundlage wäre ein einheitlicher Fallvergleich mit gültigen Regeltexten, vollständiger Kosten-/Haftungslogik und tatsächlichen Leistungsnachweisen.
+
+## 14. Immobilienleistungen und öffentliches Versprechen abstimmen
+
+Die [KWIF-Auswertung](../research/companies/koenigswege-immobilien-finanzierung/ANALYSIS.md) zeigt unterschiedliche Prüf-, Betreuungs- und Kommunikationsumfänge je Produktkategorie. Für unser Modell je Angebot ein eigenes Leistungsblatt mit Zuständigkeit, Nachweisen, Kosten, Eskalation und verbleibender Kundenverantwortung entwerfen. Partnerzulassung, Objektfreigabe und Kundenfinanzierung sind getrennte Entscheidungen.
+
+After-Sales benötigt einen kalkulierten Auftrag und ausreichende Kapazität. Ein internes Haftungs-/Leistungslimit darf nicht ungeprüft als rechtlich wirksamer Ausschluss behandelt werden. Ebenso wenig darf eine öffentliche Aussage Risiken generell als beseitigt oder umfassenden Service als selbstverständlich darstellen, wenn die tatsächlichen Leistungszusagen differenzieren.
+
+## 15. Akquise- und Wissensarchitektur
+
+Die [öffentliche Websiteauswertung](../research/companies/koenigswege/website/ANALYSIS.md) zeigt zwei verbundene Akquisestrecken: Endkunden für Beratung und potenzielle Vertriebspartner. Für unser Modell separate Einstiegsangebote, Qualifizierung, Verantwortliche und Messgrößen entwickeln. Zentrale Marke, fachliche Inhalte, lokale Sichtbarkeit und persönliche Partnerpositionierung mit laufendem Pflegeaufwand kalkulieren.
+
+Ein zentrales Regel-/Aussagenregister soll Website, Erstinformation, Verträge, Präsentation und operativen Freigabestand miteinander verbinden. Für zeitabhängige Zins-, Förder-, Produkt- und Erlaubnisangaben Quelle, Stand und Aktualisierungsverantwortung vorsehen. Noch keine Konversionsrate, Renditeerwartung oder Ausschüttung aus Marketingangaben als Planungswert übernommen.

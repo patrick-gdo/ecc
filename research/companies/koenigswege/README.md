@@ -27,3 +27,11 @@ Die interne Vergleichsarbeitsmappe wird unter KW-040 geführt und mit FG-006 als
 „Online University“ einschließlich gleichnamiger oder eindeutig zugehöriger Unterlagen bleibt ausgeschlossen. In gemischten Unterlagen vorkommende University-Passagen werden nicht ausgewertet. Die Ausschlüsse sind zusätzlich im Entscheidungsregister festgehalten.
 
 Ins Repository gelangen eigene Zusammenfassungen, Quellenverweise und offene Prüffragen. Keine Originalverträge, personenbezogenen Rankings, Leadlisten, Kontaktdaten, Zugangsdaten oder vollständigen Transkripte. Die Google-Drive-Dateien wurden nicht verändert, verschoben oder gelöscht. Temporäre Arbeitskopien unter /tmp/kw-review sind keine dauerhafte Wissensablage; Quellen bleiben über ihre Drive-IDs nachvollziehbar.
+
+## Ergänzende Oberflächen
+
+- [Öffentliche Website: Positionierung und Abgleich](website/README.md)
+- [Live-Intranets: Zugriff noch blockiert](INTRANET_ACCESS.md)
+- [KWIF-Drive: eigene Analyse und Quellen](../koenigswege-immobilien-finanzierung/README.md)
+
+Webquellen werden separat von den bisherigen 40 Drive-Registereinträgen geführt. Erfolgreicher Abruf oder Strukturindex bedeutet keine vollständige manuelle Inhaltsprüfung.

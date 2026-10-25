@@ -1,0 +1,125 @@
+[
+  {
+    "source_id": "KWIF-001",
+    "drive_file_id": "14iApvwKL3iqhRWySVoDssMluKNULWhtI",
+    "title": "Leistungsbeschreibung / Leistungsabgrenzung 2.0",
+    "url": "https://drive.google.com/file/d/14iApvwKL3iqhRWySVoDssMluKNULWhtI/view",
+    "retrieved_on": "2026-10-25",
+    "document_date": "Version 2.0 laut Ablage; kein gesicherter Geltungsbeginn",
+    "review_scope": "Textliche Prüfung zu sieben Prüfphasen, Rollen, Finanzierung und After-Sales-Grenzen. University-Passagen nicht ausgewertet. Keine rechtliche Wirksamkeits- oder Betriebsprüfung.",
+    "sha256": "81cca20443a7cc3624502bd24c40f99bf287dd44b99a64739fa1e221a74e13a6",
+    "original_in_repository": false
+  },
+  {
+    "source_id": "KWIF-002",
+    "drive_file_id": "1M6n1lFTr2Y72hPumNl5geYd6LuvMun65",
+    "title": "Blankovorlage Prüfprozess Produktpartner und Projekte",
+    "url": "https://drive.google.com/file/d/1M6n1lFTr2Y72hPumNl5geYd6LuvMun65/view",
+    "retrieved_on": "2026-10-25",
+    "document_date": "Undatiertes Arbeitsmuster",
+    "review_scope": "Gezielte Sichtung der Phasen, Aufgaben-/Nachweisfelder, Verantwortlichkeiten und leeren Status-/Datumsfelder. Keine abgeschlossene konkrete Prüfung; keine Formelvalidierung.",
+    "sha256": "80ed74989eb5cee8834c4a1da33c6342b05a86101008bdc4c9dfd594b00fa288",
+    "original_in_repository": false
+  },
+  {
+    "source_id": "KWIF-003",
+    "drive_file_id": "15IUgV3hU_c2y7xXVWi0ImzMT-tJSp0bK",
+    "title": "Definition Investoren-PLUS-Objekt V1.1 – PDF",
+    "url": "https://drive.google.com/file/d/15IUgV3hU_c2y7xXVWi0ImzMT-tJSp0bK/view",
+    "retrieved_on": "2026-10-25",
+    "document_date": "Version 1.1, 11.02.2026 im Dokument",
+    "review_scope": "S. 1 vollständig textlich gelesen; insbesondere Mindest-/Optionalleistungen und ausdrücklich nicht gewährleistete Prüf-/Betreuungsleistungen. Keine Originalweitergabe.",
+    "sha256": "e9ddc6d9ba834b4d637c40a63a200135efb8ea42af276d473ff89b8702041b3b",
+    "original_in_repository": false,
+    "evidence_family": "KWIF_investoren_plus_v11"
+  },
+  {
+    "source_id": "KWIF-004",
+    "drive_file_id": "1lN7MXnRUOA8FNgaPmBoOvLyt_nf-7HZ0",
+    "title": "Vergütung bei Immobilien",
+    "url": "https://drive.google.com/file/d/1lN7MXnRUOA8FNgaPmBoOvLyt_nf-7HZ0/view",
+    "retrieved_on": "2026-10-25",
+    "document_date": "Tabellenblätter gültig ab 08.2025, 04.2026 und 05.2026",
+    "review_scope": "Textliche Sichtung der Produktkategorien, Rollen, Nettobezeichnung, Stichtage und Veränderungen zwischen Blättern. Keine individuellen Vergütungszusagen oder bestätigte aktuelle Auszahlung; Rechenformeln nicht validiert.",
+    "sha256": "821dc72545079b8ab3af651921666317516933630e487fc1e3e53913ac49c396",
+    "original_in_repository": false
+  },
+  {
+    "source_id": "KWIF-005",
+    "drive_file_id": "1Jqf4rmBotFofxASiWzYqjokBtKcVb6Cd",
+    "title": "Agenda Immoboard Februar 2026 und Entscheidungsvorlagen",
+    "url": "https://drive.google.com/file/d/1Jqf4rmBotFofxASiWzYqjokBtKcVb6Cd/view",
+    "retrieved_on": "2026-10-25",
+    "document_date": "Februar 2026, Entscheidungsvorlagen 03.02.2026 laut Text",
+    "review_scope": "Gezielte Prüfung von Prozess-/After-Sales-Themen, Einordnung Investoren-PLUS, Beschlussvorschlägen und Prüfgrenzen. Personen-/Projektproblemfälle und Bonitätszahlen nicht als bestätigte aktuelle Tatsachen übernommen.",
+    "sha256": "e4394b81f47f051e2dc37d4142839a00dfe2c82e0cdde6408ffaab38782113b5",
+    "original_in_repository": false
+  },
+  {
+    "source_id": "KWIF-006",
+    "drive_file_id": "1qCZ7HAQrnvidU_g4dScXyujHdd-BQ4fL",
+    "title": "Immobilien – interne Arbeitsnotiz",
+    "url": "https://drive.google.com/file/d/1qCZ7HAQrnvidU_g4dScXyujHdd-BQ4fL/view",
+    "retrieved_on": "2026-10-25",
+    "document_date": "Kein verlässlicher Geltungsstand",
+    "review_scope": "Notiz zu Entscheidungsrahmen und Toolvergleich gelesen. Wettbewerberabwertungen nicht übernommen; keine heutige Funktionsprüfung.",
+    "sha256": "0310b4b064989f617e697c558c21e934087f81002c296b9591598c0d39c03187",
+    "original_in_repository": false
+  },
+  {
+    "source_id": "KWIF-007",
+    "drive_file_id": "1HP6dwdHWVC9ge_L2hvIckWwMdRcVB4vr",
+    "title": "Kriterien Immobilien-Produktpartner – ausgefüllter Anbieterbogen",
+    "url": "https://drive.google.com/file/d/1HP6dwdHWVC9ge_L2hvIckWwMdRcVB4vr/view",
+    "retrieved_on": "2026-10-25",
+    "document_date": "Kein gesicherter Aktualitätsstand",
+    "review_scope": "Ausgewählte Angaben zur Angebotsart, Anbieterauskunft und Vergütung gelesen; als Anbieter-Selbstauskunft eingeordnet, keine unabhängige Sach-/Bonitätsprüfung.",
+    "sha256": "6b48389286dcf5af0609e003e2f37b9cd3056b48e68a55121f9bcdde0cabfd4c",
+    "original_in_repository": false
+  },
+  {
+    "source_id": "KWIF-008",
+    "drive_file_id": "1PHFPsU4eno8Snq2GLvyxyyuTNS3WYeLu",
+    "title": "Prüfprozess Primus Valor – ausgefüllter Arbeitsstand",
+    "url": "https://drive.google.com/file/d/1PHFPsU4eno8Snq2GLvyxyyuTNS3WYeLu/view",
+    "retrieved_on": "2026-10-25",
+    "document_date": "Einträge mit Bezügen November 2025 bis Juni 2026; Datumskorrektheit nicht vollständig geprüft",
+    "review_scope": "S. 1 textlich gelesen: Datums-/Aufgaben-/Nachweisfelder und teilweise gefüllter Prozess. Verlinkte Belege nicht vollständig geprüft; keine verbindliche Freigabe festgestellt.",
+    "sha256": "a9b43919088facad962c6b50dd51dfc38e14ee5a5fca4a178a71da863419c0f3",
+    "original_in_repository": false
+  },
+  {
+    "source_id": "KWIF-009",
+    "drive_file_id": "1Q8ys-hwJwyvZOvDe2bYSeuAgvjDokuIj",
+    "title": "Leistungsbeschreibung / Leistungsabgrenzung – weitere Fassung",
+    "url": "https://drive.google.com/file/d/1Q8ys-hwJwyvZOvDe2bYSeuAgvjDokuIj/view",
+    "retrieved_on": "2026-10-25",
+    "document_date": "Ablage unter Immoboard 24.03.2026; kein gesicherter Geltungsbeginn",
+    "review_scope": "Technisch extrahiert, noch keine vollständige inhaltliche oder rechtliche Versionsprüfung; nur als weitere vorhandene Fassung registriert.",
+    "sha256": "12ba15a3a97d4ad444be94c6ea2fa6f5ad9c7d2ffdc6f32f3968cae45724650c",
+    "original_in_repository": false
+  },
+  {
+    "source_id": "KWIF-010",
+    "drive_file_id": "1n2sxTbMi9k4UB2fZDzyWPfVgJST3gvcV",
+    "title": "Definition Investoren-PLUS-Objekt – Word-Fassung",
+    "url": "https://drive.google.com/file/d/1n2sxTbMi9k4UB2fZDzyWPfVgJST3gvcV/view",
+    "retrieved_on": "2026-10-25",
+    "document_date": "V1.1 laut Ablage",
+    "review_scope": "Technisch extrahiert; inhaltlich über die gesondert gelesene PDF KWIF-003 behandelt, nicht als unabhängige Bestätigung gezählt.",
+    "sha256": "6968532f14c80b8a72d96c1d2894e7367c074a165dc86eabebc851ca50126a3a",
+    "original_in_repository": false,
+    "evidence_family": "KWIF_investoren_plus_v11"
+  },
+  {
+    "source_id": "KWIF-011",
+    "drive_file_id": "1f5KQ212_hcqgInrGIhmgEeBe5M-me5Bk",
+    "title": "Agenda Immoboard – längere Arbeitsunterlage",
+    "url": "https://drive.google.com/file/d/1f5KQ212_hcqgInrGIhmgEeBe5M-me5Bk/view",
+    "retrieved_on": "2026-10-25",
+    "document_date": "Gemischte Arbeitsstände; kein einheitlicher Geltungsbeginn",
+    "review_scope": "Technisch extrahiert; noch keine vollständige Inhaltsprüfung. Keine personenbezogenen Projektvorgänge ins Repository übernommen.",
+    "sha256": "b2faa4b36db32f1e0bc8c0cd5ac27e415ce1494584bc525b642f7d785ec851f3",
+    "original_in_repository": false
+  }
+]

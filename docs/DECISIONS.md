@@ -29,3 +29,11 @@ Datum: 25.10.2026 · Status: Nutzereinordnung und Rechercheauftrag bestätigt.
 Königswege und FG werden im Projekt als direkte Konkurrenten untersucht. Der Nutzer hat nach der weiteren Königswege-Auswertung den zweiten Drive-Ordner `1lccmIqxbQDbGnDiXPEn2bufGI18MPTK8` zur Auswertung und Erfassung beauftragt. Die Identifikation der dortigen Dokumente wird anhand ihrer Inhalte geprüft; die Abkürzung FG wird nicht mit Fonds Finanz gleichgesetzt.
 
 Wettbewerbsbehauptungen aus Material der jeweils anderen Seite sind zu kennzeichnen und nicht als unabhängiger Beleg zu übernehmen. Gleiche Dimensionen und nachvollziehbare Quellenstände verwenden. Die Einordnung als Konkurrenten trifft keine Vorentscheidung über die Qualität eines Systems.
+
+## DEC-004 – KWIF, Live-Intranets und öffentliche Website
+
+Datum: 25.10.2026 · Status: zusätzlicher Nutzerauftrag.
+
+Zuerst die KWIF-Drive-Ablage `1eMzUe3VqhOb_OlWGa_Zi6KX3VOmaSfSY` bearbeiten, danach KW-/KWIF-Intranets und die Königswege-Website untersuchen und relevantes Wissen speichern. Online University bleibt ausgeschlossen. Öffentliche Aussagen, interne Arbeitsstände und tatsächliche Betriebsergebnisse bleiben getrennte Quellenarten.
+
+Beide Live-Intranets verlangten beim tatsächlichen Zugriff Google-Anmeldung; keine Inhalte daraus gelesen. Die öffentliche Website wurde über Sitemap und interne HTML-Links erfasst, relevante Kernbereiche gezielt geprüft. Dies ist kein vollständiger Live-Intranetreview und keine Vollvalidierung aller historischen Finanz-/Rechtsangaben.

@@ -1,0 +1,18 @@
+[
+  {
+    "surface": "kw-intranet",
+    "requested_url": "https://sites.google.com/koenigswege.com/intranet/startseite_1?authuser=0",
+    "checked_on": "2026-10-25",
+    "state": "google_login_required",
+    "final_host": "accounts.google.com",
+    "content_read": false
+  },
+  {
+    "surface": "kwif-intranet",
+    "requested_url": "https://sites.google.com/koenigswege.com/kwif/home",
+    "checked_on": "2026-10-25",
+    "state": "google_login_required",
+    "final_host": "accounts.google.com",
+    "content_read": false
+  }
+]

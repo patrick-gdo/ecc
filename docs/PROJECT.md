@@ -35,3 +35,13 @@ Noch offen: aktuell geltende individuelle Regelpakete und echte Anwendung, volls
 FG-Vertrags- und Vergütungsanlagen sowie KW-Ergänzungen/Umsetzungsbelege suchen, soweit bereitgestellt oder öffentlich zugänglich. Fehlende Angaben insbesondere zu FG-Reserve, Kundenmitnahme und Beförderungslogik nicht mit Konkurrenzbehauptungen auffüllen. Danach gleiche synthetische Kunden-/Beraterfälle mit konsistenten Leistungs-, Kosten- und Haftungsgrößen rechnen. Übrige KW-Inhalte thematisch aus Index und Ausschlussliste auswählen.
 
 Online University bleibt ausgeschlossen. Der eigenständig bereitgestellte FG-Academy-Screenshot wurde nur als sichtbare Übersicht gesichtet; keine Kurse geöffnet. Markt, Produkt- und Kundenfokus für unser eigenes Unternehmen bleiben offen.
+
+## Ergänzung: KWIF und Webauftrag
+
+KWIF-Drive: 176 sichtbare Einträge, davon 32 Ordner und 144 Dateien, vollständig hinsichtlich sichtbarer Struktur erfasst. Elf Kernunterlagen heruntergeladen/registriert; acht mit gezieltem inhaltlichem Prüfumfang, drei bislang nur technisch erfasst bzw. über andere Fassung behandelt. Analyse: [KWIF](../research/companies/koenigswege-immobilien-finanzierung/README.md). Objektakten, Bonitätsoriginale, Zufriedenheitsantworten und private Kommunikation nicht vollständig ausgewertet.
+
+Öffentliche Website: 309 Sitemap-URLs und entdeckte interne HTML-Links bearbeitet; 449 URL-Aufrufe, 447 erfolgreiche HTML-Antworten, nach Gruppierung 312 kanonische Seiten. 17 Kernseiten gezielt textlich geprüft, 65 Podcast-Begleitseiten über Auszüge katalogisiert, 16 Partnerartikel über Eingangsabschnitte geprüft, 214 Seiten nur automatisch strukturell indexiert. Ein Standortpfad 404 und eine technische Builder-Komponente nach erneutem Abruf 503. Details: [Website](../research/companies/koenigswege/website/README.md). Keine vollständige manuelle Validierung jeder Fachbehauptung oder Audio-/Videoauswertung.
+
+**Blockierter Teilauftrag:** KW-/KWIF-Live-Intranets leiten zur Google-Anmeldung weiter. Keine Intranet-Inhalte gelesen. Für die ausdrücklich vollständige Intranet-Auswertung ist ein lesbarer Export oder eine unterstützte authentifizierte Anbindung erforderlich; Details in [INTRANET_ACCESS.md](../research/companies/koenigswege/INTRANET_ACCESS.md). Die bestehende Drive-Auswahl ist kein bestätigter vollständiger aktueller Intranetexport.
+
+Nächster Schritt: nach Bereitstellung tatsächlichen Inhaltszugriff prüfen, Navigation und verlinkte Dokumente der Intranets erfassen und dann die relevanten Inhalte quellenbezogen auswerten. Online University bleibt ausgeschlossen. Unabhängig davon können die übrigen KWIF-/KW-Akten thematisch vertieft und die neuen Erkenntnisse in einen einheitlichen Leistungs-/Kostenentwurf überführt werden.
