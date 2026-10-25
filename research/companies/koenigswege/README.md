@@ -2,9 +2,13 @@
 
 Stand und Abruf: 25.10.2026. Ausgangspunkt: der vom Nutzer freigegebene Google-Drive-Ordner „KW“. Dies ist eine erste dokumentenbasierte Analyse, keine abgeschlossene Unternehmensprüfung.
 
-## Aktuelle Ergänzung: KW-Live-Intranet
+## Aktuell: Online University ausdrücklich eingeschlossen
 
-Am 25.10.2026 authentifiziert ausgewertet: [Live-Intranet-Analyse](intranet/ANALYSIS.md), [Quellen/Fundstellen](intranet/SOURCES.md) und [Prüfgrenzen](intranet/REVIEW_STATUS.md). 74 gezielte Seitenreviews, 19 Dokumentreviews und fünf begrenzte externe Primärquellenabgleiche. Zwei Dokumentabrufe und ein interner Link blieben ohne Inhalt. Online University ausgeschlossen. Diese Live-Zählung wird wegen möglicher Überschneidungen nicht zu bisherigen Downloads addiert.
+Der Nutzer hat am 25.10.2026 den früheren Ausschluss aufgehoben (DEC-005). Die [University-Teilprüfung](online-university/README.md) erfasst 58 sichtbare Lernpfade, zehn vertiefte Module und zehn Dokumentquellen mit unterschiedlichen Prüfgrenzen. [Quellen](online-university/SOURCES.md), [Bewertung und Lehren](online-university/ANALYSIS.md) und [offene Inhalte](online-university/REVIEW_STATUS.md). Keine vollständige University-Auswertung; historische Ausschlüsse unten kennzeichnen frühere Lücken.
+
+## Frühere Ergänzung: KW-Live-Intranet
+
+Am 25.10.2026 authentifiziert ausgewertet: [Live-Intranet-Analyse](intranet/ANALYSIS.md), [Quellen/Fundstellen](intranet/SOURCES.md) und [Prüfgrenzen](intranet/REVIEW_STATUS.md). 74 gezielte Seitenreviews, 19 Dokumentreviews und fünf begrenzte externe Primärquellenabgleiche. Zwei Dokumentabrufe und ein interner Link blieben ohne Inhalt. Online University war in diesem damaligen Durchlauf ausgeschlossen; seit DEC-005 zur weiteren Auswertung freigegeben. Diese Live-Zählung wird wegen möglicher Überschneidungen nicht zu bisherigen Downloads addiert.
 
 ## Umfang und Lesestatus der früheren Drive-Durchläufe
 
@@ -28,7 +32,7 @@ Die interne Vergleichsarbeitsmappe wird unter KW-040 geführt und mit FG-006 als
 
 ## Ausschlüsse und Umgang mit Originalen
 
-„Online University“ einschließlich gleichnamiger oder eindeutig zugehöriger Unterlagen bleibt ausgeschlossen. In gemischten Unterlagen vorkommende University-Passagen werden nicht ausgewertet. Die Ausschlüsse sind zusätzlich im Entscheidungsregister festgehalten.
+Der frühere Ausschluss von Online University samt zugehöriger Unterlagen und Passagen ist durch DEC-005 aufgehoben. Die damaligen Auslassungen bleiben historische Prüflücken; aus der Freigabe folgt keine nachträgliche Inhaltsprüfung. exclusions.json bewahrt die früheren Einträge als Historie.
 
 Ins Repository gelangen eigene Zusammenfassungen, Quellenverweise und offene Prüffragen. Keine Originalverträge, personenbezogenen Rankings, Leadlisten, Kontaktdaten, Zugangsdaten oder vollständigen Transkripte. Die Google-Drive-Dateien wurden nicht verändert, verschoben oder gelöscht. Temporäre Arbeitskopien unter /tmp/kw-review sind keine dauerhafte Wissensablage; Quellen bleiben über ihre Drive-IDs nachvollziehbar.
 
