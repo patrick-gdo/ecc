@@ -22,8 +22,8 @@ Einen fundierten Geschäftsplan für einen Strukturvertrieb in der Finanzbranche
 
 ## Stand der Arbeit
 
-Erledigt: Wissensstruktur, Recherche- und Bewertungsmethode, Analysevorlage und Geschäftsplangerüst erstellt.
+Erledigt: Wissensstruktur, Recherche- und Bewertungsmethode, Analysevorlage und Geschäftsplangerüst erstellt. Am 25.10.2026 den bereitgestellten Königswege-Drive außerhalb ausgeschlossener University-Unterordner inventarisiert und eine erste quellenbezogene Analyse gespeichert: [Königswege](../research/companies/koenigswege/README.md). Zwölf Quellen mit tatsächlich geprüftem Bereich registriert; vollständige Ordnerauswertung noch offen.
 
-Noch nicht erledigt: Quellenrecherche, Unternehmensanalysen, regulatorische Prüfung, Kundenvalidierung und Finanzmodell. Keine Tragfähigkeit oder regulatorische Umsetzbarkeit bestätigt.
+Noch nicht erledigt: vollständige Quellen- und Unternehmensprüfung, unabhängiger Marktvergleich, regulatorische Prüfung, Kundenvalidierung und Finanzmodell. Keine Tragfähigkeit oder regulatorische Umsetzbarkeit bestätigt.
 
-Nächster Schritt: Markt und Produktfokus konkretisieren; anschließend offizielle Unternehmensunterlagen und regulatorische Primärquellen beschaffen, registrieren und die erste vergleichende Analyse verfassen.
+Aktueller Nutzerfokus: Königswege. Online University einschließlich zugehöriger Unterlagen bleibt ausgeschlossen. Nächster Schritt: aktuelle Regelstände und die verbleibenden Königswege-Unterlagen nach [Prüfplan](../research/companies/koenigswege/REVIEW_STATUS.md) bearbeiten; Dokumentenbefund, tatsächlich geltende Regel und Umsetzung auseinanderhalten. Markt und Produktfokus für das eigene Unternehmen bleiben offen.

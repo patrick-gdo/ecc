@@ -1,6 +1,6 @@
 # Quellenregister
 
-Noch keine externen Quellen geprüft. Die Rechercheagenda ist kein Beleg.
+Erste bereitgestellte interne Quellen wurden für Königswege geprüft. Das detaillierte Register mit Fundstellen, Prüfgrenzen und Hashes steht unter [Königswege-Quellen](companies/koenigswege/SOURCES.md). Unabhängige externe Quellen sind noch nicht geprüft. Die Rechercheagenda ist kein Beleg.
 
 Für jede Quelle einen Eintrag nach diesem Schema anlegen:
 

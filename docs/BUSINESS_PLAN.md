@@ -47,3 +47,7 @@ Zu untersuchen: regulatorische Zulässigkeit, Fehlanreize, Produktpartnerabhäng
 ## 10. Nächste Meilensteine
 
 Markt und Fokus bestätigen → Quellen prüfen → Modelle vergleichen → Zielmodell begründen → Finanzmodell erstellen → rechtliche Umsetzbarkeit klären → Pilot planen und auswerten → Geschäftsplan überarbeiten.
+
+## 11. Erste Erkenntnisse aus Königswege – noch keine Modellentscheidung
+
+Die [erste Königswege-Analyse](../research/companies/koenigswege/ANALYSIS.md) begründet folgende Prüfaufträge für unser Modell: Unternehmens- und Partnerstatus getrennt definieren; Beratungs- und Führungsrollen mit Leistungen hinterlegen; Kundenmitnahme und Haftung praktisch durchspielen; Vergütung und Liquidität getrennt rechnen; Qualitätskennzahlen eindeutig definieren; Änderungen versioniert beschließen und ihre Umsetzung prüfen. Dies sind Gestaltungs- und Validierungsaufträge, keine ungeprüfte Übernahme fremder Vertragsklauseln oder Erfolgsangaben.
