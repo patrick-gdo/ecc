@@ -1,6 +1,8 @@
 {
   "recorded_on": "2026-10-25",
-  "excluded_entries": [
+  "excluded_entries": [],
+  "mixed_documents": "University-Passagen dürfen nun ausgewertet werden. Frühere Auslassungen bleiben historische Prüflücken.",
+  "historical_excluded_entries": [
     {
       "drive_id": "1p2Vhonv_40DN2t5ab6t83th7YHlYOEyv",
       "label": "OnlineUniversity Shared folder",
@@ -51,5 +53,5 @@
       "reason": "Nutzerauftrag: Online University und eindeutig zugehörige Unterlagen auslassen"
     }
   ],
-  "mixed_documents": "University-Passagen ebenfalls nicht auswerten."
+  "current_status": "University-Ausschluss durch Nutzerauftrag am 25.10.2026 aufgehoben; DEC-005"
 }
