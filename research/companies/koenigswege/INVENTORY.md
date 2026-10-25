@@ -1,5 +1,7 @@
 # Dateiindex und Fortsetzungsregeln
 
+**Auftragsänderung 25.10.2026 (DEC-005):** University ist nun eingeschlossen. Die folgenden älteren Zählstände beruhen auf dem damaligen Ausschluss und werden nicht rückwirkend erweitert. Neue [University-Teilprüfung](online-university/README.md) und [Prüfstatus](online-university/REVIEW_STATUS.md) separat lesen.
+
 Die Datei [document_inventory.csv](document_inventory.csv) enthält 704 sichtbare Dateien außerhalb der festgehaltenen University-Ausschlüsse. Stand: Inventarisierung vom 25.10.2026. Keine neue Vollinventarisierung im zweiten Durchlauf; neu aufgerufene Dateien wurden anhand des vorhandenen Inventars gewählt.
 
 Die Datei enthält bewusst keine personenbezogenen Dateinamen, Originalinhalte oder Kontaktlisten. `drive_file_id` identifiziert die Datei; der Detailaufruf lautet `https://drive.google.com/file/d/<drive_file_id>/view`. Verfügbarkeit und Freigabe können sich ändern. Titel und Fundstellen registrierter Quellen stehen in [sources.json](sources.json).
@@ -24,7 +26,7 @@ Die Quelle mit `no_text_extracted` ist ebenfalls im Quellenregister dokumentiert
 ## Für die nächste KI
 
 1. README.md, AGENTS.md, REVIEW_STATUS.md und die aktuellen Befunde lesen.
-2. Vor neuen Drive-Aufrufen [exclusions.json](exclusions.json) beachten. Ausgeschlossene Ordner samt Nachkommen nicht traversieren; University-Passagen gemischter Dokumente nicht auswerten.
+2. Vor neuen Drive-Aufrufen [exclusions.json](exclusions.json) beachten. Der University-Ausschluss ist aufgehoben; historische Einträge sind keine aktuelle Sperrliste. Zugehörige Inhalte dürfen im neuen Auftrag geprüft werden, mit denselben Datenschutz- und Originalschutzgrenzen.
 3. Nach Themenbedarf aus dem Index wählen und Inhalt tatsächlich abrufen. Die bloße Präsenz im Inventar ist kein Beleg für eine Aussage.
 4. Quellen-ID, Hash, Datum und konkreten Prüfumfang ergänzen. Vertrauliche Originale und personenbezogene Daten außerhalb des Repositorys halten.
 5. Status, Schlussfolgerungen und Projektübergabe gemeinsam aktualisieren. Änderungen versioniert auf GitHub speichern.
