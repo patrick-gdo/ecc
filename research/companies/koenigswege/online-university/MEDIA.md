@@ -49,3 +49,7 @@ Die frühere Loom-Registrierungsschranke V001 bleibt bestehen; mangels neuer Fas
 347 Audio-/Videodateien sind im rekursiven Materialindex identifiziert. Das ist die Zahl sichtbarer Dateipositionen, nicht unabhängiger oder geprüfter Aufzeichnungen. Dateiversionen, mögliche Duplikate und Live-Verwendung sind nur teilweise abgeglichen. Siehe [Materialindex](drive_inventory.json) und das jeweils genaue Register.
 
 Nach Playerinitialisierung geprüft: V002–V004 und V009–V022 blieben in der beobachteten Drive-Sicht ohne aktive Transkriptansicht. Das belegt eine konkrete Textzugangslücke dieser Dateien; Ton und Bild sind weiterhin ungeprüft. V006–V008 bleiben durch das separate D003-Transkript textlich erschlossen, ohne neuen Videoabgleich.
+
+## Ergänzung Dokumentation und Datenschutz
+
+M016: alle sieben unabhängigen Videodateien im Viewer geöffnet. Grundlagen, Formulierung, Altersvorsorge, nachhaltige Altersvorsorge, Arbeitskraft und Sach ohne aktive Transkriptansicht nach Playerinitialisierung. Das Warnhinweisvideo meldete ausdrücklich „Video kann nicht geladen werden“; auch der rohe Abruf lieferte keinen Dateiverweis. Dies ist ein konkreter technischer Fehler dieser Quelle, keine allgemeine Drive-Sperre. Einzel-URLs und Datumsstände unter M016 im Quellenregister. Die drei Datenschutz-Partnerfoliensätze D046–D048 sind vollständig textlich gelesen, audiovisuelle und grafische Prüfung offen.
