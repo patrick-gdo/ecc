@@ -3967,12 +3967,12 @@
       "mime_type": "application/zip",
       "size_bytes": 299461,
       "modified_time": "2026-10-07T11:42:24.570Z",
-      "title": null,
+      "title": "Risikovoranfragen: Prozessübersicht: Von der Erstberatung zum rechtssicheren Antrag",
       "topic_tags": [
         "Risiko"
       ],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_static_package_review",
+      "source_id": "KW-OU-L016"
     },
     {
       "drive_id": "1_ykKl30I_VnqMTjxF6zzwEK2f81trLbn",
@@ -3981,12 +3981,12 @@
       "mime_type": "application/zip",
       "size_bytes": 544157,
       "modified_time": "2026-10-07T10:27:55.934Z",
-      "title": null,
+      "title": "Risikovoranfragen: Antragsstellung & rechtssichere Beratung",
       "topic_tags": [
         "Risiko"
       ],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_static_package_review",
+      "source_id": "KW-OU-L012"
     },
     {
       "drive_id": "13a9EQdqwYBa9g1CV-sLuQXayJYO8L9QV",
@@ -3995,12 +3995,12 @@
       "mime_type": "application/zip",
       "size_bytes": 560155,
       "modified_time": "2026-10-07T10:27:55.221Z",
-      "title": null,
+      "title": "Risikovoranfragen: Votenanalyse & Nachverhandlung (BU vs. PKV)",
       "topic_tags": [
         "Risiko"
       ],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_static_package_review",
+      "source_id": "KW-OU-L002"
     },
     {
       "drive_id": "1MFT8VlgeGRm6wITe-CgQPU9Ff7LkkO9U",
@@ -4009,12 +4009,12 @@
       "mime_type": "application/zip",
       "size_bytes": 473308,
       "modified_time": "2026-10-07T10:27:53.830Z",
-      "title": null,
+      "title": "Risikovoranfragen: Strategische Platzierung: Qualität vor Massen-Anfragen",
       "topic_tags": [
         "Risiko"
       ],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_static_package_review",
+      "source_id": "KW-OU-L009"
     },
     {
       "drive_id": "16tOP7_gp-TI7osh34y30e3TJZu_SZuP0",
@@ -4023,12 +4023,12 @@
       "mime_type": "application/zip",
       "size_bytes": 421215,
       "modified_time": "2026-10-07T10:27:53.052Z",
-      "title": null,
+      "title": "Risikovoranfragen: „Storytelling“ & persönliche Eigenerklärungen",
       "topic_tags": [
         "Risiko"
       ],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_static_package_review",
+      "source_id": "KW-OU-L004"
     },
     {
       "drive_id": "100daO11SKuPq1kLFHvayfx2Gyz_rRl2u",
@@ -4037,12 +4037,12 @@
       "mime_type": "application/zip",
       "size_bytes": 650169,
       "modified_time": "2026-10-07T10:27:52.515Z",
-      "title": null,
+      "title": "Risikovoranfragen: Das Arztgespräch: Attest & Fehldiagnose",
       "topic_tags": [
         "Risiko"
       ],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_static_package_review",
+      "source_id": "KW-OU-L001"
     },
     {
       "drive_id": "1GzT3ftvbNZ5QYuk1v94rMwCgUGw2Gm18",
@@ -4051,12 +4051,12 @@
       "mime_type": "application/zip",
       "size_bytes": 712010,
       "modified_time": "2026-10-07T10:27:51.439Z",
-      "title": null,
+      "title": "Risikovoranfragen: Unterlagen & Arztberichte gezielt anfordern",
       "topic_tags": [
         "Risiko"
       ],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_static_package_review",
+      "source_id": "KW-OU-L008"
     },
     {
       "drive_id": "1eVu6bsIno_nJEDT2kT_JraiZC02gXLHN",
@@ -4065,12 +4065,12 @@
       "mime_type": "application/zip",
       "size_bytes": 572536,
       "modified_time": "2026-10-07T10:27:50.334Z",
-      "title": null,
+      "title": "Risikovoranfragen: Der kurze Dienstweg: Vorab-Telefonat mit der Risikoprüfung",
       "topic_tags": [
         "Risiko"
       ],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_static_package_review",
+      "source_id": "KW-OU-L013"
     },
     {
       "drive_id": "1evvJ-fa7uO1MrNO4hM8KryfEpWuG_Pto",
@@ -4079,12 +4079,12 @@
       "mime_type": "application/zip",
       "size_bytes": 533670,
       "modified_time": "2026-10-07T10:27:49.437Z",
-      "title": null,
+      "title": "Risikovoranfragen: Patientenquittung auswerten & Diagnosen klassifizieren",
       "topic_tags": [
         "Risiko"
       ],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_static_package_review",
+      "source_id": "KW-OU-L014"
     },
     {
       "drive_id": "15N9ioL9FraZ4E_zpDkwcWEBzPBZaLubh",
@@ -4093,12 +4093,12 @@
       "mime_type": "application/zip",
       "size_bytes": 515324,
       "modified_time": "2026-10-07T10:27:48.757Z",
-      "title": null,
+      "title": "Risikovoranfragen: Der Weg für GKV-Versicherte: Patientenquittung",
       "topic_tags": [
         "Risiko"
       ],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_static_package_review",
+      "source_id": "KW-OU-L003"
     },
     {
       "drive_id": "1VsYlrbBQIlPyA5emoXvudzVO-woO4glw",
@@ -4107,12 +4107,12 @@
       "mime_type": "application/zip",
       "size_bytes": 451130,
       "modified_time": "2026-10-07T10:27:47.942Z",
-      "title": null,
+      "title": "Risikovoranfragen: Wann du auf die manuelle RVA wechselst",
       "topic_tags": [
         "Risiko"
       ],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_static_package_review",
+      "source_id": "KW-OU-L010"
     },
     {
       "drive_id": "1BXozH1Jq4J_3Fux2ohCtJ23H5xAN4cro",
@@ -4121,12 +4121,12 @@
       "mime_type": "application/zip",
       "size_bytes": 364212,
       "modified_time": "2026-10-07T10:27:47.069Z",
-      "title": null,
+      "title": "Risikovoranfragen: Arbeiten mit Zusatzfragebögen in vers.diagnose",
       "topic_tags": [
         "Risiko"
       ],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_static_package_review",
+      "source_id": "KW-OU-L006"
     },
     {
       "drive_id": "1GZu5iLX9_WvwcqTpdCHkiXHOQsiaykVS",
@@ -4135,12 +4135,12 @@
       "mime_type": "application/zip",
       "size_bytes": 409944,
       "modified_time": "2026-10-07T10:27:46.604Z",
-      "title": null,
+      "title": "Risikovoranfragen: Standard-Prozess & Einstiegsregel",
       "topic_tags": [
         "Risiko"
       ],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_static_package_review",
+      "source_id": "KW-OU-L007"
     },
     {
       "drive_id": "1ZJlHXV86jQXh9BC-nk_WjEx_G_qu4A22",
@@ -4149,12 +4149,12 @@
       "mime_type": "application/zip",
       "size_bytes": 1101271,
       "modified_time": "2026-10-07T09:25:38.658Z",
-      "title": null,
+      "title": "Risikovoranfragen: Tiefenaufbereitung von Vorerkrankungen",
       "topic_tags": [
         "Risiko"
       ],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_static_package_review",
+      "source_id": "KW-OU-L011"
     },
     {
       "drive_id": "1g8ePKhXCCFnfgnNt4GWUevVjWmdGmP5V",
@@ -4163,12 +4163,12 @@
       "mime_type": "application/zip",
       "size_bytes": 1216712,
       "modified_time": "2026-10-07T09:25:37.617Z",
-      "title": null,
+      "title": "Risikovoranfragen: Der Plausibilitäts-Check",
       "topic_tags": [
         "Risiko"
       ],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_static_package_review",
+      "source_id": "KW-OU-L015"
     },
     {
       "drive_id": "17qfzNKbngbiHVLE4AaDob4kQN7rD5AwI",
@@ -4177,12 +4177,12 @@
       "mime_type": "application/zip",
       "size_bytes": 1021843,
       "modified_time": "2026-10-07T09:25:36.573Z",
-      "title": null,
+      "title": "Risikovoranfragen: Vertriebliches Framing & Erwartungsmanagement",
       "topic_tags": [
         "Risiko"
       ],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_static_package_review",
+      "source_id": "KW-OU-L005"
     },
     {
       "drive_id": "1IMvU2bGJY0K2fMFUp0AA9_ersIY5N4Re",
@@ -6714,13 +6714,13 @@
       "mime_type": "application/vnd.google-apps.document",
       "size_bytes": 14007,
       "modified_time": "2026-09-16T11:36:56.498Z",
-      "title": null,
+      "title": "Altersvorsorgedepot – vertriebliche Einordnung: Transkript",
       "topic_tags": [
         "Altersvorsorge",
         "Depot"
       ],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_text_review",
+      "source_id": "KW-OU-D042"
     },
     {
       "drive_id": "1E9vOR3i8T5Tkf3kjKMVVp7q0MNuPgA1VQjsRWrjMEx4",
@@ -8163,10 +8163,10 @@
       "mime_type": "application/vnd.google-apps.document",
       "size_bytes": 3096,
       "modified_time": "2024-10-22T07:21:29.569Z",
-      "title": null,
+      "title": "Checkliste Onpartner/VPM",
       "topic_tags": [],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_text_review",
+      "source_id": "KW-OU-D032"
     },
     {
       "drive_id": "105Bk0Rb-t1QZbr8f_hGGaQR8MOAqiUk-",
@@ -8519,10 +8519,10 @@
       "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "size_bytes": 2480549,
       "modified_time": "2022-12-08T10:35:41.786Z",
-      "title": null,
+      "title": "Beförderungsplanung – Präsentation V1",
       "topic_tags": [],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_text_review",
+      "source_id": "KW-OU-D043"
     },
     {
       "drive_id": "1RcVrNSQ_hUz1iM8J_vri2bLDHAWKJkz5",
@@ -8653,12 +8653,12 @@
       "mime_type": "application/vnd.google-apps.document",
       "size_bytes": 66480,
       "modified_time": "2022-07-16T07:18:38.571Z",
-      "title": null,
+      "title": "Google Workspace – Schulungserläuterung",
       "topic_tags": [
         "Google"
       ],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_text_review",
+      "source_id": "KW-OU-D036"
     },
     {
       "drive_id": "11-81Gx3JVYn_e1uTowMJfhziX4PdkixV",
@@ -10406,10 +10406,10 @@
       "mime_type": "application/pdf",
       "size_bytes": 73777,
       "modified_time": "2026-10-05T09:31:20.218Z",
-      "title": null,
+      "title": "2in1 Kunden-Partner-Kreislauf – Skript",
       "topic_tags": [],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_text_review",
+      "source_id": "KW-OU-D041"
     },
     {
       "drive_id": "1oR8cHwFgNdcti50ypvsIj_MlOB07LRgP",
@@ -10649,12 +10649,12 @@
       "mime_type": "application/vnd.google-apps.document",
       "size_bytes": 1027845,
       "modified_time": "2026-08-31T12:13:39.734Z",
-      "title": null,
+      "title": "VV-Depot – Bestandspflegeprozesse",
       "topic_tags": [
         "Depot"
       ],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_text_review",
+      "source_id": "KW-OU-D045"
     },
     {
       "drive_id": "1ycGFqHWDqbB8zllI6HCzmQ3UkdkUny0h",
@@ -11307,10 +11307,10 @@
       "mime_type": "application/pdf",
       "size_bytes": 4493943,
       "modified_time": "2025-10-21T05:54:55.124Z",
-      "title": null,
+      "title": "Lebensplanung – Ziele, Ängste, Strategien: Blanko-Workbook",
       "topic_tags": [],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_text_review",
+      "source_id": "KW-OU-D044"
     },
     {
       "drive_id": "1WKI6_J61X5eEPH-ZF2RC7tS_s21CH19_",
@@ -11355,10 +11355,10 @@
       "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
       "size_bytes": 3457500,
       "modified_time": "2026-08-28T10:53:43.661Z",
-      "title": null,
+      "title": "Workbook Kündigungen und Widerrufe",
       "topic_tags": [],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_text_review",
+      "source_id": "KW-OU-D037"
     },
     {
       "drive_id": "1t5prswPpaI2f6EF8gxDLHudGySI1tZt3",
@@ -15129,12 +15129,12 @@
       "mime_type": "application/vnd.google-apps.document",
       "size_bytes": 1024,
       "modified_time": "2024-09-10T15:14:12.429Z",
-      "title": null,
+      "title": "fb-expert – Altersvorsorge: Modultext",
       "topic_tags": [
         "Altersvorsorge"
       ],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_text_review",
+      "source_id": "KW-OU-D033"
     },
     {
       "drive_id": "1EAdcSlWejAI8o52T2tjjfAwrKLcj9XrF",
@@ -15221,10 +15221,10 @@
       "mime_type": "application/vnd.google-apps.document",
       "size_bytes": 1024,
       "modified_time": "2024-05-22T10:48:27.235Z",
-      "title": null,
+      "title": "fb-expert – Sachversicherung: Modultext",
       "topic_tags": [],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_text_review",
+      "source_id": "KW-OU-D034"
     },
     {
       "drive_id": "11VT-nmDvaTVulqKllsdoYBeEAEWl_PQC",
@@ -15373,10 +15373,10 @@
       "mime_type": "application/vnd.google-apps.document",
       "size_bytes": 2118,
       "modified_time": "2024-05-22T10:35:37.460Z",
-      "title": null,
+      "title": "fb-expert – Arbeitskraft: Modultext",
       "topic_tags": [],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_text_review",
+      "source_id": "KW-OU-D035"
     },
     {
       "drive_id": "1oNMsuRuVRyGXMNNLorjZFt1GFM6wURo9",
@@ -17431,10 +17431,10 @@
       "mime_type": "application/vnd.google-apps.document",
       "size_bytes": 11095,
       "modified_time": "2026-05-15T11:23:20.478Z",
-      "title": null,
+      "title": "Umfragetool – Auswertungsgespräch",
       "topic_tags": [],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_text_review",
+      "source_id": "KW-OU-D040"
     },
     {
       "drive_id": "1zjzMnxXQ3icNJbQrBuogMHPXsCAr4C4yDNacrl7zgsc",
@@ -17443,10 +17443,10 @@
       "mime_type": "application/vnd.google-apps.document",
       "size_bytes": 2431847,
       "modified_time": "2026-04-14T14:34:59.755Z",
-      "title": null,
+      "title": "Umfragetool – Leitfaden Kunden",
       "topic_tags": [],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_text_review",
+      "source_id": "KW-OU-D039"
     },
     {
       "drive_id": "1oUh4aGEZCETafGs15C9GMI4BnBpHER4HVHdQZJFzC9Q",
@@ -17455,10 +17455,10 @@
       "mime_type": "application/vnd.google-apps.document",
       "size_bytes": 2732595,
       "modified_time": "2026-03-06T09:54:44.350Z",
-      "title": null,
+      "title": "Umfragetool – Leitfaden Newcomer",
       "topic_tags": [],
-      "status": "not_reviewed",
-      "source_id": null
+      "status": "scoped_text_review",
+      "source_id": "KW-OU-D038"
     },
     {
       "drive_id": "1yzU_-y3JRvAxP7rsirtdSSkfAGP3Ae0b",
@@ -17481,7 +17481,7 @@
       "modified_time": "2026-03-06T09:54:10.582Z",
       "title": "Newcomer-Umfrage – Erklärvideo (Titel teils aus Kontext verkürzt)",
       "topic_tags": [],
-      "status": "media_identified_not_reviewed",
+      "status": "transcript_review",
       "source_id": "KW-OU-V005"
     },
     {
