@@ -38,3 +38,6 @@ Ergänzende KWU-Drive-Dateiquellen S001–S007: [Befunde und Grenzen](companies/
 ## ECC · Eigener Bestand · 26.10.2026
 
 [ECC-Bestandsquellen](companies/ecc/bestand/SOURCES.md): ECC-BST-001 ist der vollständig rechnerisch ausgewertete CSV-Export; ECC-BST-002 ist die vom Nutzer nachgereichte Vertragsart-Legende. Datei-Hash, Fundstellen, Statusfilter, Annahmen und Prüfgrenzen dokumentiert. Originale und Kundendaten bleiben außerhalb des Repositories.
+
+
+ECC-BST-003 und ECC-BST-004: [neue Beginnexporte ab 2024/2025](companies/ecc/bestand/neuabschluesse/SOURCES.md), vollständig rechnerisch geprüft am 26.10.2026; 11.640 / 8.159 überlappende Zeilen. Quelle, Hash, Fundstellen und Beschränkungen dokumentiert. [Ranglisten und Methodik](companies/ecc/bestand/neuabschluesse/README.md); keine Kundendaten übernommen.

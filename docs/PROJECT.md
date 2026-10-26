@@ -128,3 +128,14 @@ Direkte Downloads teilweise erfolgreich; Ordneransicht leitet in dieser Cloud-Si
 **NÄCHSTER SCHRITT:** Gezielte Nutzerfragen beantworten; für Finanzfragen zuerst Periodenbasis/Währung und Courtageberechtigung abgleichen. Status-/Datumswidersprüche mit dem Quellsystem klären. Keine Kundenaktionen und keine Rohdatenmigration beauftragt.
 
 **Erste Folgefrage bearbeitet:** [Top 5 Gesellschaften](../research/companies/ecc/bestand/TOP5_GESELLSCHAFTEN.md) für Biometrie, Rente/bAV, Sach, KV Zusatz und KV Voll. Basis A/F/H nach Vertragszeilen, Kategorien explizit definiert; ursprüngliche Vermittlungsherkunft nicht nachgewiesen. Rangfolgen unabhängig über SQLite geprüft.
+
+
+## ECC · Neuabschlüsse nach Beginn · 26.10.2026
+
+**ERLEDIGT:** [Top-Gesellschaften ab 2024 und ab 2025](../research/companies/ecc/bestand/neuabschluesse/README.md) bis einschließlich 26.10.2026. Beide neuen Exporte vollständig eingelesen (11.640 / 8.159 Zeilen). Hauptsicht A/F/H/N/R/S/Y: 10.484 / 7.204 Vertragszeilen über alle Sparten; davon 10.071 / 6.966 in den fünf abgefragten Bereichen. Je 419 künftige Beginne ausgeschlossen. Rangfolge nach Zeilen, nicht Beitrag; Stornos und beitragsfreie Verträge enthalten. Beginn ist kein eigenständiger Abschluss- oder Vermittlungsnachweis.
+
+**PRÜFUNG:** Alle Rangfolgen beider Fenster und dreier Statussichten über Python und SQLite abgeglichen. Keine exakten Doppelzeilen in der Hauptsicht; jeweils eine zusätzliche Kandidatenschlüssel-Zeile bleibt ungeprüft erhalten. Die Exporte stimmen in den Ranglistendimensionen überein; zwei Zeilen unterscheiden sich nur im letzten simplr-Login. Gleichstände dokumentiert, darunter geteilter Platz 5 Biometrie ab 2025.
+
+**ABLAGE:** Quellen ECC-BST-003/004, Hashes, vollständige Ranglisten, Statussensitivitäten und Rechenprogramm unter `research/companies/ecc/bestand/neuabschluesse/`. Nur Aggregate und Methodik. Kein Rohdatenexport ins Repository.
+
+**OFFEN/NÄCHSTER SCHRITT:** Weitere Nutzerfragen auf dieser Basis beantworten. Für streng nachgewiesenes Eigenneugeschäft fehlen Abschluss-/Herkunftsfelder; für eine abweichende Status- oder Bereichsdefinition die gespeicherte Rechenlogik erneut anwenden. Bestehende KW-/FG-Arbeit unverändert.

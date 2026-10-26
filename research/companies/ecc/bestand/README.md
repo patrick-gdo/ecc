@@ -25,3 +25,5 @@
 Die Originaldatei und personenbezogene Einzelzeilen bleiben außerhalb von GitHub. Für spätere Detailfragen Original über die Quellenreferenz lesen, Hash vergleichen und Filter offenlegen. Die Aggregate sind keine zweite Kundenverwaltung und werden durch spätere Drive-Änderungen nicht automatisch aktualisiert.
 
 Erste Folgefrage: [Top 5 Gesellschaften je gewünschtem Spartenbereich](TOP5_GESELLSCHAFTEN.md), Rangfolge nach aktiven A/F/H-Vertragsdatensätzen mit expliziter Kategorienzuordnung.
+
+Neue Folgefrage: [Top-Gesellschaften ab 2024 und ab 2025](neuabschluesse/README.md), jeweils nach Vertragsbeginn bis 26.10.2026. Zwei neue Exporte, Hauptsicht einschließlich beitragsfreier und stornierter Zeilen; reine Aktivsicht separat in den Aggregaten. Quellen ECC-BST-003/004.
