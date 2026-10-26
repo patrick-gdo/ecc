@@ -1,0 +1,2185 @@
+{
+  "source_id": "ECC-BST-001",
+  "legend_id": "ECC-BST-002",
+  "source_sha256": "17831645c620c165c5d8812aac4dbd1898b2ed8f2b910c6f7fd9a3d05ed32f1c",
+  "as_of": "2026-10-26",
+  "rank_by": "contract_rows",
+  "statuses": [
+    "A",
+    "F",
+    "H"
+  ],
+  "company_normalization": "none; original labels",
+  "interpretation": "Active inventory only; source does not prove original mediation. No cancellation date exclusion.",
+  "groups": {
+    "Biometrie": {
+      "sparten": [
+        "BU",
+        "Risikoleben",
+        "Grundfähigkeiten",
+        "LV mit BUZ",
+        "DD",
+        "MultiRisk"
+      ],
+      "total_rows": 2526,
+      "companies": 76,
+      "top5": [
+        {
+          "company": "Canada Life Assurance Europe plc",
+          "rows": 276,
+          "share_pct": 10.9264
+        },
+        {
+          "company": "Nürnberger Versicherungsgruppe",
+          "rows": 199,
+          "share_pct": 7.8781
+        },
+        {
+          "company": "Swiss Life Lebensversicherung SE",
+          "rows": 145,
+          "share_pct": 5.7403
+        },
+        {
+          "company": "Hannoversche Lebensversicherung AG",
+          "rows": 137,
+          "share_pct": 5.4236
+        },
+        {
+          "company": "Baloise Holding AG (ehem. Basler)",
+          "rows": 110,
+          "share_pct": 4.3547
+        }
+      ],
+      "ranking": [
+        {
+          "company": "Canada Life Assurance Europe plc",
+          "rows": 276
+        },
+        {
+          "company": "Nürnberger Versicherungsgruppe",
+          "rows": 199
+        },
+        {
+          "company": "Swiss Life Lebensversicherung SE",
+          "rows": 145
+        },
+        {
+          "company": "Hannoversche Lebensversicherung AG",
+          "rows": 137
+        },
+        {
+          "company": "Baloise Holding AG (ehem. Basler)",
+          "rows": 110
+        },
+        {
+          "company": "Allianz Versicherungs-AG",
+          "rows": 102
+        },
+        {
+          "company": "Continentale",
+          "rows": 95
+        },
+        {
+          "company": "Signal Iduna",
+          "rows": 93
+        },
+        {
+          "company": "die Bayerische",
+          "rows": 92
+        },
+        {
+          "company": "Alte Leipziger",
+          "rows": 84
+        },
+        {
+          "company": "DBV Deutsche Beamtenversicherung",
+          "rows": 82
+        },
+        {
+          "company": "DELA Lebensversicherungen",
+          "rows": 80
+        },
+        {
+          "company": "ERGO Versicherung AG",
+          "rows": 78
+        },
+        {
+          "company": "HDI Versicherung AG",
+          "rows": 65
+        },
+        {
+          "company": "Dialog",
+          "rows": 62
+        },
+        {
+          "company": "Generali Deutschland Versicherung AG",
+          "rows": 60
+        },
+        {
+          "company": "LV 1871 a.G.",
+          "rows": 55
+        },
+        {
+          "company": "Stuttgarter Versicherungen",
+          "rows": 52
+        },
+        {
+          "company": "Volkswohl Bund",
+          "rows": 52
+        },
+        {
+          "company": "Dortmunder Lebensversicherung AG",
+          "rows": 51
+        },
+        {
+          "company": "Zurich Life Assurance plc",
+          "rows": 51
+        },
+        {
+          "company": "AXA Konzern AG",
+          "rows": 45
+        },
+        {
+          "company": "EUROPA Versicherungen",
+          "rows": 41
+        },
+        {
+          "company": "Gothaer Versicherungen",
+          "rows": 40
+        },
+        {
+          "company": "Zurich Gruppe Deutschland",
+          "rows": 35
+        },
+        {
+          "company": "Württembergische Versicherung AG",
+          "rows": 32
+        },
+        {
+          "company": "R+V Versicherung AG",
+          "rows": 31
+        },
+        {
+          "company": "SAARLAND Versicherungen",
+          "rows": 20
+        },
+        {
+          "company": "Versicherungskammer Bayern",
+          "rows": 20
+        },
+        {
+          "company": "CosmosDirekt",
+          "rows": 19
+        },
+        {
+          "company": "DEVK Versicherungen",
+          "rows": 19
+        },
+        {
+          "company": "Debeka",
+          "rows": 18
+        },
+        {
+          "company": "Proxalto (über Dialog)",
+          "rows": 15
+        },
+        {
+          "company": "Generali Deutschland Lebensversicherung AG",
+          "rows": 13
+        },
+        {
+          "company": "WWK Lebensversicherung a.G.",
+          "rows": 13
+        },
+        {
+          "company": "Deutsche Lebensversicherungs-AG",
+          "rows": 11
+        },
+        {
+          "company": "PrismaLife AG",
+          "rows": 11
+        },
+        {
+          "company": "LVM Versicherungen",
+          "rows": 9
+        },
+        {
+          "company": "Concordia Versicherungsgruppe",
+          "rows": 8
+        },
+        {
+          "company": "Barmenia Versicherungen",
+          "rows": 7
+        },
+        {
+          "company": "Bayern-Versicherung Lebensversicherung AG (Abwicklung über Versicherungskammer Bayern)",
+          "rows": 7
+        },
+        {
+          "company": "SV SparkassenVersicherung Holding AG",
+          "rows": 7
+        },
+        {
+          "company": "VPV Versicherungsgruppe",
+          "rows": 7
+        },
+        {
+          "company": "HUK-Coburg",
+          "rows": 6
+        },
+        {
+          "company": "HanseMerkur Versicherungsgruppe",
+          "rows": 6
+        },
+        {
+          "company": "iptiQ Life S.A.",
+          "rows": 5
+        },
+        {
+          "company": "HUK-COBURG-Lebensversicherung AG",
+          "rows": 4
+        },
+        {
+          "company": "InterRisk Versicherungs-AG",
+          "rows": 4
+        },
+        {
+          "company": "Karlsruher Lebensversicherung AG",
+          "rows": 4
+        },
+        {
+          "company": "November",
+          "rows": 4
+        },
+        {
+          "company": "(leer)",
+          "rows": 3
+        },
+        {
+          "company": "Allianz Direct Versicherungs-AG",
+          "rows": 3
+        },
+        {
+          "company": "Heidelberger Lebensversicherung AG",
+          "rows": 3
+        },
+        {
+          "company": "Ideal Versicherung AG",
+          "rows": 3
+        },
+        {
+          "company": "Mecklenburgische",
+          "rows": 3
+        },
+        {
+          "company": "Provinzial Versicherung Aktiengesellschaft",
+          "rows": 3
+        },
+        {
+          "company": "Condor Versicherungen",
+          "rows": 2
+        },
+        {
+          "company": "Deutsche Ärzteversicherung AG (Abwicklung über AXA Konzern AG)",
+          "rows": 2
+        },
+        {
+          "company": "ERGO (ehem. Victoria) Versicherung AG",
+          "rows": 2
+        },
+        {
+          "company": "Sparkassen-Versicherung Sachsen Allgemeine Versicherung AG",
+          "rows": 2
+        },
+        {
+          "company": "VGH Provinzial Lebensversicherung Hannover",
+          "rows": 2
+        },
+        {
+          "company": "uniVersa",
+          "rows": 2
+        },
+        {
+          "company": "Bayerischer Versicherungsverband",
+          "rows": 1
+        },
+        {
+          "company": "Credit Life AG",
+          "rows": 1
+        },
+        {
+          "company": "DKV Deutsche Krankenversicherung AG",
+          "rows": 1
+        },
+        {
+          "company": "Frankfurter Leben-Gruppe",
+          "rows": 1
+        },
+        {
+          "company": "Helvetia Schweizerische Versicherungsgesellschaft AG",
+          "rows": 1
+        },
+        {
+          "company": "Hiscox S.A.",
+          "rows": 1
+        },
+        {
+          "company": "INTER Versicherungsgruppe",
+          "rows": 1
+        },
+        {
+          "company": "Nürnberger Beamtenversicherung",
+          "rows": 1
+        },
+        {
+          "company": "Provinzial Lebensversicherung AG (ehemals NordWest und Rheinland)",
+          "rows": 1
+        },
+        {
+          "company": "R+V Lebensversicherung AG Niederlassung Luxemburg",
+          "rows": 1
+        },
+        {
+          "company": "Santander Bank",
+          "rows": 1
+        },
+        {
+          "company": "Verti Versicherung AG",
+          "rows": 1
+        },
+        {
+          "company": "mailo Versicherung AG",
+          "rows": 1
+        },
+        {
+          "company": "myLife Lebensversicherung AG",
+          "rows": 1
+        }
+      ]
+    },
+    "Rente / bAV": {
+      "sparten": [
+        "Rente",
+        "bAV",
+        "Riesterrente"
+      ],
+      "total_rows": 5270,
+      "companies": 105,
+      "top5": [
+        {
+          "company": "Liechtenstein Life Assurance AG",
+          "rows": 1049,
+          "share_pct": 19.9051
+        },
+        {
+          "company": "Baloise Holding AG (ehem. Basler)",
+          "rows": 852,
+          "share_pct": 16.167
+        },
+        {
+          "company": "Nürnberger Versicherungsgruppe",
+          "rows": 523,
+          "share_pct": 9.9241
+        },
+        {
+          "company": "LV 1871 a.G.",
+          "rows": 517,
+          "share_pct": 9.8102
+        },
+        {
+          "company": "HDI Versicherung AG",
+          "rows": 343,
+          "share_pct": 6.5085
+        }
+      ],
+      "ranking": [
+        {
+          "company": "Liechtenstein Life Assurance AG",
+          "rows": 1049
+        },
+        {
+          "company": "Baloise Holding AG (ehem. Basler)",
+          "rows": 852
+        },
+        {
+          "company": "Nürnberger Versicherungsgruppe",
+          "rows": 523
+        },
+        {
+          "company": "LV 1871 a.G.",
+          "rows": 517
+        },
+        {
+          "company": "HDI Versicherung AG",
+          "rows": 343
+        },
+        {
+          "company": "Alte Leipziger",
+          "rows": 279
+        },
+        {
+          "company": "Condor Versicherungen",
+          "rows": 163
+        },
+        {
+          "company": "Allianz Versicherungs-AG",
+          "rows": 135
+        },
+        {
+          "company": "PrismaLife AG",
+          "rows": 129
+        },
+        {
+          "company": "Generali Deutschland Versicherung AG",
+          "rows": 112
+        },
+        {
+          "company": "Continentale",
+          "rows": 95
+        },
+        {
+          "company": "Debeka",
+          "rows": 87
+        },
+        {
+          "company": "Swiss Life Lebensversicherung SE",
+          "rows": 57
+        },
+        {
+          "company": "myLife Lebensversicherung AG",
+          "rows": 54
+        },
+        {
+          "company": "Generali Deutschland Lebensversicherung AG",
+          "rows": 49
+        },
+        {
+          "company": "Volkswohl Bund",
+          "rows": 49
+        },
+        {
+          "company": "Bayerische Versorgungskammer",
+          "rows": 45
+        },
+        {
+          "company": "ERGO Versicherung AG",
+          "rows": 45
+        },
+        {
+          "company": "Concordia Versicherungsgruppe",
+          "rows": 38
+        },
+        {
+          "company": "uniVersa",
+          "rows": 38
+        },
+        {
+          "company": "WWK Lebensversicherung a.G.",
+          "rows": 37
+        },
+        {
+          "company": "Zurich Gruppe Deutschland",
+          "rows": 36
+        },
+        {
+          "company": "Signal Iduna",
+          "rows": 35
+        },
+        {
+          "company": "Versicherungskammer Bayern",
+          "rows": 30
+        },
+        {
+          "company": "die Bayerische",
+          "rows": 26
+        },
+        {
+          "company": "Proxalto (über Dialog)",
+          "rows": 25
+        },
+        {
+          "company": "VBL Versorgungsanstalt",
+          "rows": 25
+        },
+        {
+          "company": "R+V Versicherung AG",
+          "rows": 24
+        },
+        {
+          "company": "SAARLAND Versicherungen",
+          "rows": 21
+        },
+        {
+          "company": "Stuttgarter Versicherungen",
+          "rows": 19
+        },
+        {
+          "company": "Württembergische Versicherung AG",
+          "rows": 18
+        },
+        {
+          "company": "Union Investment Service Bank AG",
+          "rows": 17
+        },
+        {
+          "company": "KZVK Katholische Zusatzversorgungskasse",
+          "rows": 16
+        },
+        {
+          "company": "AXA Konzern AG",
+          "rows": 14
+        },
+        {
+          "company": "DEVK Versicherungen",
+          "rows": 14
+        },
+        {
+          "company": "VPV Versicherungsgruppe",
+          "rows": 14
+        },
+        {
+          "company": "Gothaer Versicherungen",
+          "rows": 13
+        },
+        {
+          "company": "Bayern-Versicherung Lebensversicherung AG (Abwicklung über Versicherungskammer Bayern)",
+          "rows": 12
+        },
+        {
+          "company": "LVM Versicherungen",
+          "rows": 10
+        },
+        {
+          "company": "SV SparkassenVersicherung Holding AG",
+          "rows": 9
+        },
+        {
+          "company": "TARGO Lebensversicherung AG",
+          "rows": 9
+        },
+        {
+          "company": "Canada Life Assurance Europe plc",
+          "rows": 8
+        },
+        {
+          "company": "Deka Investments",
+          "rows": 8
+        },
+        {
+          "company": "Barmenia Versicherungen",
+          "rows": 7
+        },
+        {
+          "company": "DWS Investment GmbH",
+          "rows": 7
+        },
+        {
+          "company": "EZVK Evangelische Zusatzversorgungskasse",
+          "rows": 7
+        },
+        {
+          "company": "Schwäbisch Hall",
+          "rows": 7
+        },
+        {
+          "company": "- Allgemein -",
+          "rows": 6
+        },
+        {
+          "company": "Deutsche Rentenversicherung",
+          "rows": 6
+        },
+        {
+          "company": "LPV Lebensversicherung AG (ehemals Postbank Versicherung AG)",
+          "rows": 6
+        },
+        {
+          "company": "Mecklenburgische",
+          "rows": 6
+        },
+        {
+          "company": "AVIVA - über Accenture",
+          "rows": 5
+        },
+        {
+          "company": "SOKA - ZVK des Baugewerbes AG",
+          "rows": 5
+        },
+        {
+          "company": "Wüstenrot Bausparkasse AG",
+          "rows": 5
+        },
+        {
+          "company": "Concordia oeco Lebensversicherungs-AG",
+          "rows": 4
+        },
+        {
+          "company": "DBV Deutsche Beamtenversicherung",
+          "rows": 4
+        },
+        {
+          "company": "ERGO Life S.A.",
+          "rows": 4
+        },
+        {
+          "company": "HDI LV AG ehem. Aspecta",
+          "rows": 4
+        },
+        {
+          "company": "KZVK - Kirchliche Zusatzversorgungskasse Rheinland-Westfalen",
+          "rows": 4
+        },
+        {
+          "company": "Neue Leben",
+          "rows": 4
+        },
+        {
+          "company": "Sparkassen DirektVersicherung AG",
+          "rows": 4
+        },
+        {
+          "company": "Versorgungsausgleichskasse Pensionskasse VVaG",
+          "rows": 4
+        },
+        {
+          "company": "Zurich Life Assurance plc",
+          "rows": 4
+        },
+        {
+          "company": "(leer)",
+          "rows": 3
+        },
+        {
+          "company": "Debeka Bausparkasse AG",
+          "rows": 3
+        },
+        {
+          "company": "Frankfurter Leben-Gruppe",
+          "rows": 3
+        },
+        {
+          "company": "Hamburger Pensionskasse",
+          "rows": 3
+        },
+        {
+          "company": "INTER Versicherungsgruppe",
+          "rows": 3
+        },
+        {
+          "company": "Karlsruher Lebensversicherung AG",
+          "rows": 3
+        },
+        {
+          "company": "Standard Life Versicherung",
+          "rows": 3
+        },
+        {
+          "company": "Allianz Direct Versicherungs-AG",
+          "rows": 2
+        },
+        {
+          "company": "Deutsche Ärzteversicherung AG (Abwicklung über AXA Konzern AG)",
+          "rows": 2
+        },
+        {
+          "company": "Dialog",
+          "rows": 2
+        },
+        {
+          "company": "HUK-COBURG-Lebensversicherung AG",
+          "rows": 2
+        },
+        {
+          "company": "HUK-Coburg",
+          "rows": 2
+        },
+        {
+          "company": "Helvetia Schweizerische Versicherungsgesellschaft AG",
+          "rows": 2
+        },
+        {
+          "company": "Ideal Versicherung AG",
+          "rows": 2
+        },
+        {
+          "company": "LBS Landesbausparkasse Süd",
+          "rows": 2
+        },
+        {
+          "company": "Münchener Verein Versicherung",
+          "rows": 2
+        },
+        {
+          "company": "Provinzial Lebensversicherung AG (ehemals NordWest und Rheinland)",
+          "rows": 2
+        },
+        {
+          "company": "R+V Lebensversicherung AG Niederlassung Luxemburg",
+          "rows": 2
+        },
+        {
+          "company": "Skandia Lebensversicherung AG (ReAssure)",
+          "rows": 2
+        },
+        {
+          "company": "ARAG",
+          "rows": 1
+        },
+        {
+          "company": "Baloise / MONEYMAXX (Basler)",
+          "rows": 1
+        },
+        {
+          "company": "Bayerischer Versicherungsverband",
+          "rows": 1
+        },
+        {
+          "company": "CosmosDirekt",
+          "rows": 1
+        },
+        {
+          "company": "DUK - Deutsche Unterstützungskasse e.V.",
+          "rows": 1
+        },
+        {
+          "company": "ERGO Direkt AG",
+          "rows": 1
+        },
+        {
+          "company": "EUROPA Versicherungen",
+          "rows": 1
+        },
+        {
+          "company": "Entis Lebensversicherung AG",
+          "rows": 1
+        },
+        {
+          "company": "Frankfurter Pensionskasse AG (ehemals Generali Pensionskasse AG)",
+          "rows": 1
+        },
+        {
+          "company": "Heidelberger Lebensversicherung AG",
+          "rows": 1
+        },
+        {
+          "company": "ING AG",
+          "rows": 1
+        },
+        {
+          "company": "Janitos Versicherung AG",
+          "rows": 1
+        },
+        {
+          "company": "KVK Kommunale Versorgungskassen Kurhessen-Waldeck",
+          "rows": 1
+        },
+        {
+          "company": "Kommunaler Versorgungsverband Baden-Württemberg",
+          "rows": 1
+        },
+        {
+          "company": "LBS Landesbausparkasse Hessen-Thüringen",
+          "rows": 1
+        },
+        {
+          "company": "Lifestyle Protection Lebensversicherung AG",
+          "rows": 1
+        },
+        {
+          "company": "Pensionskasse der Mitarbeiter der Hoechst-Gruppe VVaG",
+          "rows": 1
+        },
+        {
+          "company": "Provinzial Versicherung Aktiengesellschaft",
+          "rows": 1
+        },
+        {
+          "company": "SIGNAL IDUNA Bauspar AG",
+          "rows": 1
+        },
+        {
+          "company": "Siemens International",
+          "rows": 1
+        },
+        {
+          "company": "Sparkassen-Versicherung Sachsen Allgemeine Versicherung AG",
+          "rows": 1
+        },
+        {
+          "company": "die Bayerische - ehemals NBBV",
+          "rows": 1
+        },
+        {
+          "company": "ÖSA Versicherungen",
+          "rows": 1
+        }
+      ]
+    },
+    "Sach": {
+      "sparten": [
+        "PKW",
+        "Privathaftpflicht",
+        "Hausrat",
+        "RS",
+        "Unfall",
+        "Wohngebäude",
+        "Krad",
+        "Glas",
+        "Anhänger",
+        "Hundehaftpflicht",
+        "Tierleben",
+        "Betriebshaftpflicht",
+        "Reise",
+        "LKW",
+        "HuG",
+        "Inhalt",
+        "Firmen-RS",
+        "VMH",
+        "gew. PKW",
+        "Elektronik",
+        "Traktor",
+        "Pferdehaftpflicht",
+        "gew. WGV",
+        "Wohnmobil",
+        "Jagdhaftpflicht",
+        "Berufshaftpflicht",
+        "Bauversicherung",
+        "Kaution",
+        "Tech",
+        "Boot",
+        "Cyber",
+        "Öltankhaftpflicht",
+        "Ertragsausfall",
+        "Transport"
+      ],
+      "total_rows": 13770,
+      "companies": 189,
+      "top5": [
+        {
+          "company": "VHV Allgemeine Versicherung AG",
+          "rows": 1313,
+          "share_pct": 9.5352
+        },
+        {
+          "company": "Adam Riese GmbH",
+          "rows": 929,
+          "share_pct": 6.7466
+        },
+        {
+          "company": "Allianz Versicherungs-AG",
+          "rows": 513,
+          "share_pct": 3.7255
+        },
+        {
+          "company": "DEVK Versicherungen",
+          "rows": 498,
+          "share_pct": 3.6166
+        },
+        {
+          "company": "HUK-Coburg",
+          "rows": 497,
+          "share_pct": 3.6093
+        }
+      ],
+      "ranking": [
+        {
+          "company": "VHV Allgemeine Versicherung AG",
+          "rows": 1313
+        },
+        {
+          "company": "Adam Riese GmbH",
+          "rows": 929
+        },
+        {
+          "company": "Allianz Versicherungs-AG",
+          "rows": 513
+        },
+        {
+          "company": "DEVK Versicherungen",
+          "rows": 498
+        },
+        {
+          "company": "HUK-Coburg",
+          "rows": 497
+        },
+        {
+          "company": "Concordia Versicherungsgruppe",
+          "rows": 484
+        },
+        {
+          "company": "Itzehoer Versicherung / Brandgilde von 1691 VVaG",
+          "rows": 471
+        },
+        {
+          "company": "Waldenburger Versicherung AG",
+          "rows": 468
+        },
+        {
+          "company": "Helvetia Schweizerische Versicherungsgesellschaft AG",
+          "rows": 412
+        },
+        {
+          "company": "Versicherungskammer Bayern",
+          "rows": 362
+        },
+        {
+          "company": "Alte Leipziger",
+          "rows": 314
+        },
+        {
+          "company": "Generali Deutschland Versicherung AG",
+          "rows": 302
+        },
+        {
+          "company": "KRAVAG",
+          "rows": 294
+        },
+        {
+          "company": "InterRisk Versicherungs-AG",
+          "rows": 270
+        },
+        {
+          "company": "HFK1676",
+          "rows": 254
+        },
+        {
+          "company": "NV-Versicherungen VVaG",
+          "rows": 252
+        },
+        {
+          "company": "BavariaDirekt Versicherung AG",
+          "rows": 249
+        },
+        {
+          "company": "ARAG",
+          "rows": 246
+        },
+        {
+          "company": "ERGO Versicherung AG",
+          "rows": 238
+        },
+        {
+          "company": "HanseMerkur Versicherungsgruppe",
+          "rows": 220
+        },
+        {
+          "company": "Baloise Holding AG (ehem. Basler)",
+          "rows": 216
+        },
+        {
+          "company": "Debeka",
+          "rows": 216
+        },
+        {
+          "company": "Alteos GmbH",
+          "rows": 202
+        },
+        {
+          "company": "AXA Konzern AG",
+          "rows": 178
+        },
+        {
+          "company": "Die Haftpflichtkasse VVaG",
+          "rows": 176
+        },
+        {
+          "company": "Grundeigentümer Versicherung VVaG",
+          "rows": 169
+        },
+        {
+          "company": "Ammerländer Versicherung VVaG",
+          "rows": 156
+        },
+        {
+          "company": "KS/AUXILIA",
+          "rows": 154
+        },
+        {
+          "company": "Signal Iduna",
+          "rows": 150
+        },
+        {
+          "company": "HUK24 AG",
+          "rows": 137
+        },
+        {
+          "company": "Domcura AG",
+          "rows": 136
+        },
+        {
+          "company": "Württembergische Versicherung AG",
+          "rows": 132
+        },
+        {
+          "company": "DBV Deutsche Beamtenversicherung",
+          "rows": 129
+        },
+        {
+          "company": "DEURAG Deutsche Rechtsschutz-Versicherung AG",
+          "rows": 121
+        },
+        {
+          "company": "Gothaer Versicherungen",
+          "rows": 121
+        },
+        {
+          "company": "ROLAND Rechtsschutz-Versicherungs-AG",
+          "rows": 116
+        },
+        {
+          "company": "LVM Versicherungen",
+          "rows": 112
+        },
+        {
+          "company": "R+V Versicherung AG",
+          "rows": 112
+        },
+        {
+          "company": "EUROPA Versicherungen",
+          "rows": 90
+        },
+        {
+          "company": "Covomo Versicherungsvergleich GmbH",
+          "rows": 87
+        },
+        {
+          "company": "Verti Versicherung AG",
+          "rows": 86
+        },
+        {
+          "company": "DMB Rechtsschutz-Versicherung AG",
+          "rows": 80
+        },
+        {
+          "company": "Adcuri GmbH",
+          "rows": 77
+        },
+        {
+          "company": "CosmosDirekt",
+          "rows": 76
+        },
+        {
+          "company": "SAARLAND Versicherungen",
+          "rows": 74
+        },
+        {
+          "company": "AXA Kompakt",
+          "rows": 70
+        },
+        {
+          "company": "Mecklenburgische",
+          "rows": 69
+        },
+        {
+          "company": "Continentale",
+          "rows": 66
+        },
+        {
+          "company": "ÖRAG Rechtsschutzversicherungs-AG",
+          "rows": 66
+        },
+        {
+          "company": "rhion digital",
+          "rows": 65
+        },
+        {
+          "company": "BGV Badische Versicherungen",
+          "rows": 62
+        },
+        {
+          "company": "HDI Versicherung AG",
+          "rows": 61
+        },
+        {
+          "company": "DA Direkt Versicherung",
+          "rows": 58
+        },
+        {
+          "company": "Zurich Gruppe Deutschland",
+          "rows": 56
+        },
+        {
+          "company": "Hans John Versicherungsmakler GmbH",
+          "rows": 55
+        },
+        {
+          "company": "ADAC Versicherung AG",
+          "rows": 53
+        },
+        {
+          "company": "Uelzener Allgemeine Versicherungs-Gesellschaft a.G.",
+          "rows": 52
+        },
+        {
+          "company": "SV SparkassenVersicherung Holding AG",
+          "rows": 50
+        },
+        {
+          "company": "Neodigital Versicherung AG",
+          "rows": 46
+        },
+        {
+          "company": "k+m (Konzept & Marketing GmbH)",
+          "rows": 46
+        },
+        {
+          "company": "ADVOCARD Rechtsschutzvers. AG",
+          "rows": 39
+        },
+        {
+          "company": "Janitos Versicherung AG",
+          "rows": 39
+        },
+        {
+          "company": "Nürnberger Versicherungsgruppe",
+          "rows": 38
+        },
+        {
+          "company": "Provinzial Versicherung Aktiengesellschaft",
+          "rows": 38
+        },
+        {
+          "company": "Volkswohl Bund",
+          "rows": 35
+        },
+        {
+          "company": "die Bayerische",
+          "rows": 34
+        },
+        {
+          "company": "Sparkassen DirektVersicherung AG",
+          "rows": 32
+        },
+        {
+          "company": "ADAC Autoversicherung AG",
+          "rows": 31
+        },
+        {
+          "company": "WGV",
+          "rows": 27
+        },
+        {
+          "company": "LBN Versicherungsverein a.G.",
+          "rows": 24
+        },
+        {
+          "company": "AGILA Haustierversicherung AG",
+          "rows": 22
+        },
+        {
+          "company": "Dialog",
+          "rows": 22
+        },
+        {
+          "company": "INTER Versicherungsgruppe",
+          "rows": 21
+        },
+        {
+          "company": "AdmiralDirekt.de GmbH",
+          "rows": 20
+        },
+        {
+          "company": "VÖDAG",
+          "rows": 19
+        },
+        {
+          "company": "andsafe AG",
+          "rows": 18
+        },
+        {
+          "company": "Barmenia Versicherungen",
+          "rows": 17
+        },
+        {
+          "company": "Stuttgarter Versicherungen",
+          "rows": 17
+        },
+        {
+          "company": "Ideal Versicherung AG",
+          "rows": 16
+        },
+        {
+          "company": "innoAS GmbH",
+          "rows": 16
+        },
+        {
+          "company": "Allianz Direct Versicherungs-AG",
+          "rows": 15
+        },
+        {
+          "company": "WWK Lebensversicherung a.G.",
+          "rows": 14
+        },
+        {
+          "company": "Cleo & You GmbH (Cleos Welt)",
+          "rows": 12
+        },
+        {
+          "company": "Münchener Verein Versicherung",
+          "rows": 12
+        },
+        {
+          "company": "PVAG Polizeiversicherungs-AG",
+          "rows": 12
+        },
+        {
+          "company": "VRK Versicherer im Raum der Kirchen",
+          "rows": 12
+        },
+        {
+          "company": "Bayern-Versicherung Lebensversicherung AG (Abwicklung über Versicherungskammer Bayern)",
+          "rows": 11
+        },
+        {
+          "company": "Debeka Bausparkasse AG",
+          "rows": 11
+        },
+        {
+          "company": "ERGO Reiseversicherung AG",
+          "rows": 11
+        },
+        {
+          "company": "Markel Insurance SE",
+          "rows": 11
+        },
+        {
+          "company": "VPV Versicherungsgruppe",
+          "rows": 11
+        },
+        {
+          "company": "HÄGER Versicherungsverein a.G.",
+          "rows": 10
+        },
+        {
+          "company": "Interlloyd Versicherungs-AG",
+          "rows": 10
+        },
+        {
+          "company": "OCC Assekuradeur GmbH",
+          "rows": 10
+        },
+        {
+          "company": "degenia Versicherungsdienst AG",
+          "rows": 10
+        },
+        {
+          "company": "DBV Kompakt",
+          "rows": 9
+        },
+        {
+          "company": "MVK Versicherung VVaG (ehemals Medien-Versicherung a.G.)",
+          "rows": 9
+        },
+        {
+          "company": "RheinLand Versicherung",
+          "rows": 9
+        },
+        {
+          "company": "WECOYA PRIVATE & COMMERCIAL Underwriting GmbH (ConceptIF)",
+          "rows": 9
+        },
+        {
+          "company": "kautionsfrei.de - plusForta GmbH",
+          "rows": 9
+        },
+        {
+          "company": "Allrecht Rechtsschutzversicherungen",
+          "rows": 8
+        },
+        {
+          "company": "FRIDAY",
+          "rows": 8
+        },
+        {
+          "company": "Getsafe Digital GmbH",
+          "rows": 8
+        },
+        {
+          "company": "Oberösterreichische Versicherung AG",
+          "rows": 8
+        },
+        {
+          "company": "PHÖNIX Schutzgemeinschaft Assekuradeur GmbH",
+          "rows": 8
+        },
+        {
+          "company": "prokundo GmbH",
+          "rows": 8
+        },
+        {
+          "company": "ERGO Direkt AG",
+          "rows": 7
+        },
+        {
+          "company": "Mannheimer Versicherung AG",
+          "rows": 7
+        },
+        {
+          "company": "uniVersa",
+          "rows": 7
+        },
+        {
+          "company": "Condor Versicherungen",
+          "rows": 6
+        },
+        {
+          "company": "GVO Gegenseitigkeit Versicherung Oldenburg VVaG",
+          "rows": 6
+        },
+        {
+          "company": "Hiscox S.A.",
+          "rows": 6
+        },
+        {
+          "company": "NORDVERS GmbH",
+          "rows": 6
+        },
+        {
+          "company": "Volkswagen Autoversicherung AG",
+          "rows": 6
+        },
+        {
+          "company": "AIG Europe S.A.",
+          "rows": 5
+        },
+        {
+          "company": "AO NOW",
+          "rows": 5
+        },
+        {
+          "company": "DFV Deutsche Familienversicherung AG",
+          "rows": 5
+        },
+        {
+          "company": "ERGO Rechtsschutz (ehem. D.A.S.)",
+          "rows": 5
+        },
+        {
+          "company": "HUK-COBURG-Lebensversicherung AG",
+          "rows": 5
+        },
+        {
+          "company": "Lassie AB Zweigniederlassung Deutschland",
+          "rows": 5
+        },
+        {
+          "company": "Nürnberger Beamtenversicherung",
+          "rows": 5
+        },
+        {
+          "company": "DEMA Deutsche Versicherungsmakler AG",
+          "rows": 4
+        },
+        {
+          "company": "Dolleruper Freie Brandgilde VVaG",
+          "rows": 4
+        },
+        {
+          "company": "MMV GmbH",
+          "rows": 4
+        },
+        {
+          "company": "Provinzial Nord Brandkasse Aktiengesellschaft",
+          "rows": 4
+        },
+        {
+          "company": "VGH Versicherungen",
+          "rows": 4
+        },
+        {
+          "company": "Zurich ehem. Baden Badener",
+          "rows": 4
+        },
+        {
+          "company": "asspario Versicherungsdienst GmbH",
+          "rows": 4
+        },
+        {
+          "company": "- Allgemein -",
+          "rows": 3
+        },
+        {
+          "company": "Aioi Nissay Dowa Life Insurance of Europe AG",
+          "rows": 3
+        },
+        {
+          "company": "Assekuranz AG",
+          "rows": 3
+        },
+        {
+          "company": "Bayerische Landesbrandversicherung AG",
+          "rows": 3
+        },
+        {
+          "company": "DKV Deutsche Krankenversicherung AG",
+          "rows": 3
+        },
+        {
+          "company": "Envivas Krankenvers. AG",
+          "rows": 3
+        },
+        {
+          "company": "Ostangler Brandgilde VVaG",
+          "rows": 3
+        },
+        {
+          "company": "Panda Tierversicherung",
+          "rows": 3
+        },
+        {
+          "company": "R+V Direktversicherung AG (ehemals R+V24)",
+          "rows": 3
+        },
+        {
+          "company": "Würzburger Versicherungs AG",
+          "rows": 3
+        },
+        {
+          "company": "Zurich Life Assurance plc",
+          "rows": 3
+        },
+        {
+          "company": "Allianz Travel",
+          "rows": 2
+        },
+        {
+          "company": "BSG Baloise Service GmbH /ehem. Basler Service",
+          "rows": 2
+        },
+        {
+          "company": "Bayerischer Versicherungsverband",
+          "rows": 2
+        },
+        {
+          "company": "Bernhard Assekuranzmakler GmbH & Co. KG",
+          "rows": 2
+        },
+        {
+          "company": "CIF (Gothaer)",
+          "rows": 2
+        },
+        {
+          "company": "Carl Rieck Assecuradeur Hamburg GmbH",
+          "rows": 2
+        },
+        {
+          "company": "Deutsche Ärzteversicherung AG (Abwicklung über AXA Konzern AG)",
+          "rows": 2
+        },
+        {
+          "company": "FIGO",
+          "rows": 2
+        },
+        {
+          "company": "Fahrlehrerversicherung",
+          "rows": 2
+        },
+        {
+          "company": "Generali Deutschland Lebensversicherung AG",
+          "rows": 2
+        },
+        {
+          "company": "Great Lakes Insurance SE",
+          "rows": 2
+        },
+        {
+          "company": "Landesschadenhilfe LSH VaG",
+          "rows": 2
+        },
+        {
+          "company": "SYNCRO24-assekuradeur GmbH",
+          "rows": 2
+        },
+        {
+          "company": "Vereinigte Tierversicherung Gesellschaft a.G.",
+          "rows": 2
+        },
+        {
+          "company": "Verwaltungs-Berufsgenossenschaft (VBG) gesetzliche Unfallversicherung",
+          "rows": 2
+        },
+        {
+          "company": "Virado ED Ensure Digital GmbH",
+          "rows": 2
+        },
+        {
+          "company": "Volkswagen Versicherungsdienst GmbH",
+          "rows": 2
+        },
+        {
+          "company": "germanBroker.net AG",
+          "rows": 2
+        },
+        {
+          "company": "mailo Versicherung AG",
+          "rows": 2
+        },
+        {
+          "company": "(leer)",
+          "rows": 1
+        },
+        {
+          "company": "ACE Auto Club Europa e.V.",
+          "rows": 1
+        },
+        {
+          "company": "ASKUMA AG",
+          "rows": 1
+        },
+        {
+          "company": "AWP P&C S.A.",
+          "rows": 1
+        },
+        {
+          "company": "American Express Services Europe Limited",
+          "rows": 1
+        },
+        {
+          "company": "Balunos (ias Internationale Assekuranz-Service GmbH)",
+          "rows": 1
+        },
+        {
+          "company": "Care Concept AG",
+          "rows": 1
+        },
+        {
+          "company": "Carl Rieck GmbH Rödermark",
+          "rows": 1
+        },
+        {
+          "company": "ERGO (ehem. Victoria) Versicherung AG",
+          "rows": 1
+        },
+        {
+          "company": "Feuersozietät Berlin Brandenburg Versicherung AG",
+          "rows": 1
+        },
+        {
+          "company": "GARANTA Versicherungs-AG",
+          "rows": 1
+        },
+        {
+          "company": "GHV Versicherung",
+          "rows": 1
+        },
+        {
+          "company": "Generali Deutschland Krankenversicherung AG",
+          "rows": 1
+        },
+        {
+          "company": "HAMBURGER PHOENIX",
+          "rows": 1
+        },
+        {
+          "company": "HDI Global SE",
+          "rows": 1
+        },
+        {
+          "company": "Hepster Marke der Moinsure GmbH",
+          "rows": 1
+        },
+        {
+          "company": "InShared über Achmea Schadeverzekeringen N.V.",
+          "rows": 1
+        },
+        {
+          "company": "Landwirtschaftlicher",
+          "rows": 1
+        },
+        {
+          "company": "NAMMERT Assekuradeur GmbH",
+          "rows": 1
+        },
+        {
+          "company": "Neue Rechtsschutz-Versicherungsgesellschaft AG",
+          "rows": 1
+        },
+        {
+          "company": "SACHPOOL GMBH",
+          "rows": 1
+        },
+        {
+          "company": "Schleswiger Versicherungsverein a.G. & Kontor GmbH",
+          "rows": 1
+        },
+        {
+          "company": "Swiss Life Lebensversicherung SE",
+          "rows": 1
+        },
+        {
+          "company": "TARGO Lebensversicherung AG",
+          "rows": 1
+        },
+        {
+          "company": "Union Krankenversicherung AG",
+          "rows": 1
+        },
+        {
+          "company": "Union Servicegesellschaft",
+          "rows": 1
+        },
+        {
+          "company": "WECOYA UNDERWRITING GmbH",
+          "rows": 1
+        },
+        {
+          "company": "direkt-AS GmbH",
+          "rows": 1
+        },
+        {
+          "company": "eventAssec - CompactTeam GmbH & Co. KG",
+          "rows": 1
+        },
+        {
+          "company": "sia digital GmbH (ehem. Qualitypool ehem. ASC)",
+          "rows": 1
+        },
+        {
+          "company": "Öffentliche Versicherungen Oldenburg",
+          "rows": 1
+        }
+      ]
+    },
+    "KV Zusatz": {
+      "sparten": [
+        "KV-Zusatz"
+      ],
+      "total_rows": 2742,
+      "companies": 69,
+      "top5": [
+        {
+          "company": "AXA Konzern AG",
+          "rows": 368,
+          "share_pct": 13.4209
+        },
+        {
+          "company": "Bayerische Beamtenkrankenkasse BBKK",
+          "rows": 241,
+          "share_pct": 8.7892
+        },
+        {
+          "company": "Signal Iduna",
+          "rows": 226,
+          "share_pct": 8.2422
+        },
+        {
+          "company": "Münchener Verein Versicherung",
+          "rows": 210,
+          "share_pct": 7.6586
+        },
+        {
+          "company": "Barmenia Versicherungen",
+          "rows": 187,
+          "share_pct": 6.8198
+        }
+      ],
+      "ranking": [
+        {
+          "company": "AXA Konzern AG",
+          "rows": 368
+        },
+        {
+          "company": "Bayerische Beamtenkrankenkasse BBKK",
+          "rows": 241
+        },
+        {
+          "company": "Signal Iduna",
+          "rows": 226
+        },
+        {
+          "company": "Münchener Verein Versicherung",
+          "rows": 210
+        },
+        {
+          "company": "Barmenia Versicherungen",
+          "rows": 187
+        },
+        {
+          "company": "Allianz Versicherungs-AG",
+          "rows": 158
+        },
+        {
+          "company": "Continentale",
+          "rows": 151
+        },
+        {
+          "company": "DKV Deutsche Krankenversicherung AG",
+          "rows": 142
+        },
+        {
+          "company": "HanseMerkur Versicherungsgruppe",
+          "rows": 91
+        },
+        {
+          "company": "Concordia Versicherungsgruppe",
+          "rows": 81
+        },
+        {
+          "company": "Gothaer Versicherungen",
+          "rows": 69
+        },
+        {
+          "company": "uniVersa",
+          "rows": 61
+        },
+        {
+          "company": "ARAG",
+          "rows": 58
+        },
+        {
+          "company": "Debeka",
+          "rows": 52
+        },
+        {
+          "company": "Süddeutsche Krankenversicherung a.G.",
+          "rows": 48
+        },
+        {
+          "company": "die Bayerische",
+          "rows": 42
+        },
+        {
+          "company": "DFV Deutsche Familienversicherung AG",
+          "rows": 41
+        },
+        {
+          "company": "Generali Deutschland Krankenversicherung AG",
+          "rows": 40
+        },
+        {
+          "company": "ERGO Versicherung AG",
+          "rows": 39
+        },
+        {
+          "company": "Union Krankenversicherung AG",
+          "rows": 38
+        },
+        {
+          "company": "Generali Deutschland Versicherung AG",
+          "rows": 37
+        },
+        {
+          "company": "Hallesche Krankenversicherung a. G.",
+          "rows": 37
+        },
+        {
+          "company": "R+V Versicherung AG",
+          "rows": 37
+        },
+        {
+          "company": "Württembergische Versicherung AG",
+          "rows": 37
+        },
+        {
+          "company": "Nürnberger Versicherungsgruppe",
+          "rows": 25
+        },
+        {
+          "company": "Versicherungskammer Bayern",
+          "rows": 24
+        },
+        {
+          "company": "DEVK Versicherungen",
+          "rows": 22
+        },
+        {
+          "company": "INTER Versicherungsgruppe",
+          "rows": 19
+        },
+        {
+          "company": "Envivas Krankenvers. AG",
+          "rows": 17
+        },
+        {
+          "company": "HUK-Coburg",
+          "rows": 17
+        },
+        {
+          "company": "DBV Deutsche Beamtenversicherung",
+          "rows": 15
+        },
+        {
+          "company": "ADAC Versicherung AG",
+          "rows": 14
+        },
+        {
+          "company": "ERGO Direkt AG",
+          "rows": 13
+        },
+        {
+          "company": "Janitos Versicherung AG",
+          "rows": 11
+        },
+        {
+          "company": "LKH (Landeskrankenhilfe V.V.a.G.)",
+          "rows": 10
+        },
+        {
+          "company": "LVM Versicherungen",
+          "rows": 8
+        },
+        {
+          "company": "ottonova Krankenversicherung AG",
+          "rows": 6
+        },
+        {
+          "company": "DA Direkt Versicherung",
+          "rows": 5
+        },
+        {
+          "company": "Advigon Versicherung AG",
+          "rows": 4
+        },
+        {
+          "company": "Debeka Bausparkasse AG",
+          "rows": 3
+        },
+        {
+          "company": "VRK Versicherer im Raum der Kirchen",
+          "rows": 3
+        },
+        {
+          "company": "dentolo",
+          "rows": 3
+        },
+        {
+          "company": "Alte Oldenburger Krankenversicherung AG",
+          "rows": 2
+        },
+        {
+          "company": "ERGO (ehem. Victoria) Versicherung AG",
+          "rows": 2
+        },
+        {
+          "company": "EUROPA Versicherungen",
+          "rows": 2
+        },
+        {
+          "company": "Mecklenburgische",
+          "rows": 2
+        },
+        {
+          "company": "astra Versicherung AG",
+          "rows": 2
+        },
+        {
+          "company": "AOK Rheinland-Pfalz/Saarland – Die Gesundheitskasse",
+          "rows": 1
+        },
+        {
+          "company": "AOK – Die Gesundheitskasse für Niedersachsen",
+          "rows": 1
+        },
+        {
+          "company": "AOK-Bundesverband",
+          "rows": 1
+        },
+        {
+          "company": "AXA Kompakt",
+          "rows": 1
+        },
+        {
+          "company": "Advent Insurance PCC LTD",
+          "rows": 1
+        },
+        {
+          "company": "American Express Services Europe Limited",
+          "rows": 1
+        },
+        {
+          "company": "BKK VerbundPlus",
+          "rows": 1
+        },
+        {
+          "company": "BavariaDirekt Versicherung AG",
+          "rows": 1
+        },
+        {
+          "company": "Bayerische Versorgungskammer",
+          "rows": 1
+        },
+        {
+          "company": "Bayern-Versicherung Lebensversicherung AG (Abwicklung über Versicherungskammer Bayern)",
+          "rows": 1
+        },
+        {
+          "company": "CIF (Gothaer)",
+          "rows": 1
+        },
+        {
+          "company": "Canada Life Assurance Europe plc",
+          "rows": 1
+        },
+        {
+          "company": "DAK-Gesundheit",
+          "rows": 1
+        },
+        {
+          "company": "Debeka BKK",
+          "rows": 1
+        },
+        {
+          "company": "IKK Südwest",
+          "rows": 1
+        },
+        {
+          "company": "ProTect Versicherung AG",
+          "rows": 1
+        },
+        {
+          "company": "SAARLAND Versicherungen",
+          "rows": 1
+        },
+        {
+          "company": "Stuttgarter Versicherungen",
+          "rows": 1
+        },
+        {
+          "company": "Würzburger Versicherungs AG",
+          "rows": 1
+        },
+        {
+          "company": "Zurich Gruppe Deutschland",
+          "rows": 1
+        },
+        {
+          "company": "pronova BKK",
+          "rows": 1
+        },
+        {
+          "company": "vigo Krankenversicherung VVaG",
+          "rows": 1
+        }
+      ]
+    },
+    "KV Voll": {
+      "sparten": [
+        "PKV"
+      ],
+      "total_rows": 398,
+      "companies": 44,
+      "top5": [
+        {
+          "company": "Debeka",
+          "rows": 59,
+          "share_pct": 14.8241
+        },
+        {
+          "company": "ARAG",
+          "rows": 58,
+          "share_pct": 14.5729
+        },
+        {
+          "company": "DBV Deutsche Beamtenversicherung",
+          "rows": 57,
+          "share_pct": 14.3216
+        },
+        {
+          "company": "Barmenia Versicherungen",
+          "rows": 51,
+          "share_pct": 12.8141
+        },
+        {
+          "company": "Signal Iduna",
+          "rows": 39,
+          "share_pct": 9.799
+        }
+      ],
+      "ranking": [
+        {
+          "company": "Debeka",
+          "rows": 59
+        },
+        {
+          "company": "ARAG",
+          "rows": 58
+        },
+        {
+          "company": "DBV Deutsche Beamtenversicherung",
+          "rows": 57
+        },
+        {
+          "company": "Barmenia Versicherungen",
+          "rows": 51
+        },
+        {
+          "company": "Signal Iduna",
+          "rows": 39
+        },
+        {
+          "company": "Continentale",
+          "rows": 19
+        },
+        {
+          "company": "HanseMerkur Versicherungsgruppe",
+          "rows": 17
+        },
+        {
+          "company": "AXA Konzern AG",
+          "rows": 12
+        },
+        {
+          "company": "Hallesche Krankenversicherung a. G.",
+          "rows": 9
+        },
+        {
+          "company": "DKV Deutsche Krankenversicherung AG",
+          "rows": 7
+        },
+        {
+          "company": "Bayerische Beamtenkrankenkasse BBKK",
+          "rows": 6
+        },
+        {
+          "company": "Generali Deutschland Versicherung AG",
+          "rows": 5
+        },
+        {
+          "company": "Generali Deutschland Krankenversicherung AG",
+          "rows": 4
+        },
+        {
+          "company": "uniVersa",
+          "rows": 4
+        },
+        {
+          "company": "Allianz Versicherungs-AG",
+          "rows": 3
+        },
+        {
+          "company": "Gothaer Versicherungen",
+          "rows": 3
+        },
+        {
+          "company": "HUK-Coburg",
+          "rows": 3
+        },
+        {
+          "company": "Hanseatische Krankenkasse HEK",
+          "rows": 3
+        },
+        {
+          "company": "IKK Südwest",
+          "rows": 3
+        },
+        {
+          "company": "INTER Versicherungsgruppe",
+          "rows": 3
+        },
+        {
+          "company": "Süddeutsche Krankenversicherung a.G.",
+          "rows": 3
+        },
+        {
+          "company": "AOK-Bundesverband",
+          "rows": 2
+        },
+        {
+          "company": "Concordia Versicherungsgruppe",
+          "rows": 2
+        },
+        {
+          "company": "DEVK Versicherungen",
+          "rows": 2
+        },
+        {
+          "company": "Freie Arzt- und Medizinkasse",
+          "rows": 2
+        },
+        {
+          "company": "Union Krankenversicherung AG",
+          "rows": 2
+        },
+        {
+          "company": "Versicherungskammer Bayern",
+          "rows": 2
+        },
+        {
+          "company": "pronova BKK",
+          "rows": 2
+        },
+        {
+          "company": "AOK Baden-Württemberg",
+          "rows": 1
+        },
+        {
+          "company": "AOK Rheinland-Pfalz/Saarland – Die Gesundheitskasse",
+          "rows": 1
+        },
+        {
+          "company": "BARMER",
+          "rows": 1
+        },
+        {
+          "company": "DAK-Gesundheit",
+          "rows": 1
+        },
+        {
+          "company": "DBV Kompakt",
+          "rows": 1
+        },
+        {
+          "company": "Debeka BKK",
+          "rows": 1
+        },
+        {
+          "company": "Debeka Bausparkasse AG",
+          "rows": 1
+        },
+        {
+          "company": "IKK classic",
+          "rows": 1
+        },
+        {
+          "company": "LVM Versicherungen",
+          "rows": 1
+        },
+        {
+          "company": "Münchener Verein Versicherung",
+          "rows": 1
+        },
+        {
+          "company": "Nürnberger Versicherungsgruppe",
+          "rows": 1
+        },
+        {
+          "company": "R+V Betriebskrankenkasse",
+          "rows": 1
+        },
+        {
+          "company": "SV SparkassenVersicherung Holding AG",
+          "rows": 1
+        },
+        {
+          "company": "Techniker Krankenkasse",
+          "rows": 1
+        },
+        {
+          "company": "VGK24 - Krankenkasse vergleichen",
+          "rows": 1
+        },
+        {
+          "company": "Württembergische Versicherung AG",
+          "rows": 1
+        }
+      ]
+    }
+  },
+  "unmapped_sparten": [
+    "Ausbildung",
+    "Baufinanzierung",
+    "Bausparen",
+    "Fonds",
+    "GKV",
+    "Kapitalleben",
+    "Kombi",
+    "Kredit",
+    "Pflege",
+    "Reise-KV",
+    "Sonstiges",
+    "Sterbegeld",
+    "Unbekannt",
+    "bKV"
+  ],
+  "validation": "Python Counter and independent SQLite GROUP BY match for all five groups"
+}

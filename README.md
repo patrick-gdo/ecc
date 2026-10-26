@@ -19,3 +19,8 @@ Andere KI-Chats benötigen Zugriff auf dieses GitHub-Repository oder die relevan
 Weitere Ergebnisse: [Königswege Immobilien & Finanzierung](research/companies/koenigswege-immobilien-finanzierung/README.md) und [öffentliche Website mit vollständigem technischem Seitenindex](research/companies/koenigswege/website/README.md). Das [KW-Live-Intranet](research/companies/koenigswege/intranet/README.md) wurde nun authentifiziert ausgewertet: 74 gezielte Seitenreviews und 19 Dokumentreviews mit ausdrücklichen Prüfgrenzen. Der [Zugriffsstatus](research/companies/koenigswege/INTRANET_ACCESS.md) trennt diesen Erfolg vom nicht erneut geprüften KWIF-Live-Intranet.
 
 Vertiefung: [Königswege-Partnerbereich – Artikel, Recruiting, Vergütung und Haftungsgrenzen](research/companies/koenigswege/website/PARTNER_ANALYSIS.md).
+
+
+## ECC · Eigener Bestand
+
+[Bestandsanalyse 26.10.2026](research/companies/ecc/README.md): 50.694 Vertragsdatensätze und 6.918 Kundennummern vollständig rechnerisch ausgewertet. Nutzerlegende integriert; 29.320 aktiv markierte Datensätze auf 6.147 Kundennummern. Fachliche Datenbereinigung sowie Erlös-/Eigentumsfragen bleiben offen. Keine personenbezogenen Originaldaten im Repository.

@@ -1,0 +1,28 @@
+{
+  "analysis_date": "2026-10-26",
+  "sources": [
+    {
+      "id": "ECC-BST-001",
+      "url": "https://drive.google.com/file/d/12ispVWqeIMdT7fbaELUyxsJlGElHxEOu/view",
+      "filename": "export_H1F27V_SHREHA_817614_1793017781.csv",
+      "sha256": "17831645c620c165c5d8812aac4dbd1898b2ed8f2b910c6f7fd9a3d05ed32f1c",
+      "size_bytes": 10512387,
+      "rows": 50694,
+      "columns": 21,
+      "publisher": "durch Nutzer bereitgestellt; Exportherausgeber nicht unabhängig geprüft",
+      "modified_time": null,
+      "retrieved_on": "2026-10-26",
+      "scope": "full CSV computation; no policy-level validation",
+      "local_raw_file_committed": false
+    },
+    {
+      "id": "ECC-BST-002",
+      "filename": "Bildschirmfoto 2026-10-26 um 14.20.05.png",
+      "library_file_id": "libfile_844a8df46a188191a2dd374238a83d3d",
+      "file_id": "file_00000000144c820aa5daecadd12aabd6",
+      "retrieved_on": "2026-10-26",
+      "scope": "complete extracted contractual type legend text",
+      "original_committed": false
+    }
+  ]
+}

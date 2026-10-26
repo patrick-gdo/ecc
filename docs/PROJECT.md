@@ -22,7 +22,9 @@ Einen fundierten Geschäftsplan für einen Strukturvertrieb in der Finanzbranche
 
 ## Stand der Arbeit
 
-**Neuester Stand:** Online University ist durch ausdrückliche Auftragsänderung vom 25.10.2026 eingeschlossen (DEC-005). KWU und `ecc/main` zuerst erfolgreich gelesen; Teilprüfung mit konkreten Prüfgrenzen unter `research/companies/koenigswege/online-university/`. Frühere University-Ausschlüsse in den folgenden Abschnitten beschreiben ausschließlich den historischen Prüfumfang.
+**Neuester eigener Bestandsreview, 26.10.2026:** [ECC-Bestand](../research/companies/ecc/bestand/README.md). Vollständige rechnerische CSV-Auswertung; Statuslegende des Nutzers integriert. Details im Abschnitt „ECC-Bestand“ am Ende. Die folgenden KW-Stände bleiben unverändert als getrennte Recherchebereiche.
+
+**Neuester Stand der KW-Recherche:** Online University ist durch ausdrückliche Auftragsänderung vom 25.10.2026 eingeschlossen (DEC-005). KWU und `ecc/main` zuerst erfolgreich gelesen; Teilprüfung mit konkreten Prüfgrenzen unter `research/companies/koenigswege/online-university/`. Frühere University-Ausschlüsse in den folgenden Abschnitten beschreiben ausschließlich den historischen Prüfumfang.
 
 **Vorheriger Stand:** Das KW-Live-Intranet wurde am 25.10.2026 authentifiziert gelesen und ausgewertet. Details und nächste Schritte im Abschnitt „KW-Live-Intranet“ am Ende dieser Datei. Die folgenden früheren Zählstände sind historische Zwischenstände.
 
@@ -109,3 +111,20 @@ Zusatzvertiefung: drei Partner-/Tippgeber-Datenschutz-Foliensätze D046–D048 v
 Nutzer stellt Root 13I4aT3ddm92iBaHL6hnylA4Ns2QF7hm0 bereit; identisch mit dem bereits gespeicherten KWU-Materialindex. Sieben ergänzende Dateiquellen S001–S007 tatsächlich textlich gelesen; Register nun 171 Einträge. [Ergänzung](../research/companies/koenigswege/online-university/DRIVE_SUPPLEMENT.md) verbindet Policenkontrolle, Empfehlungsdruck, Feedback-/Beratungsfunnel, Akquisebehauptungen, Lernroutine und Wissenschatbot mit bestehenden Quellen. Datenschutz-DOCX ist inhaltlich überlappend mit D006, keine unabhängige Bestätigung.
 
 Direkte Downloads teilweise erfolgreich; Ordneransicht leitet in dieser Cloud-Sitzung zur Anmeldung. Abrufe quellenspezifisch dokumentiert. Keine Vollständigkeitsbehauptung zur Drive-/Live-Abdeckung; offene Medien, Grafiken, Shortcuts und weitere Lektionen bleiben. Nur eigene Zusammenfassungen und Metadaten gespeichert.
+
+
+## ECC-Bestand · 26.10.2026
+
+**STATUS:** Gesamte bereitgestellte CSV ausgewertet und auf gezielte Folgefragen vorbereitet. Keine Bestätigung, dass der Export alle Unternehmenssysteme und alle Kunden enthält.
+
+50.694 Datenzeilen / 21 Spalten, 6.918 Kundennummern, 241 VMT-Kennungen, 60 Sparten. Nutzer-Screenshot liefert die vollständige Vertragsart-Legende: F = aktiv (DV), keine Interpretation als Fremdvertrag. 29.320 aktiv markierte Datensätze auf 6.147 Kundennummern, davon 26.840 A/F/H, 2.451 X ohne Betreuung und 29 K Korrespondenz. H im Export nicht vorhanden.
+
+**BEFUND:** 805 aktiv markierte Zeilen mit Stornodatum bis Stichtag; 29 exakte zusätzliche Doppelzeilen außerhalb der aktiven Gruppe. Weitere mögliche Vertragsmehrfachzeilen und ungewöhnliche Datumswerte dokumentiert. Kunden-/Sparten-/Gesellschaftsstruktur, Konzentration, simplr-Nutzung, Datumsverteilungen und ausdrücklich bedingte Beitragsrechnung abgelegt.
+
+**ABLAGE:** [Analyse](../research/companies/ecc/bestand/ANALYSIS.md), [Datenqualität](../research/companies/ecc/bestand/DATA_QUALITY.md), [Methodik](../research/companies/ecc/bestand/METHOD.md), [Legende](../research/companies/ecc/bestand/STATUS_LEGEND.md), [Quellen](../research/companies/ecc/bestand/SOURCES.md), [Fragenkatalog](../research/companies/ecc/bestand/QUESTION_GUIDE.md), maschinenlesbare Aggregate und reproduzierbares Python-Programm. Quelle/Hash und Grenzen sind festgehalten. Keine Kundendaten oder Original-CSV ins Repository übernommen.
+
+**VALIDIERUNG:** Alle Zeilen syntaktisch geprüft, Summen über Status/Sparten/Zahlweisen reconciliert; unabhängiger SQLite-Abgleich von Zeilen, Kunden und Rechenbeiträgen bestanden. Keine Aussage über tatsächliche Policengeltung oder Zahlung.
+
+**NÄCHSTER SCHRITT:** Gezielte Nutzerfragen beantworten; für Finanzfragen zuerst Periodenbasis/Währung und Courtageberechtigung abgleichen. Status-/Datumswidersprüche mit dem Quellsystem klären. Keine Kundenaktionen und keine Rohdatenmigration beauftragt.
+
+**Erste Folgefrage bearbeitet:** [Top 5 Gesellschaften](../research/companies/ecc/bestand/TOP5_GESELLSCHAFTEN.md) für Biometrie, Rente/bAV, Sach, KV Zusatz und KV Voll. Basis A/F/H nach Vertragszeilen, Kategorien explizit definiert; ursprüngliche Vermittlungsherkunft nicht nachgewiesen. Rangfolgen unabhängig über SQLite geprüft.

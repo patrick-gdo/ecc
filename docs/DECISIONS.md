@@ -49,3 +49,14 @@ Umfang: Kurs-/Modulstruktur und zugängliche Lektionen, Texte, Präsentationen, 
 Grenzen: Keine Zugangsdaten, personenbezogenen Daten oder vollständigen Originalmaterialien speichern. Keine Kurse als abgeschlossen markieren, Tests/Aufgaben einreichen oder Nachrichten versenden. Lernschranken nicht umgehen; dadurch offene Module und Medienzugangslücken ausdrücklich dokumentieren. Vollständigkeit erst nach quellenspezifischem Nachweis behaupten. Unternehmensdarstellung, dokumentierte interne Regeln und eigene Bewertung bleiben getrennt.
 
 Evidenz: Nutzerauftrag dieser Sitzung; KWU-Startseite und GitHub main am 25.10.2026 tatsächlich lesbar. Die Regeländerung ist keine Bestätigung wirtschaftlicher Wirksamkeit oder aktueller rechtlicher Zulässigkeit der Schulungsinhalte. Neubewertung bei weiterem Nutzerauftrag oder geänderten Zugriffsbedingungen.
+
+
+## DEC-006 – Eigene Bestandsanalyse unter ECC
+
+Datum: 26.10.2026 · Status: ausdrücklicher Nutzerauftrag.
+
+Den bereitgestellten Drive-CSV-Bestand vollständig analysieren, gezielte Folgefragen vorbereiten und Erkenntnisse unter dem Firmennamen ECC im bestehenden Repository ablegen. Nutzer stellte anschließend eine Screenshot-Legende zur Bedeutung der Vertragsarten bereit; sie bestimmt die Statuszuordnung.
+
+Entscheidung zur Wissensablage: `research/companies/ecc/bestand/`, eigene Aggregate, Quellen-/Hashnachweis, Rechenlogik und klar getrennte Datenfragen. Keine Kundendaten, Original-CSV oder vertraulichen Verträge ins Repository. ECC als Rubrik ist keine Bestätigung rechtlicher Eigentumsverhältnisse.
+
+Evidenz: ECC-BST-001 / ECC-BST-002. Keine Entscheidung über Produkte, Vergütungsmodell, Kundenansprache, Bestandsübertragung oder Verkaufspreis. Neubewertung bei neuem Export, korrigierten Status-/Datumswerten, verbindlicher Felddefinition oder ergänzenden Abrechnungs-/Rechtsunterlagen.
